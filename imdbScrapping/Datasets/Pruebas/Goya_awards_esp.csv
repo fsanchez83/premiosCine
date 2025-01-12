@@ -1,0 +1,118 @@
+﻿Year;Category;Status;Movie;MovieId;AssociatedPeople;AssociatedIds;Person;PersonId
+2022;BestAdaptedScreenplay(MejorGuiónAdaptado);Winner;Las leyes de la frontera;tt11892272;['Daniel Monzón', 'Jorge Guerricaechevarría'];['nm0600409', 'nm0346277'];;
+2022;BestAdaptedScreenplay(MejorGuiónAdaptado);Nominee;El ventre del mar;tt12831788;['Agustí Villaronga'];['nm0898063'];;
+2022;BestAdaptedScreenplay(MejorGuiónAdaptado);Nominee;Ama;tt11808288;['Júlia de Paz', 'Nuria Dunjó'];['nm2327950', 'nm9985568'];;
+2022;BestAdaptedScreenplay(MejorGuiónAdaptado);Nominee;Pan de limón con semillas de amapola;tt12658852;['Benito Zambrano', 'Cristina Campos'];['nm0952583', 'nm1370296'];;
+2022;BestAnimatedFilm(MejorPelículadeAnimación);Winner;Valentina;tt16277374;['Brandán de Brano', 'Chelo Loureiro', 'Luís da Matta Almeida', 'Mariano Baratech', 'Noa García'];['nm12287574', 'nm2055719', 'nm2238428', 'nm7314717', 'nm10707821'];;
+2022;BestAnimatedFilm(MejorPelículadeAnimación);Nominee;Gora Automatikoa;tt15502822;['Carlos Guerrero', 'David Galán Galindo', 'David Torres Vázquez', 'Esaú Dharma', 'Pablo Vara'];['nm12138178', 'nm2805715', 'nm7097132', 'nm5555636', 'nm4591651'];;
+2022;BestAnimatedFilm(MejorPelículadeAnimación);Nominee;Salvar el árbol;tt11132584;['Karmelo Vivanco', 'Egoitz Rodríguez Olea', 'Fernando Alonso', 'Jonatan Guzman', 'Nelson Botter Jr.'];['nm1302985', 'nm3804490', 'nm8228563', 'nm10759389', 'nm8228564'];;
+2022;BestAnimatedFilm(MejorPelículadeAnimación);Nominee;Mironins;tt16277420;['Álex Cervantes', 'Ángel Coronado', 'Anton Roebben', 'Eric Goossens', 'Iván Agenjo', 'Mikel Mas Bilbao', 'Oriol Roca'];['nm2635369', 'nm2876292', 'nm3799372', 'nm0329666', 'nm11257182', 'nm2004239', 'nm7899561'];;
+2022;BestAnimatedShortFilm(MejorCortometrajedeAnimación);Winner;The Monkey;tt13356010;"[""Lorenzo Degl' Innocenti"", 'Xosé Zapata', 'Diogo Carvalho', 'Nicolás Matji', 'Nuno Beato']";['nm5068494', 'nm1364853', 'nm4083164', 'nm1968081', 'nm3299019'];;
+2022;BestAnimatedShortFilm(MejorCortometrajedeAnimación);Nominee;Nacer;tt15723910;['Roberto Valle', 'Carlos Valle Casas', 'Iván Miñambres', 'Néstor López'];['nm9915071', 'nm7816458', 'nm3925447', 'nm8740167'];;
+2022;BestAnimatedShortFilm(MejorCortometrajedeAnimación);Nominee;Proceso de selección;tt16277252;['Carla Pereira Docampo', 'Paloma Mora'];['nm5451297', 'nm2053043'];;
+2022;BestAnimatedShortFilm(MejorCortometrajedeAnimación);Nominee;Umbrellas;tt15097114;['Álvaro Robles', 'Jose Prats', 'Ana María Ferri', 'Ramón Alòs Sánchez'];['nm12773118', 'nm6375336', 'nm5221339', 'nm1902902'];;
+2022;BestCinematography(MejorDireccióndeFotografía);Winner;Mediterráneo;tt9141588;['Kiko de la Rica'];['nm0209364'];;
+2022;BestCinematography(MejorDireccióndeFotografía);Nominee;Libertad;tt10589738;['Gris Jordana'];['nm1966322'];;
+2022;BestCinematography(MejorDireccióndeFotografía);Nominee;El buen patrón;tt13066182;['Pau Esteve Birba'];['nm1967127'];;
+2022;BestCinematography(MejorDireccióndeFotografía);Nominee;Madres paralelas;tt12618926;['José Luis Alcaine'];['nm0003900'];;
+2022;BestCostumeDesign(MejorDiseñodeVestuario);Winner;Las leyes de la frontera;tt11892272;['Vinyet Escobar'];['nm2689061'];;
+2022;BestCostumeDesign(MejorDiseñodeVestuario);Nominee;El amor en su lugar;tt15444704;['Alberto Valcárcel'];['nm2539250'];;
+2022;BestCostumeDesign(MejorDiseñodeVestuario);Nominee;El buen patrón;tt13066182;['Fernando García'];['nm1275665'];;
+2022;BestCostumeDesign(MejorDiseñodeVestuario);Nominee;Maixabel;tt14077696;['Clara Bilbao'];['nm0082122'];;
+2022;BestDirector(MejorDirección);Winner;El buen patrón;tt13066182;;;Fernando León de Aranoa;nm0508208
+2022;BestDirector(MejorDirección);Nominee;Madres paralelas;tt12618926;;;Pedro Almodóvar;nm0000264
+2022;BestDirector(MejorDirección);Nominee;Maixabel;tt14077696;;;Icíar Bollaín;nm0093081
+2022;BestDirector(MejorDirección);Nominee;La hija;tt11270054;;;Manuel Martín Cuenca;nm0554532
+2022;BestDocumentary(MejorPelículaDocumental);Winner;Quién lo impide;tt15398166;['Javier Lafuente', 'Laura Renau', 'Lorena Tudela'];['nm2141875', 'nm2514701', 'nm3643360'];;
+2022;BestDocumentary(MejorPelículaDocumental);Nominee;El retorno. La vida después del ISIS;tt14030566;['Alba Sotorra', 'Carles Torras', 'Vesna Cudic'];['nm5159658', 'nm2089231', 'nm2244424'];;
+2022;BestDocumentary(MejorPelículaDocumental);Nominee;Héroes. Silencio y Rock & Roll;tt14354838;['José Pastor', 'Miguel Ángel Lamata', 'Raúl García Medrano', 'Vanessa Montfort'];['nm9067767', 'nm1532195', 'nm2323386', 'nm6765781'];;
+2022;BestDocumentary(MejorPelículaDocumental);Nominee;Un blues para Teherán;tt13550360;['Alejandra Mora', 'Lluís Miñarro'];['nm9698250', 'nm0583973'];;
+2022;BestDocumentary(MejorPelículaDocumental);Nominee;El retorno. La vida después del ISIS;tt14030566;['Sam Collyns'];['nm1857113'];;
+2022;BestDocumentaryShortFilm(MejorCortometrajeDocumental);Winner;Mama;tt12725124;['Pablo de la Chica', 'David Casas Riesco', 'David Torres Vázquez', 'Diego Urruchi', 'Eduardo Jiménez Abad', 'Fernando J. Monge', 'Jordi Rubio Bobet', 'Kathleen McInnis', 'Miguel González Familiar', 'Néstor López', 'Soo-Jeong Kang'];['nm3631116', 'nm2674007', 'nm7097132', 'nm2139022', 'nm4013953', 'nm5937145', 'nm5608795', 'nm0570603', 'nm4013764', 'nm8740167', 'nm13169044'];;
+2022;BestDocumentaryShortFilm(MejorCortometrajeDocumental);Nominee;Dajla. Cine y olvido;tt13135406;['Arturo Dueñas Herrero'];['nm4386173'];;
+2022;BestDocumentaryShortFilm(MejorCortometrajeDocumental);Nominee;Figurante;tt16277292;['Nacho Fernández', 'Cristóbal García'];['nm12691254', 'nm3435405'];;
+2022;BestDocumentaryShortFilm(MejorCortometrajeDocumental);Nominee;ULISSES;tt15782982;['Joan Bover'];['nm8681115'];;
+2022;BestEditing(MejorMontaje);Winner;El buen patrón;tt13066182;['Vanessa Marimbert'];['nm1233367'];;
+2022;BestEditing(MejorMontaje);Nominee;Josefina;tt8422726;['Miguel Doblado'];['nm1519949'];;
+2022;BestEditing(MejorMontaje);Nominee;Maixabel;tt14077696;['Nacho Ruiz Capillas'];['nm0749593'];;
+2022;BestEditing(MejorMontaje);Nominee;Bajocero;tt9845564;['Antonio Frutos'];['nm1626832'];;
+2022;BestEuropeanFilm(MejorPelículaEuropea);Winner;Otra ronda;tt10288566;[];[];;
+2022;BestEuropeanFilm(MejorPelículaEuropea);Nominee;Una joven prometedora;tt9620292;[];[];;
+2022;BestEuropeanFilm(MejorPelículaEuropea);Nominee;Adiós, idiotas;tt10196398;[];[];;
+2022;BestEuropeanFilm(MejorPelículaEuropea);Nominee;El hombre perfecto;tt13087796;[];[];;
+2022;BestFilm(MejorPelícula);Winner;El buen patrón;tt13066182;['Fernando León de Aranoa', 'Jaume Roures', 'Javier Méndez'];['nm0508208', 'nm1255565', 'nm0579057'];;
+2022;BestFilm(MejorPelícula);Nominee;Madres paralelas;tt12618926;['Agustín Almodóvar', 'Esther García'];['nm0021948', 'nm0306088'];;
+2022;BestFilm(MejorPelícula);Nominee;Maixabel;tt14077696;['Guillermo Sempere', 'Juan Moreno', 'Koldo Zuazua'];['nm0783896', 'nm1879213', 'nm1086949'];;
+2022;BestFilm(MejorPelícula);Nominee;Mediterráneo;tt9141588;['Adrià Monés', 'Ibon Cormenzana', 'Ignasi Estapé', 'Sandra Tapia', 'Sergi Moreno', 'Tono Folguera'];['nm2596211', 'nm1028742', 'nm3882588', 'nm3609890', 'nm4022330', 'nm1872134'];;
+2022;BestFilm(MejorPelícula);Nominee;Libertad;tt10589738;['María Zamora', 'Sergi Moreno', 'Stefan Schmitz', 'Tono Folguera'];['nm1439846', 'nm4022330', 'nm0773524', 'nm1872134'];;
+2022;BestIberoamericanFilm(MejorPelículaIberoamericana);Winner;La cordillera de los sueños;tt9567718;[];[];;
+2022;BestIberoamericanFilm(MejorPelículaIberoamericana);Nominee;Canción sin nombre;tt1824932;[];[];;
+2022;BestIberoamericanFilm(MejorPelículaIberoamericana);Nominee;Las Siamesas;tt13528580;[];[];;
+2022;BestIberoamericanFilm(MejorPelículaIberoamericana);Nominee;Los Lobos;tt9057808;[];[];;
+2022;BestLeadActor(MejorActorProtagonista);Winner;El buen patrón;tt13066182;;;Javier Bardem;nm0000849
+2022;BestLeadActor(MejorActorProtagonista);Nominee;La hija;tt11270054;;;Javier Gutiérrez;nm0349522
+2022;BestLeadActor(MejorActorProtagonista);Nominee;Maixabel;tt14077696;;;Luis Tosar;nm0869088
+2022;BestLeadActor(MejorActorProtagonista);Nominee;Mediterráneo;tt9141588;;;Eduard Fernández;nm0273464
+2022;BestLeadActress(MejorActrizProtagonista);Winner;Maixabel;tt14077696;;;Blanca Portillo;nm0692391
+2022;BestLeadActress(MejorActrizProtagonista);Nominee;Madres paralelas;tt12618926;;;Penélope Cruz;nm0004851
+2022;BestLeadActress(MejorActrizProtagonista);Nominee;La vida era eso;tt10395398;;;Petra Martínez;nm0555296
+2022;BestLeadActress(MejorActrizProtagonista);Nominee;Josefina;tt8422726;;;Emma Suárez;nm0840772
+2022;BestMakeupandHairstyles(MejorMaquillajeyPeluquería);Winner;Las leyes de la frontera;tt11892272;['Sarai Rodríguez', 'Benjamín Pérez', 'Nacho Díaz'];['nm1939849', 'nm5652389', 'nm0246692'];;
+2022;BestMakeupandHairstyles(MejorMaquillajeyPeluquería);Nominee;El buen patrón;tt13066182;['Almudena Fonseca', 'Manolo García'];['nm0284645', 'nm0306323'];;
+2022;BestMakeupandHairstyles(MejorMaquillajeyPeluquería);Nominee;Maixabel;tt14077696;['Karmele Soler', 'Sergio Pérez Berbel'];['nm0812960', 'nm1027532'];;
+2022;BestMakeupandHairstyles(MejorMaquillajeyPeluquería);Nominee;Libertad;tt19369474;['Eli Adánez', 'Sergio Pérez Berbel', 'Nacho Díaz'];['nm0012558', 'nm1027532', 'nm0246692'];;
+2022;BestNewActor(MejorActorRevelación);Winner;Las leyes de la frontera;tt11892272;;;Chechu Salgado;nm6835820
+2022;BestNewActor(MejorActorRevelación);Nominee;El buen patrón;tt13066182;;;Tarik Rmili;nm6593670
+2022;BestNewActor(MejorActorRevelación);Nominee;El buen patrón;tt13066182;;;Óscar de la Fuente;nm2995197
+2022;BestNewActor(MejorActorRevelación);Nominee;Lucas;tt9311532;;;Jorge Motos;nm8194718
+2022;BestNewActress(MejorActrizRevelación);Winner;Maixabel;tt14077696;;;María Cerezuela;nm12331486
+2022;BestNewActress(MejorActrizRevelación);Nominee;Libertad;tt10589738;;;Nicolle García;nm10814834
+2022;BestNewActress(MejorActrizRevelación);Nominee;Chavalas;tt10835642;;;Ángela Cervantes;nm6612698
+2022;BestNewActress(MejorActrizRevelación);Nominee;El buen patrón;tt13066182;;;Almudena Amor;nm11579814
+2022;BestNewDirector(MejorDireccciónNovel);Winner;Libertad;tt10589738;;;Clara Roquet;nm4652014
+2022;BestNewDirector(MejorDireccciónNovel);Nominee;Josefina;tt8422726;;;Javier Marco;nm2467575
+2022;BestNewDirector(MejorDireccciónNovel);Nominee;Chavalas;tt10835642;;;Carol Rodríguez Colás;nm3706225
+2022;BestNewDirector(MejorDireccciónNovel);Nominee;La vida era eso;tt10395398;;;David Martín de los Santos;nm1875669
+2022;BestOriginalScore(MejorMúsicaOriginal);Winner;El buen patrón;tt13066182;['Zeltia Montes'];['nm3155308'];;
+2022;BestOriginalScore(MejorMúsicaOriginal);Nominee;Maixabel;tt14077696;['Alberto Iglesias'];['nm0407076'];;
+2022;BestOriginalScore(MejorMúsicaOriginal);Nominee;Mediterráneo;tt9141588;['Arnau Bataller'];['nm1703899'];;
+2022;BestOriginalScore(MejorMúsicaOriginal);Nominee;La abuela;tt11807888;['Fatima Al Qadiri'];['nm10641649'];;
+2022;BestOriginalScreenplay(MejorGuiónOriginal);Winner;El buen patrón;tt13066182;['Fernando León de Aranoa'];['nm0508208'];;
+2022;BestOriginalScreenplay(MejorGuiónOriginal);Nominee;Libertad;tt10589738;['Clara Roquet'];['nm4652014'];;
+2022;BestOriginalScreenplay(MejorGuiónOriginal);Nominee;Maixabel;tt14077696;['Icíar Bollaín', 'Isa Campo'];['nm0093081', 'nm3040373'];;
+2022;BestOriginalScreenplay(MejorGuiónOriginal);Nominee;Tres;tt13276160;['Juanjo Giménez Peña', 'Pere Altimira'];['nm0319781', 'nm2185386'];;
+2022;BestOriginalSong(MejorCanciónOriginal);Winner;Mediterráneo;tt9141588;['María José Llergo'];['nm11260296'];;
+2022;BestOriginalSong(MejorCanciónOriginal);Nominee;Las leyes de la frontera;tt11892272;['Alejandro García Rodríguez', 'Antonio Molinero León', 'Daniel Escortell Blandino', 'José Manuel Cabrera Escot', 'Miguel García Cantero'];['nm13166694', 'nm13166695', 'nm13166696', 'nm13166698', 'nm13166697'];;
+2022;BestOriginalSong(MejorCanciónOriginal);Nominee;El Cover;tt11206172;['Antonio Orozco', 'Jordi Colell Pinillos'];['nm1763735', 'nm13169179'];;
+2022;BestOriginalSong(MejorCanciónOriginal);Nominee;Álbum de posguerra;tt14596422;['Àngel Leiro', 'Jean-Paul Dupeyron', 'Xavier Capellas'];['nm1973421', 'nm4932823', 'nm0135056'];;
+2022;BestProductionDesign(MejorDirecciónArtística);Winner;Las leyes de la frontera;tt11892272;['Balter Gallart'];['nm0302642'];;
+2022;BestProductionDesign(MejorDirecciónArtística);Nominee;Madres paralelas;tt12618926;['Antxón Gómez'];['nm0351016'];;
+2022;BestProductionDesign(MejorDirecciónArtística);Nominee;El buen patrón;tt13066182;['César Macarrón'];['nm0531263'];;
+2022;BestProductionDesign(MejorDirecciónArtística);Nominee;Maixabel;tt14077696;['Mikel Serrano'];['nm1409074'];;
+2022;BestProductionManager(MejorDireccióndeProducción);Winner;Mediterráneo;tt9141588;['Albert Espel', 'Kostas Sfakianakis'];['nm1395508', 'nm3722371'];;
+2022;BestProductionManager(MejorDireccióndeProducción);Nominee;El amor en su lugar;tt15444704;['Óscar Vigiola'];['nm0896991'];;
+2022;BestProductionManager(MejorDireccióndeProducción);Nominee;El buen patrón;tt13066182;['Luis Gutiérrez'];['nm0349551'];;
+2022;BestProductionManager(MejorDireccióndeProducción);Nominee;Maixabel;tt14077696;['Guadalupe Balaguer Trelles'];['nm1920504'];;
+2022;BestShortFictionFilm(MejorCortometrajedeFicción);Winner;Tótem Loba;tt13618724;['Verónica Echegui', 'Álex García', 'Arturo Valls', 'Carmela Martínez Oliart', 'Félix Tusell Sánchez'];['nm1531585', 'nm1073929', 'nm0885219', 'nm6668114', 'nm6492239'];;
+2022;BestShortFictionFilm(MejorCortometrajedeFicción);Nominee;Farrucas;tt12237226;['Ian de la Rosa', 'Carlotta Schiavon', 'Inés Massa', 'Jana Diaz Juhl', 'Pau Brunet'];['nm7286211', 'nm5348429', 'nm5338477', 'nm3330854', 'nm3706146'];;
+2022;BestShortFictionFilm(MejorCortometrajedeFicción);Nominee;Yalla;tt13120626;"[""Carlo D'Ursi""]";['nm1945161'];;
+2022;BestShortFictionFilm(MejorCortometrajedeFicción);Nominee;Mindanao;tt14711846;['Borja Soler', 'Eduardo Villanueva', 'Lorena Lluch'];['nm2111339', 'nm3121540', 'nm5417816'];;
+2022;BestShortFictionFilm(MejorCortometrajedeFicción);Nominee;Votamos;tt14715156;['Santiago Requejo'];['nm4176058'];;
+2022;BestSound(MejorSonido);Winner;Tres;tt13276160;['Dani Fontrodona', 'Oriol Tarragó', 'Marc Bech', 'Marc Orts'];['nm0285114', 'nm1088262', 'nm3655439', 'nm0651377'];;
+2022;BestSound(MejorSonido);Nominee;El buen patrón;tt13066182;['Iván Marín', 'Pelayo Gutiérrez', 'Valeria Arcieri'];['nm0555942', 'nm0349582', 'nm10256247'];;
+2022;BestSound(MejorSonido);Nominee;Madres paralelas;tt12618926;['Sergio Bürmann', 'Laia Casanovas', 'Marc Orts'];['nm0122204', 'nm4349901', 'nm0651377'];;
+2022;BestSound(MejorSonido);Nominee;Maixabel;tt14077696;['Alazne Ameztoy', 'Juan Ferro', 'Candela Palencia'];['nm0024763', 'nm1570897', 'nm7763521'];;
+2022;BestSpecialEffects(MejoresEfectosEspeciales);Winner;Way Down;tt9742794;['Pau Costa', 'Laura Pedro'];['nm0182046', 'nm5392506'];;
+2022;BestSpecialEffects(MejoresEfectosEspeciales);Nominee;El buen patrón;tt13066182;['Raúl Romanillos', 'Miriam Piquer'];['nm0738829', 'nm4795994'];;
+2022;BestSpecialEffects(MejoresEfectosEspeciales);Nominee;La abuela;tt11807888;['Raúl Romanillos', 'Ferran Piquer'];['nm0738829', 'nm1615288'];;
+2022;BestSpecialEffects(MejoresEfectosEspeciales);Nominee;Mediterráneo;tt9141588;['Àlex Villagrasa'];['nm2156902'];;
+2022;BestSupportingActor(MejorActordeReparto);Winner;Maixabel;tt14077696;;;Urko Olazabal;nm6222172
+2022;BestSupportingActor(MejorActordeReparto);Nominee;El buen patrón;tt13066182;;;Manolo Solo;nm1254805
+2022;BestSupportingActor(MejorActordeReparto);Nominee;El buen patrón;tt13066182;;;Celso Bugallo;nm0119438
+2022;BestSupportingActor(MejorActordeReparto);Nominee;El buen patrón;tt13066182;;;Fernando Albizu;nm0016864
+2022;BestSupportingActress(MejorActrizdeReparto);Winner;Libertad;tt10589738;;;Nora Navas;nm1155977
+2022;BestSupportingActress(MejorActrizdeReparto);Nominee;Madres paralelas;tt12618926;;;Aitana Sánchez-Gijón;nm0845209
+2022;BestSupportingActress(MejorActrizdeReparto);Nominee;Madres paralelas;tt12618926;;;Milena Smit;nm9875384
+2022;BestSupportingActress(MejorActrizdeReparto);Nominee;El buen patrón;tt13066182;;;Sonia Almarcha;nm0971346
+2022;Honorary(Honorifico);Winner;;;;;José Sacristán;nm0755364
+2022;Honorary(Honorifico);Winner;;;;;Cate Blanchett;nm0000949
