@@ -1,0 +1,141 @@
+﻿Year,Category,Status,Movie,MovieId,AssociatedPeople,AssociatedIds,Person,PersonId
+2025,BestAdaptedScreenplay(MejorGuiónAdaptado),Nominee,La casa,tt8038682,"['Álex Montoya', 'Joana M. Ortueta']","['nm0600257', 'nm3672595']",,
+2025,BestAdaptedScreenplay(MejorGuiónAdaptado),Nominee,La habitación de al lado,tt29439114,['Pedro Almodóvar'],['nm0000264'],,
+2025,BestAdaptedScreenplay(MejorGuiónAdaptado),Nominee,Los destellos,tt26923334,['Pilar Palomero'],['nm1970178'],,
+2025,BestAdaptedScreenplay(MejorGuiónAdaptado),Nominee,Salve Maria,tt21920688,"['Mar Coll', 'Valentina Viso']","['nm2025290', 'nm2077038']",,
+2025,BestAdaptedScreenplay(MejorGuiónAdaptado),Nominee,Soy Nevenka,tt30973261,"['Icíar Bollaín', 'Isa Campo']","['nm0093081', 'nm3040373']",,
+2025,BestAnimatedFilm(MejorPelículadeAnimación),Nominee,Buffalo Kids,tt26530493,"['Juan Jesús García Galocha', 'Pedro Solís García', 'Marc Sabé', 'Jaime Ortiz de Artiñano', 'Clever Beretta Custodio', 'Ignacio Salazar-Simpson', 'Jordi Gasull', 'Ricardo Marco Budé', 'Toni Novella', 'Francisco Celma']","['nm5231416', 'nm3433064', 'nm7864045', 'nm2952186', 'nm10976045', 'nm0757661', 'nm0309027', 'nm7864046', 'nm0637013', 'nm9532035']",,
+2025,BestAnimatedFilm(MejorPelículadeAnimación),Nominee,Rock Bottom,tt11317914,"['María Trénor', 'Marcin Wasilewski', 'Wojciech Leszczynski', 'Adán Aliaga', 'Miguel Molina', 'Dani Bagur', 'Robert Jaszczurowski', 'Lukasz Kacprowicz', 'Anna Mroczek', 'Alba Sotorra']","['nm1556151', 'nm2977103', 'nm7512373', 'nm1226774', 'nm3005868', 'nm14496262', 'nm6436740', 'nm2978174', 'nm7512374', 'nm5159658']",,
+2025,BestAnimatedFilm(MejorPelículadeAnimación),Nominee,Dragonkeeper (Guardiana de dragones),tt7093904,"['Salvador Simó', 'Aurora de Cos', 'Mingyu Peng', 'Ruoqing Fu', 'Yang Lihe', 'Song Weiwei', 'Jianping Li', 'Tro Juanyu', 'Larry Levene', 'Pedro Pérez']","['nm1050535', 'nm16842279', 'nm3126318', 'nm6206178', 'nm11984629', 'nm11984626', 'nm4061621', 'nm16842280', 'nm1982968', 'nm14601436']",,
+2025,BestAnimatedFilm(MejorPelículadeAnimación),Nominee,Mariposas Negras,tt28061840,"['Marc Sabé', 'Cesar Zelada', 'David Baute', 'Edmon Roch']","['nm7864045', 'nm8813915', 'nm3930122', 'nm0733730']",,
+2025,BestAnimatedFilm(MejorPelículadeAnimación),Nominee,SuperKlaus,tt24659406,"['Steve Majaury', 'Andrea Sebastiá', 'Nacho La Casa', 'Francois Trudel', 'Dario Sanchez Diaz']","['nm0538037', 'nm14331475', 'nm4385418', 'nm3081231', 'nm8099167']",,
+2025,BestAnimatedShortFilm(MejorCortometrajedeAnimación),Nominee,Cafunè,tt31414422,"['Carlos Fernandez de Vigo', 'Lorena Ares', 'Sergy Moreno', 'Mintxo Diaz', 'Damián Perea']","['nm5813583', 'nm4734236', 'nm4691795', 'nm5275966', 'nm0672986']",,
+2025,BestAnimatedShortFilm(MejorCortometrajedeAnimación),Nominee,El cambio de rueda,tt33069728,"['Bego Arostegui', 'Fernando Franco', 'Elías León Siminiani', 'Ainhoa Ramírez']","['nm2888232', 'nm1136120', 'nm1119672', 'nm4774420']",,
+2025,BestAnimatedShortFilm(MejorCortometrajedeAnimación),Nominee,La mujer Ilustrada,tt29930823,"['Isabel Herguera', 'Diego Herguera Acosta']","['nm1970567', 'nm15470536']",,
+2025,BestAnimatedShortFilm(MejorCortometrajedeAnimación),Nominee,"Lola, Lolita, Lolaza",tt32582657,"['Raúl Berdones', 'Mabel Lozano', 'Chelo Loureiro', 'Pablo Jimeno']","['nm10999930', 'nm0523592', 'nm2055719', 'nm10999929']",,
+2025,BestAnimatedShortFilm(MejorCortometrajedeAnimación),Nominee,Wan,tt33502142,"['Víctor Monigote', 'Carlos Ayerbe']","['nm2857166', 'nm16558803']",,
+2025,BestArtDirection(MejorDireccióndeArte),Nominee,El 47,tt27751957,['Marta Bazaco'],['nm2469886'],,
+2025,BestArtDirection(MejorDireccióndeArte),Nominee,La habitación de al lado,tt29439114,['Inbal Weinberg'],['nm1234866'],,
+2025,BestArtDirection(MejorDireccióndeArte),Nominee,La virgen roja,tt27599713,['Javier Alvariño'],['nm1094908'],,
+2025,BestArtDirection(MejorDireccióndeArte),Nominee,Segundo premio,tt27518776,['Pepe Domínguez del Olmo'],['nm1868854'],,
+2025,BestArtDirection(MejorDireccióndeArte),Nominee,Volveréis,tt32128317,['Miguel Ángel Rebollo'],['nm2401924'],,
+2025,BestCinematography(MejorDireccióndeFotografía),Nominee,El 47,tt27751957,['Isaac Vila'],['nm1302961'],,
+2025,BestCinematography(MejorDireccióndeFotografía),Nominee,La habitación de al lado,tt29439114,['Eduard Grau'],['nm1880996'],,
+2025,BestCinematography(MejorDireccióndeFotografía),Nominee,La infiltrada,tt29270150,['Javier Salmones'],['nm0005855'],,
+2025,BestCinematography(MejorDireccióndeFotografía),Nominee,Segundo premio,tt27518776,['Takuro Takeuchi'],['nm1945115'],,
+2025,BestCinematography(MejorDireccióndeFotografía),Nominee,Soy Nevenka,tt30973261,['Gris Jordana'],['nm1966322'],,
+2025,BestCostumeDesign(MejorDiseñodeVestuario),Nominee,"Disco, Ibiza, Locomía",tt27396895,"['Ester Palaudàries', 'Vinyet Escobar']","['nm3037458', 'nm2689061']",,
+2025,BestCostumeDesign(MejorDiseñodeVestuario),Nominee,El 47,tt27751957,"['Irantzu Campos', 'Olga Rodal']","['nm2023975', 'nm3511997']",,
+2025,BestCostumeDesign(MejorDiseñodeVestuario),Nominee,La habitación de al lado,tt29439114,['Bina Daigeler'],['nm0197257'],,
+2025,BestCostumeDesign(MejorDiseñodeVestuario),Nominee,La virgen roja,tt27599713,['Arantxa Ezquerro'],['nm1895399'],,
+2025,BestCostumeDesign(MejorDiseñodeVestuario),Nominee,Segundo premio,tt27518776,['Lourdes Fuentes'],['nm2661987'],,
+2025,BestDirector(MejorDirección),Nominee,Pol Rodríguez,,,,Isaki Lacuesta,nm1050097
+2025,BestDirector(MejorDirección),Nominee,La habitación de al lado,tt29439114,,,Pedro Almodóvar,nm0000264
+2025,BestDirector(MejorDirección),Nominee,Jon Garaño,,,,Aitor Arregi,nm1534594
+2025,BestDirector(MejorDirección),Nominee,La infiltrada,tt29270150,,,Arantxa Echevarría,nm0248401
+2025,BestDirector(MejorDirección),Nominee,La virgen roja,tt27599713,,,Paula Ortiz,nm2315216
+2025,BestDocumentary(MejorPelículaDocumental),Nominee,Domingo Domingo,tt23221304,"['Laura Garcia Andreu', 'Rafael Moles', 'Arunas Matelis', 'Pepe Andreu']","['nm14202139', 'nm6507799', 'nm1644484', 'nm6507801']",,
+2025,BestDocumentary(MejorPelículaDocumental),Nominee,La guitarra flamenca de Yerai Cortés,tt33336813,"['C. Tangana', 'Cristina Trenas', 'Santos Bacana']","['nm9415195', 'nm5310825', 'nm10907131']",,
+2025,BestDocumentary(MejorPelículaDocumental),Nominee,Mi hermano Ali,tt32554051,['Paula Palacios'],['nm7605130'],,
+2025,BestDocumentary(MejorPelículaDocumental),Nominee,No estás sola: La lucha contra la manada,tt31410930,"['Almudena Carracedo', 'Robert Bahar']","['nm2757258', 'nm1147094']",,
+2025,BestDocumentary(MejorPelículaDocumental),Nominee,"Marisol, llámame Pepa",tt28750451,"['Blanca Torres', 'José Carlos de Isla', 'Chema de la Peña', 'Paco Ortiz']","['nm4775436', 'nm1973458', 'nm0679154', 'nm2110181']",,
+2025,BestDocumentaryShortFilm(MejorCortometrajeDocumental),Nominee,Ciao bambina,tt31324022,"['Afioco', 'Carolina Yuste', ""Carlo D'Ursi"", 'Jorge Garrido']","['nm8853062', 'nm3660766', 'nm1945161', 'nm1953522']",,
+2025,BestDocumentaryShortFilm(MejorCortometrajeDocumental),Nominee,Els buits,tt31314146,"['Isa Luengo', 'Sofia Esteve Santonja', 'Marina Freixa Roca', 'Carlotta Schiavon', 'Ian de la Rosa', 'Laura Rubirola']","['nm9656327', 'nm8991369', 'nm13074718', 'nm5348429', 'nm7286211', 'nm5234963']",,
+2025,BestDocumentaryShortFilm(MejorCortometrajeDocumental),Nominee,Las novias del sur,tt32146402,"['Elena López Riera', 'Eugenia Mumenthaler', 'David Epiney', 'Pepe Andreu', 'Rafael Moles']","['nm7410448', 'nm3743814', 'nm1872753', 'nm6507801', 'nm6507799']",,
+2025,BestDocumentaryShortFilm(MejorCortometrajeDocumental),Nominee,Los 30 (no) son los nuevos 20,tt23810800,"['Juan Vicente Castillejo', 'Alfonso Palazón Meseguer']","['nm6411196', 'nm6057891']",,
+2025,BestDocumentaryShortFilm(MejorCortometrajeDocumental),Nominee,Semillas de Kivu,tt16158398,"['Carlos Valle Casas', 'Néstor López', 'Pilar Sancho', 'Pepe Castro', 'Iván Miñambres', 'David Pérez Sañudo']","['nm7816458', 'nm8740167', 'nm0761108', 'nm14130896', 'nm3925447', 'nm4053711']",,
+2025,BestEditing(MejorMontaje),Nominee,El 47,tt27751957,['Nacho Ruiz Capillas'],['nm0749593'],,
+2025,BestEditing(MejorMontaje),Nominee,La estrella azul,tt11941694,"['Javier Macipe', 'Nacho Blasco']","['nm4200653', 'nm1424394']",,
+2025,BestEditing(MejorMontaje),Nominee,La infiltrada,tt29270150,['Victoria Lammers'],['nm5333514'],,
+2025,BestEditing(MejorMontaje),Nominee,Los pequeños amores,tt21223304,['Fernando Franco'],['nm1136120'],,
+2025,BestEditing(MejorMontaje),Nominee,Segundo premio,tt27518776,['Javi Frutos'],['nm2158839'],,
+2025,BestEuropeanFilm(MejorPelículaEuropea),Nominee,El conde de Montecristo,tt26446278,[],[],,
+2025,BestEuropeanFilm(MejorPelículaEuropea),Nominee,Emilia Pérez,tt20221436,[],[],,
+2025,BestEuropeanFilm(MejorPelículaEuropea),Nominee,"Flow, un mundo que salvar",tt4772188,[],[],,
+2025,BestEuropeanFilm(MejorPelículaEuropea),Nominee,La zona de interés,tt7160372,[],[],,
+2025,BestEuropeanFilm(MejorPelículaEuropea),Nominee,La quimera,tt14561712,[],[],,
+2025,BestFilm(MejorPelícula),Nominee,Segundo premio,tt27518776,['Cristóbal García'],['nm3435405'],,
+2025,BestFilm(MejorPelícula),Nominee,La infiltrada,tt29270150,"['Pablo Nogueroles', 'Mercedes Gamero', 'Álvaro Ariza', 'María Luisa Gutiérrez']","['nm8323253', 'nm0303922', 'nm6392189', 'nm0349562']",,
+2025,BestFilm(MejorPelícula),Nominee,El 47,tt27751957,"['Laura Fernández Espeso', 'Javier Méndez']","['nm2514152', 'nm0579057']",,
+2025,BestFilm(MejorPelícula),Nominee,La estrella azul,tt11941694,"['Amelia Hernández Causapé', 'Hernán Musaluppi', 'Simón de Santiago']","['nm9720574', 'nm0615537', 'nm2396645']",,
+2025,BestFilm(MejorPelícula),Nominee,Casa en llamas,tt29793197,"['Bernat Saumell', 'Kike Maíllo', 'Ariens Damsi', 'Ana Eiras', 'Dani de la Orden', 'Toni Carrizosa', 'Jaime Ortiz de Artiñano', 'Alberto Aranda']","['nm2986701', 'nm1665932', 'nm9438730', 'nm8479403', 'nm1738082', 'nm2694061', 'nm2952186', 'nm1555894']",,
+2025,BestIberoamericanFilm(MejorPelículaIberoamericana),Nominee,Agarrame fuerte,tt31318108,[],[],,
+2025,BestIberoamericanFilm(MejorPelículaIberoamericana),Nominee,Aún estoy aquí,tt14961016,[],[],,
+2025,BestIberoamericanFilm(MejorPelículaIberoamericana),Nominee,El Jockey,tt28231777,[],[],,
+2025,BestIberoamericanFilm(MejorPelículaIberoamericana),Nominee,El lugar de la otra,tt31796256,[],[],,
+2025,BestIberoamericanFilm(MejorPelículaIberoamericana),Nominee,Memorias de un cuerpo que arde,tt15716284,[],[],,
+2025,BestLeadActor(MejorActorProtagonista),Nominee,Marco,tt29298085,,,Eduard Fernández,nm0273464
+2025,BestLeadActor(MejorActorProtagonista),Nominee,Soy Nevenka,tt30973261,,,Urko Olazabal,nm6222172
+2025,BestLeadActor(MejorActorProtagonista),Nominee,Volveréis,tt32128317,,,Vito Sanz,nm5229490
+2025,BestLeadActor(MejorActorProtagonista),Nominee,Polvo serán,tt27142003,,,Alfredo Castro,nm0998846
+2025,BestLeadActor(MejorActorProtagonista),Nominee,Casa en llamas,tt29793197,,,Alberto San Juan,nm0760664
+2025,BestLeadActress(MejorActrizProtagonista),Nominee,Los destellos,tt26923334,,,Patricia López Arnaiz,nm3802082
+2025,BestLeadActress(MejorActrizProtagonista),Nominee,La habitación de al lado,tt29439114,,,Julianne Moore,nm0000194
+2025,BestLeadActress(MejorActrizProtagonista),Nominee,La habitación de al lado,tt29439114,,,Tilda Swinton,nm0842770
+2025,BestLeadActress(MejorActrizProtagonista),Nominee,Casa en llamas,tt29793197,,,Emma Vilarasau,nm0897401
+2025,BestLeadActress(MejorActrizProtagonista),Nominee,La infiltrada,tt29270150,,,Carolina Yuste,nm3660766
+2025,BestMakeupandHairstyles(MejorMaquillajeyPeluquería),Nominee,El 47,tt27751957,['Karol Tornaria'],['nm1288758'],,
+2025,BestMakeupandHairstyles(MejorMaquillajeyPeluquería),Nominee,La habitación de al lado,tt29439114,"['Morag Ross', 'Manolo García']","['nm0743709', 'nm0306323']",,
+2025,BestMakeupandHairstyles(MejorMaquillajeyPeluquería),Nominee,La infiltrada,tt29270150,"['Patricia Rodríguez', 'Tono Garzón']","['nm0736061', 'nm4652831']",,
+2025,BestMakeupandHairstyles(MejorMaquillajeyPeluquería),Nominee,La virgen roja,tt27599713,"['Eli Adánez', 'Paco Rodríguez Frías']","['nm0012558', 'nm1256155']",,
+2025,BestMakeupandHairstyles(MejorMaquillajeyPeluquería),Nominee,Marco,tt29298085,"['Karmele Soler', 'Sergio Pérez Berbel', 'Nacho Díaz']","['nm0812960', 'nm1027532', 'nm0246692']",,
+2025,BestNewActor(MejorActorRevelación),Nominee,La estrella azul,tt11941694,,,Pepe Lorente,nm2871370
+2025,BestNewActor(MejorActorRevelación),Nominee,La estrella azul,tt11941694,,,Cuti Carabajal,nm5368864
+2025,BestNewActor(MejorActorRevelación),Nominee,Segundo premio,tt27518776,,,Daniel Ibáñez,nm9311929
+2025,BestNewActor(MejorActorRevelación),Nominee,Segundo premio,tt27518776,,,Cristalino,nm14967451
+2025,BestNewActor(MejorActorRevelación),Nominee,¿Es el enemigo? La película de Gila,tt31809941,,,Oscar Lasarte,nm10057108
+2025,BestNewActress(MejorActrizRevelación),Nominee,El 47,tt27751957,,,Zoe Bonafonte,nm11138752
+2025,BestNewActress(MejorActrizRevelación),Nominee,La estrella azul,tt11941694,,,Mariela Carabajal,nm8809542
+2025,BestNewActress(MejorActrizRevelación),Nominee,Los destellos,tt26923334,,,Marina Guerola,nm15329095
+2025,BestNewActress(MejorActrizRevelación),Nominee,Salve Maria,tt21920688,,,Laura Weissmahr,nm6713944
+2025,BestNewActress(MejorActrizRevelación),Nominee,Soy Nevenka,tt30973261,,,Lucía Veiga,nm10224527
+2025,BestNewDirector(MejorDirecciónNovel),Nominee,La estrella azul,tt11941694,,,Javier Macipe,nm4200653
+2025,BestNewDirector(MejorDirecciónNovel),Nominee,Rita,tt31589922,,,Paz Vega,nm0891895
+2025,BestNewDirector(MejorDirecciónNovel),Nominee,Por donde pasa el silencio,tt26458495,,,Sandra Romero Acevedo,nm8568756
+2025,BestNewDirector(MejorDirecciónNovel),Nominee,El llanto,tt26750774,,,Pedro Martín-Calero,nm3911679
+2025,BestNewDirector(MejorDirecciónNovel),Nominee,Calladita,tt18291892,,,Miguel Faus,nm9328828
+2025,BestOriginalScore(MejorMúsicaOriginal),Nominee,La habitación de al lado,tt29439114,['Alberto Iglesias'],['nm0407076'],,
+2025,BestOriginalScore(MejorMúsicaOriginal),Nominee,Dragonkeeper (Guardiana de dragones),tt7093904,['Arturo Cardelús'],['nm4723660'],,
+2025,BestOriginalScore(MejorMúsicaOriginal),Nominee,La infiltrada,tt29270150,['Fernando Velázquez'],['nm1302939'],,
+2025,BestOriginalScore(MejorMúsicaOriginal),Nominee,Verano en diciembre,tt29804437,['Sergio de la Puente'],['nm1299481'],,
+2025,BestOriginalScore(MejorMúsicaOriginal),Nominee,El 47,tt27751957,['Arnau Bataller'],['nm1703899'],,
+2025,BestOriginalScreenplay(MejorGuiónOriginal),Nominee,Casa en llamas,tt29793197,['Eduard Sola'],['nm4485092'],,
+2025,BestOriginalScreenplay(MejorGuiónOriginal),Nominee,El 47,tt27751957,"['Alberto Marini', 'Marcel Barrena']","['nm1157609', 'nm2201717']",,
+2025,BestOriginalScreenplay(MejorGuiónOriginal),Nominee,La estrella azul,tt11941694,['Javier Macipe'],['nm4200653'],,
+2025,BestOriginalScreenplay(MejorGuiónOriginal),Nominee,La infiltrada,tt29270150,"['Amèlia Mora', 'Arantxa Echevarría']","['nm3306640', 'nm0248401']",,
+2025,BestOriginalScreenplay(MejorGuiónOriginal),Nominee,Marco,tt29298085,"['Aitor Arregi', 'Jon Garaño', 'Jorge Gil Munarriz', 'Jose Mari Goenaga']","['nm1534594', 'nm1531686', 'nm2014242', 'nm1305002']",,
+2025,BestOriginalSong(MejorCanciónOriginal),Nominee,Buffalo Kids,tt26530493,['Fernando Velázquez'],['nm1302939'],,
+2025,BestOriginalSong(MejorCanciónOriginal),Nominee,El 47,tt27751957,['Valeria Castro'],['nm12759510'],,
+2025,BestOriginalSong(MejorCanciónOriginal),Nominee,La guitarra flamenca de Yerai Cortés,tt33336813,"['C. Tangana', 'Yerai Cortés']","['nm9415195', 'nm13323827']",,
+2025,BestOriginalSong(MejorCanciónOriginal),Nominee,La virgen roja,tt27599713,['Maria Arnal'],['nm8128342'],,
+2025,BestOriginalSong(MejorCanciónOriginal),Nominee,Segundo premio,tt27518776,"['Alondra Bentley', 'Isaki Lacuesta']","['nm3693921', 'nm1050097']",,
+2025,BestProductionManager(MejorDireccióndeProducción),Nominee,Casa en llamas,tt29793197,['Laia Gómez'],['nm3018347'],,
+2025,BestProductionManager(MejorDireccióndeProducción),Nominee,La infiltrada,tt29270150,['Axier Pérez'],['nm0702094'],,
+2025,BestProductionManager(MejorDireccióndeProducción),Nominee,La virgen roja,tt27599713,['Kati Martí Donoghue'],['nm2134259'],,
+2025,BestProductionManager(MejorDireccióndeProducción),Nominee,Segundo premio,tt27518776,['Carlos Amoedo'],['nm2039708'],,
+2025,BestShortFictionFilm(MejorCortometrajedeFicción),Nominee,Betiko gaua,tt27899860,"['Eneko Sagardoy', 'Ander Barinaga-Rementeria', 'Carmen Lacasa', 'Ander Sagardoy', 'Paul Urkijo Alijo']","['nm7271801', 'nm5372218', 'nm7494841', 'nm11501869', 'nm4807465']",,
+2025,BestShortFictionFilm(MejorCortometrajedeFicción),Nominee,Cuarentena,tt30023213,"['Celia de Molina', 'María del Puy Alvarado']","['nm3899534', 'nm1966854']",,
+2025,BestShortFictionFilm(MejorCortometrajedeFicción),Nominee,El Trono,tt29932719,"['Lucía Jiménez', 'Arturo Valls', 'Carmela Martínez Oliart', 'Félix Tusell Sánchez']","['nm0422998', 'nm0885219', 'nm6668114', 'nm6492239']",,
+2025,BestShortFictionFilm(MejorCortometrajedeFicción),Nominee,La gran obra,tt30069369,"['Àlex Lora', 'Lluís Quílez']","['nm1205537', 'nm1589515']",,
+2025,BestShortFictionFilm(MejorCortometrajedeFicción),Nominee,Mamántula,tt28622893,"['Ion De Sosa', 'Leire Apellaniz', 'Paola Alvarez', 'Tasio']","['nm1968783', 'nm2138449', 'nm8385042', 'nm1234558']",,
+2025,BestSound(MejorSonido),Nominee,La estrella azul,tt11941694,"['Nicolas de Poulpiquet', 'Mayte Cabrera', 'Victor R. Puertas', 'Joaquín Rajadel', 'Amanda Villavieja']","['nm2336733', 'nm5173085', 'nm7083701', 'nm5657336', 'nm1072367']",,
+2025,BestSound(MejorSonido),Nominee,La habitación de al lado,tt29439114,"['Marc Orts', 'Sergio Bürmann', 'Anna Harrington']","['nm0651377', 'nm0122204', 'nm4991070']",,
+2025,BestSound(MejorSonido),Nominee,La infiltrada,tt29270150,"['Mayte Cabrera', 'Fabio Huete', 'Jorge Castillo Ballesteros', 'Miriam Lisón']","['nm5173085', 'nm0400154', 'nm7081775', 'nm5360969']",,
+2025,BestSound(MejorSonido),Nominee,La virgen roja,tt27599713,"['Nacho Royo-Villanova', 'Coque F. Lahera', 'Álex F. Capilla']","['nm0747431', 'nm1410854', 'nm1103845']",,
+2025,BestSound(MejorSonido),Nominee,Segundo premio,tt27518776,"['Diana Sagrista', 'Alejandro Castillo', 'Antonin Dalmasso', 'Eva Valiño']","['nm3733176', 'nm2194171', 'nm2967832', 'nm0884766']",,
+2025,BestSpecialEffects(MejoresEfectosEspeciales),Nominee,El 47,tt27751957,"['Laura Canals', 'Iván López Hernández']","['nm16256898', 'nm13074467']",,
+2025,BestSpecialEffects(MejoresEfectosEspeciales),Nominee,Dragonkeeper (Guardiana de dragones),tt7093904,['Xin Li'],['nm15418689'],,
+2025,BestSpecialEffects(MejoresEfectosEspeciales),Nominee,La infiltrada,tt29270150,"['Mariano García', 'Jon Serrano', 'Juliana Lasunción']","['nm6350824', 'nm6350823', 'nm11305145']",,
+2025,BestSpecialEffects(MejoresEfectosEspeciales),Nominee,La virgen roja,tt27599713,"['Raúl Romanillos', 'Juanma Nogales']","['nm0738829', 'nm1228444']",,
+2025,BestSpecialEffects(MejoresEfectosEspeciales),Nominee,Marco,tt29298085,"['Jon Serrano', 'Mariano García', 'David Heras']","['nm6350823', 'nm6350824', 'nm1623332']",,
+2025,BestSupportingActor(MejorActordeReparto),Nominee,Los destellos,tt26923334,,,Antonio de la Torre,nm0209409
+2025,BestSupportingActor(MejorActordeReparto),Nominee,La casa,tt8038682,,,Óscar de la Fuente,nm2995197
+2025,BestSupportingActor(MejorActordeReparto),Nominee,Casa en llamas,tt29793197,,,Enric Auquer,nm3606001
+2025,BestSupportingActor(MejorActordeReparto),Nominee,El 47,tt27751957,,,Salva Reina,nm1892699
+2025,BestSupportingActor(MejorActordeReparto),Nominee,La infiltrada,tt29270150,,,Luis Tosar,nm0869088
+2025,BestSupportingActress(MejorActrizdeReparto),Nominee,Casa en llamas,tt29793197,,,Macarena García,nm3475396
+2025,BestSupportingActress(MejorActrizdeReparto),Nominee,Casa en llamas,tt29793197,,,Maria Rodríguez Soto,nm4078485
+2025,BestSupportingActress(MejorActrizdeReparto),Nominee,El 47,tt27751957,,,Clara Segura,nm1443814
+2025,BestSupportingActress(MejorActrizdeReparto),Nominee,La infiltrada,tt29270150,,,Nausicaa Bonnín,nm0094678
+2025,BestSupportingActress(MejorActrizdeReparto),Nominee,La virgen roja,tt27599713,,,Aixa Villagrán,nm1938814
+2025,Honorary(Honorifico),Winner,,,,,Aitana Sánchez-Gijón,nm0845209
