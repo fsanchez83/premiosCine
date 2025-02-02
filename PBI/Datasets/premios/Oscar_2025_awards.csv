@@ -1,0 +1,126 @@
+﻿Year,Category,Status,Movie,MovieId,AssociatedPeople,AssociatedIds,Person,PersonId
+2025,BestMotionPictureoftheYear,Nominee,Wicked,tt1262426,['Marc Platt'],['nm0686887'],,
+2025,BestMotionPictureoftheYear,Nominee,La sustancia,tt17526714,[],[],,
+2025,BestMotionPictureoftheYear,Nominee,Anora,tt28607951,"['Alex Coco', 'Samantha Quan', 'Sean Baker']","['nm7866544', 'nm1013476', 'nm0048918']",,
+2025,BestMotionPictureoftheYear,Nominee,Cónclave,tt20215234,"['Tessa Ross', 'Juliette Howell', 'Michael Jackman']","['nm0743882', 'nm0397998', 'nm0413182']",,
+2025,BestMotionPictureoftheYear,Nominee,The Brutalist,tt8999762,[],[],,
+2025,BestMotionPictureoftheYear,Nominee,Dune: Parte dos,tt15239678,"['Mary Parent', 'Cale Boyter', 'Tanya Lapointe', 'Denis Villeneuve']","['nm0661289', 'nm1212547', 'nm7069070', 'nm0898288']",,
+2025,BestMotionPictureoftheYear,Nominee,Emilia Pérez,tt20221436,"['Pascal Caucheteux', 'Jacques Audiard']","['nm0146434', 'nm0002191']",,
+2025,BestMotionPictureoftheYear,Nominee,Nickel Boys,tt23055660,"['Dede Gardner', 'Jeremy Kleiner', 'Joslyn Barnes']","['nm0306890', 'nm1250070', 'nm0055656']",,
+2025,BestMotionPictureoftheYear,Nominee,Un completo desconocido,tt11563598,"['Fred Berger', 'James Mangold', 'Alex Heineman']","['nm1757754', 'nm0003506', 'nm2670366']",,
+2025,BestMotionPictureoftheYear,Nominee,Aún estoy aquí,tt14961016,[],[],,
+2025,BestPerformancebyanActorinaLeadingRole,Nominee,Un completo desconocido,tt11563598,,,Timothée Chalamet,nm3154303
+2025,BestPerformancebyanActorinaLeadingRole,Nominee,Cónclave,tt20215234,,,Ralph Fiennes,nm0000146
+2025,BestPerformancebyanActorinaLeadingRole,Nominee,The Brutalist,tt8999762,,,Adrien Brody,nm0004778
+2025,BestPerformancebyanActorinaLeadingRole,Nominee,Las vidas de Sing Sing,tt28479262,,,Colman Domingo,nm0231458
+2025,BestPerformancebyanActorinaLeadingRole,Nominee,The Apprentice (La historia de Trump),tt8368368,,,Sebastian Stan,nm1659221
+2025,BestPerformancebyanActressinaLeadingRole,Nominee,Anora,tt28607951,,,Mikey Madison,nm5700898
+2025,BestPerformancebyanActressinaLeadingRole,Nominee,Aún estoy aquí,tt14961016,,,Fernanda Torres,nm0868639
+2025,BestPerformancebyanActressinaLeadingRole,Nominee,La sustancia,tt17526714,,,Demi Moore,nm0000193
+2025,BestPerformancebyanActressinaLeadingRole,Nominee,Emilia Pérez,tt20221436,,,Karla Sofía Gascón,nm1035423
+2025,BestPerformancebyanActressinaLeadingRole,Nominee,Wicked,tt1262426,,,Cynthia Erivo,nm7248827
+2025,BestPerformancebyanActorinaSupportingRole,Nominee,A Real Pain,tt21823606,,,Kieran Culkin,nm0001085
+2025,BestPerformancebyanActorinaSupportingRole,Nominee,Un completo desconocido,tt11563598,,,Edward Norton,nm0001570
+2025,BestPerformancebyanActorinaSupportingRole,Nominee,Anora,tt28607951,,,Yura Borisov,nm5426973
+2025,BestPerformancebyanActorinaSupportingRole,Nominee,The Brutalist,tt8999762,,,Guy Pearce,nm0001602
+2025,BestPerformancebyanActorinaSupportingRole,Nominee,The Apprentice (La historia de Trump),tt8368368,,,Jeremy Strong,nm0834989
+2025,BestPerformancebyanActressinaSupportingRole,Nominee,Emilia Pérez,tt20221436,,,Zoe Saldana,nm0757855
+2025,BestPerformancebyanActressinaSupportingRole,Nominee,Wicked,tt1262426,,,Ariana Grande,nm3812858
+2025,BestPerformancebyanActressinaSupportingRole,Nominee,Cónclave,tt20215234,,,Isabella Rossellini,nm0000618
+2025,BestPerformancebyanActressinaSupportingRole,Nominee,Un completo desconocido,tt11563598,,,Monica Barbaro,nm4834815
+2025,BestPerformancebyanActressinaSupportingRole,Nominee,The Brutalist,tt8999762,,,Felicity Jones,nm0428065
+2025,BestAchievementinDirecting,Nominee,The Brutalist,tt8999762,,,Brady Corbet,nm1227232
+2025,BestAchievementinDirecting,Nominee,Emilia Pérez,tt20221436,,,Jacques Audiard,nm0002191
+2025,BestAchievementinDirecting,Nominee,Anora,tt28607951,,,Sean Baker,nm0048918
+2025,BestAchievementinDirecting,Nominee,La sustancia,tt17526714,,,Coralie Fargeat,nm0267287
+2025,BestAchievementinDirecting,Nominee,Un completo desconocido,tt11563598,,,James Mangold,nm0003506
+2025,BestOriginalScreenplay,Nominee,Anora,tt28607951,['Sean Baker'],['nm0048918'],,
+2025,BestOriginalScreenplay,Nominee,The Brutalist,tt8999762,"['Brady Corbet', 'Mona Fastvold']","['nm1227232', 'nm2178754']",,
+2025,BestOriginalScreenplay,Nominee,A Real Pain,tt21823606,['Jesse Eisenberg'],['nm0251986'],,
+2025,BestOriginalScreenplay,Nominee,La sustancia,tt17526714,['Coralie Fargeat'],['nm0267287'],,
+2025,BestOriginalScreenplay,Nominee,Septiembre 5,tt28082769,"['Moritz Binder', 'Tim Fehlbaum', 'Alex David']","['nm9415549', 'nm2959497', 'nm1017048']",,
+2025,BestAdaptedScreenplay,Nominee,Cónclave,tt20215234,['Peter Straughan'],['nm1661186'],,
+2025,BestAdaptedScreenplay,Nominee,Un completo desconocido,tt11563598,"['Jay Cocks', 'James Mangold']","['nm0168379', 'nm0003506']",,
+2025,BestAdaptedScreenplay,Nominee,Emilia Pérez,tt20221436,"['Jacques Audiard', 'Thomas Bidegain', 'Léa Mysius', 'Nicolas Livecchi']","['nm0002191', 'nm0081179', 'nm5674565', 'nm5365694']",,
+2025,BestAdaptedScreenplay,Nominee,Nickel Boys,tt23055660,"['RaMell Ross', 'Joslyn Barnes']","['nm8840476', 'nm0055656']",,
+2025,BestAdaptedScreenplay,Nominee,Las vidas de Sing Sing,tt28479262,"['Clint Bentley', 'Greg Kwedar', 'Clarence Maclin', 'John Divine G Whitfield']","['nm3286079', 'nm3613117', 'nm13697094', 'nm5874224']",,
+2025,BestAchievementinCinematography,Nominee,The Brutalist,tt8999762,['Lol Crawley'],['nm0187018'],,
+2025,BestAchievementinCinematography,Nominee,Nosferatu,tt5040012,['Jarin Blaschke'],['nm1144916'],,
+2025,BestAchievementinCinematography,Nominee,Dune: Parte dos,tt15239678,['Greig Fraser'],['nm0292132'],,
+2025,BestAchievementinCinematography,Nominee,Maria Callas,tt22893404,['Edward Lachman'],['nm0005767'],,
+2025,BestAchievementinCinematography,Nominee,Emilia Pérez,tt20221436,['Paul Guilhaume'],['nm5243556'],,
+2025,BestAchievementinFilmEditing,Nominee,Cónclave,tt20215234,['Nick Emerson'],['nm2512313'],,
+2025,BestAchievementinFilmEditing,Nominee,Anora,tt28607951,['Sean Baker'],['nm0048918'],,
+2025,BestAchievementinFilmEditing,Nominee,Emilia Pérez,tt20221436,['Juliette Welfling'],['nm0919761'],,
+2025,BestAchievementinFilmEditing,Nominee,Wicked,tt1262426,['Myron Kerstein'],['nm0450005'],,
+2025,BestAchievementinFilmEditing,Nominee,The Brutalist,tt8999762,['Dávid Jancsó'],['nm0417347'],,
+2025,BestAchievementinProductionDesign,Nominee,Wicked,tt1262426,"['Nathan Crowley', 'Lee Sandales']","['nm0189769', 'nm0761227']",,
+2025,BestAchievementinProductionDesign,Nominee,The Brutalist,tt8999762,"['Judy Becker', 'Patricia Cuccia']","['nm0065473', 'nm0190966']",,
+2025,BestAchievementinProductionDesign,Nominee,Dune: Parte dos,tt15239678,"['Shane Vieau', 'Patrice Vermette']","['nm0896580', 'nm0894411']",,
+2025,BestAchievementinProductionDesign,Nominee,Nosferatu,tt5040012,"['Craig Lathrop', 'Beatrice Brentnerova']","['nm0490154', 'nm1492239']",,
+2025,BestAchievementinProductionDesign,Nominee,Cónclave,tt20215234,"['Suzie Davies', 'Cynthia Sleiter']","['nm0203990', 'nm0003775']",,
+2025,BestAchievementinCostumeDesign,Nominee,Wicked,tt1262426,['Paul Tazewell'],['nm3477899'],,
+2025,BestAchievementinCostumeDesign,Nominee,Nosferatu,tt5040012,['Linda Muir'],['nm0611379'],,
+2025,BestAchievementinCostumeDesign,Nominee,Un completo desconocido,tt11563598,['Arianne Phillips'],['nm0680218'],,
+2025,BestAchievementinCostumeDesign,Nominee,Cónclave,tt20215234,['Lisy Christl'],['nm0160425'],,
+2025,BestAchievementinCostumeDesign,Nominee,Gladiator II,tt9218128,"['Janty Yates', 'David Crossman']","['nm0946765', 'nm0189366']",,
+2025,BestSound,Nominee,Un completo desconocido,tt11563598,"['Tod A. Maitland', 'Donald Sylvester', 'Ted Caplan', 'Paul Massey', 'David Giammarco']","['nm0537972', 'nm0843219', 'nm0135242', 'nm0557338', 'nm0316102']",,
+2025,BestSound,Nominee,Dune: Parte dos,tt15239678,"['Gareth John', 'Richard King', 'Ron Bartlett', 'Doug Hemphill']","['nm0424163', 'nm0455185', 'nm0058897', 'nm0376153']",,
+2025,BestSound,Nominee,Emilia Pérez,tt20221436,"['Erwan Kerzanet', 'Aymeric Devoldère', 'Maxence Dussère', 'Cyril Holtz', 'Niels Barletta']","['nm1052723', 'nm0222862', 'nm5687717', 'nm0392652', 'nm4069968']",,
+2025,BestSound,Nominee,Wicked,tt1262426,"['Simon Hayes', 'Nancy Nugent Title', 'Jack Dolman', 'Andy Nelson', 'John Marquis']","['nm1536532', 'nm0637810', 'nm3387973', 'nm0625144', 'nm1308738']",,
+2025,BestSound,Nominee,Robot salvaje,tt29623480,"['Randy Thom', 'Brian Chumney', 'Gary A. Rizzo', 'Leff Lefferts']","['nm0858378', 'nm1014073', 'nm0729886', 'nm1396496']",,
+2025,BestAchievementinMakeupandHairstyling,Nominee,A Different Man,tt21097228,"['Michael Marino', 'David Presto', 'Crystal Jurado']","['nm0002514', 'nm1404648', 'nm10455135']",,
+2025,BestAchievementinMakeupandHairstyling,Nominee,Emilia Pérez,tt20221436,"['Julia Floch-Carbonel', 'Emmanuel Janvier', 'Jean-Christophe Spadaccini']","['nm2086842', 'nm13243014', 'nm0816504']",,
+2025,BestAchievementinMakeupandHairstyling,Nominee,Nosferatu,tt5040012,"['David White', 'Traci Loader', 'Suzanne Stokes-Munton']","['nm0924675', 'nm0516365', 'nm0831404']",,
+2025,BestAchievementinMakeupandHairstyling,Nominee,La sustancia,tt17526714,"['Pierre Olivier Persin', 'Stéphanie Guillon', 'Marilyne Scarselli']","['nm1031952', 'nm1213050', 'nm3388862']",,
+2025,BestAchievementinMakeupandHairstyling,Nominee,Wicked,tt1262426,"['Frances Hannon', 'Laura Blount', 'Sarah Nuth']","['nm0360470', 'nm3368818', 'nm2942968']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalScore),Nominee,The Brutalist,tt8999762,['Daniel Blumberg'],['nm11771045'],,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalScore),Nominee,Cónclave,tt20215234,['Volker Bertelmann'],['nm2890617'],,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalScore),Nominee,Emilia Pérez,tt20221436,"['Clément Ducol', 'Camille']","['nm4711393', 'nm1722079']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalScore),Nominee,Wicked,tt1262426,"['John Powell', 'Stephen Schwartz']","['nm0694173', 'nm0777451']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalScore),Nominee,Robot salvaje,tt29623480,['Kris Bowers'],['nm3929283'],,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalSong),Nominee,Elton John: Never Too Late,tt20316978,"['Elton John', 'Brandi Carlile', 'Andrew Watt', 'Bernie Taupin']","['nm0005056', 'nm1848488', 'nm3353159', 'nm0005479']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalSong),Nominee,Emilia Pérez,tt20221436,"['Clément Ducol', 'Camille', 'Jacques Audiard']","['nm4711393', 'nm1722079', 'nm0002191']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalSong),Nominee,Emilia Pérez,tt20221436,"['Clément Ducol', 'Camille']","['nm4711393', 'nm1722079']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalSong),Nominee,Las vidas de Sing Sing,tt28479262,"['Abraham Alexander', 'Adrian Quesada']","['nm11153958', 'nm2557663']",,
+2025,BestAchievementinMusicWrittenforMotionPictures(OriginalSong),Nominee,Seis Triple Ocho,tt24458622,['Diane Warren'],['nm0005534'],,
+2025,BestAchievementinVisualEffects,Nominee,Alien: Romulus,tt18412256,"['Eric Barba', 'Nelson Sepulveda', 'Daniel Macarin', 'Shane Mahan']","['nm0053146', 'nm0784700', 'nm1652052', 'nm0536752']",,
+2025,BestAchievementinVisualEffects,Nominee,Better Man,tt14260836,"['Luke Millar', 'David Clayton', 'Keith Herft', 'Peter Stubbs']","['nm1515480', 'nm2238085', 'nm1981800', 'nm0835934']",,
+2025,BestAchievementinVisualEffects,Nominee,Dune: Parte dos,tt15239678,"['Paul Lambert', 'Stephen James', 'Rhys Salcombe', 'Gerd Nefzer']","['nm0995902', 'nm2133637', 'nm2399047', 'nm0275382']",,
+2025,BestAchievementinVisualEffects,Nominee,El reino del planeta de los simios,tt11389872,"['Erik Winquist', 'Stephen Unterfranz', 'Paul Story', 'Rodney Burke']","['nm0935445', 'nm0881359', 'nm0832737', 'nm0121849']",,
+2025,BestAchievementinVisualEffects,Nominee,Wicked,tt1262426,"['Pablo Helman', 'Jonathan Fawkner', 'David Shirk', 'Paul Corbould']","['nm0375666', 'nm1000834', 'nm1874068', 'nm0179274']",,
+2025,BestDocumentaryFeature,Nominee,Black Box Diaries,tt30227076,"['Shiori Itô', 'Eric Nyari', 'Hanna Aqvilin']","['nm10340152', 'nm3552229', 'nm8687719']",,
+2025,BestDocumentaryFeature,Nominee,No Other Land,tt30953759,"['Basel Adra', 'Rachel Szor', 'Hamdan Ballal', 'Yuval Abraham']","['nm15732719', 'nm15732722', 'nm15732720', 'nm15732721']",,
+2025,BestDocumentaryFeature,Nominee,Porcelain War,tt30294282,"['Brendan Bellomo', 'Slava Leontyev', 'Aniela Sidorska', 'Paula DuPré Pesmen']","['nm2252386', 'nm13731165', 'nm4527585', 'nm0243462']",,
+2025,BestDocumentaryFeature,Nominee,Banda sonora para un golpe de estado,tt14452174,"['Johan Grimonprez', 'Daan Milius', 'Rémi Grellety']","['nm1431615', 'nm4210363', 'nm4009159']",,
+2025,BestDocumentaryFeature,Nominee,Sugarcane,tt30319854,[],[],,
+2025,BestAnimatedFeatureFilm,Nominee,Robot salvaje,tt29623480,"['Chris Sanders', 'Jeff Hermann']","['nm0761498', 'nm1915863']",,
+2025,BestAnimatedFeatureFilm,Nominee,"Flow, un mundo que salvar",tt4772188,"['Gints Zilbalodis', 'Ron Dyens', 'Matiss Kaza', 'Gregory Zalcman']","['nm6478535', 'nm1054433', 'nm5186633', 'nm3537684']",,
+2025,BestAnimatedFeatureFilm,Nominee,Del revés 2,tt22022452,"['Kelsey Mann', 'Mark Nielsen']","['nm1626375', 'nm0630923']",,
+2025,BestAnimatedFeatureFilm,Nominee,Wallace y Gromit: La venganza se sirve con plumas,tt17163970,"['Richard Beek', 'Nick Park', 'Merlin Crossingham']","['nm1485380', 'nm0661910', 'nm1271549']",,
+2025,BestAnimatedFeatureFilm,Nominee,Memorias de un caracol,tt23770030,"['Adam Elliot', 'Liz Kearney']","['nm0254178', 'nm2782306']",,
+2025,BestAnimatedShortFilm,Nominee,Beautiful Men,tt30835281,"['Nicolas Keppens', 'Brecht Van Elslande']","['nm9479994', 'nm8653244']",,
+2025,BestAnimatedShortFilm,Nominee,In the Shadow of the Cypress,tt28768883,"['Shirin Sohani', 'Hossein Molayemi']","['nm11580481', 'nm5548859']",,
+2025,BestAnimatedShortFilm,Nominee,Magic Candies,tt31888603,"['Daisuke Nishio', 'Takashi Washio']","['nm0632788', 'nm2911605']",,
+2025,BestAnimatedShortFilm,Nominee,Wander to Wonder,tt28768679,"['Nina Gantz', 'Stienette Bosklopper']","['nm2441981', 'nm0097975']",,
+2025,BestAnimatedShortFilm,Nominee,Beurk !,tt28356173,"['Loïc Espuche', 'Juliette Marquet']","['nm7167768', 'nm9489851']",,
+2025,BestLiveActionShortFilm,Nominee,Anuja,tt27654431,"['Adam J. Graves', 'Suchitra Mattai']","['nm12809780', 'nm11820954']",,
+2025,BestLiveActionShortFilm,Nominee,The Last Ranger,tt15802124,"['Cindy Lee', 'Darwin Shaw']","['nm8305829', 'nm0787430']",,
+2025,BestLiveActionShortFilm,Nominee,A Lien,tt27655666,"['Sam Cutler-Kreutz', 'David Cutler-Kreutz']","['nm4972708', 'nm9877582']",,
+2025,BestLiveActionShortFilm,Nominee,El hombre que no pudo permanecer en silencio,tt20519854,"['Nebojsa Slijepcevic', 'Danijel Pek']","['nm1196483', 'nm4148941']",,
+2025,BestLiveActionShortFilm,Nominee,No soy un robot,tt19837932,"['Trent', 'Victoria Warmerdam']","['nm0686692', 'nm6255610']",,
+2025,BestDocumentaryShortFilm,Nominee,Death by Numbers,tt33385063,"['Kim A. Snyder', 'Janique L. Robillard']","['nm0811502', 'nm4953625']",,
+2025,BestDocumentaryShortFilm,Nominee,"I am Ready, Warden",tt31556921,"['Maya Gnyp', 'Smriti Mundhra']","['nm3849774', 'nm0612731']",,
+2025,BestDocumentaryShortFilm,Nominee,Incident,tt27990245,"['Bill Morrison', 'Jamie Kalven']","['nm0994484', 'nm7758108']",,
+2025,BestDocumentaryShortFilm,Nominee,Instruments of a Beating Heart,tt32280470,"['Ema Ryan Yamazaki', 'Eric Nyari']","['nm3655292', 'nm3552229']",,
+2025,BestDocumentaryShortFilm,Nominee,La única mujer de la orquesta,tt29497240,"[""Molly O'Brien"", 'Lisa Remington']","['nm0639739', 'nm1919152']",,
+2025,BestInternationalFeatureFilm,Nominee,Aún estoy aquí,tt14961016,[],[],,
+2025,BestInternationalFeatureFilm,Nominee,The Girl with the Needle,tt10236164,[],[],,
+2025,BestInternationalFeatureFilm,Nominee,Emilia Pérez,tt20221436,[],[],,
+2025,BestInternationalFeatureFilm,Nominee,La semilla de la higuera sagrada,tt32178949,[],[],,
+2025,BestInternationalFeatureFilm,Nominee,"Flow, un mundo que salvar",tt4772188,[],[],,
+2025,Honorary(Honorifico),Nominee,,,,,Quincy Jones,nm0005065
+2025,Honorary(Honorifico),Nominee,,,,,Juliet Taylor,nm0852681
+2025,Honorary(Honorifico),Nominee,,,,,Barbara Broccoli,nm0110483
+2025,Honorary(Honorifico),Nominee,,,,,Michael G. Wilson,nm0933865
+2025,Honorary(Honorifico),Nominee,,,,,Richard Curtis,nm0193485

@@ -19,8 +19,8 @@
 1928,"BestDirector,DramaticPicture",Nominee,Herbert Brenon,nm0107543,El capitán Sorrell,tt0018429,,
 1928,"BestDirector,DramaticPicture",Nominee,King Vidor,nm0896542,Y el mundo marcha,tt0018806,,
 1928,"BestEffects,EngineeringEffects",Winner,,,Alas,tt0018578,['Roy Pomeroy'],['nm0690120']
-1928,"BestEffects,EngineeringEffects",Nominee,Nugent Slaughter,nm0805521,Ralph Hammeras,,,
-1928,"BestEffects,EngineeringEffects",Nominee,Ralph Hammeras,nm0358518,Benjamin Glazer,,,
+1928,"BestEffects,EngineeringEffects",Nominee,Nugent Slaughter,nm0805521,,,,
+1928,"BestEffects,EngineeringEffects",Nominee,Ralph Hammeras,nm0358518,,,,
 1928,"BestPicture,Production",Winner,,,Alas,tt0018578,[],[]
 1928,"BestPicture,Production",Nominee,,,La horda,tt0019294,[],[]
 1928,"BestPicture,Production",Nominee,,,El séptimo cielo,tt0018379,[],[]
@@ -32,10 +32,10 @@
 1928,"BestWriting,Adaptation",Nominee,,,El cantor de jazz,tt0018037,['Alfred A. Cohn'],['nm0169879']
 1928,"BestWriting,OriginalStory",Winner,,,La ley del hampa,tt0018526,['Ben Hecht'],['nm0372942']
 1928,"BestWriting,OriginalStory",Nominee,,,La última orden,tt0019071,['Lajos Biró'],['nm0083742']
-1928,"BestWriting,TitleWriting",Winner,Joseph Farnham,nm0267868,George Marion Jr.,,,
-1928,"BestWriting,TitleWriting",Nominee,George Marion Jr.,nm0547938,Gerald C. Duffy,,,
+1928,"BestWriting,TitleWriting",Winner,Joseph Farnham,nm0267868,,,,
+1928,"BestWriting,TitleWriting",Nominee,George Marion Jr.,nm0547938,,,,
 1928,"BestWriting,TitleWriting",Nominee,,,La vida privada de Helena de Troya,tt0017979,['Gerald C. Duffy'],['nm0240534']
-1928,Honorary(Honorifico),Winner,Charles Chaplin,nm0000122,,,,
+1928,Honorary,Winner,Charles Chaplin,nm0000122,,,,
 1929,BestActorinaLeadingRole,Winner,Warner Baxter,nm0062828,En el viejo Arizona,tt0020018,,
 1929,BestActorinaLeadingRole,Nominee,George Bancroft,nm0051628,Thunderbolt,tt0020499,,
 1929,BestActorinaLeadingRole,Nominee,Chester Morris,nm0606431,Ronda nocturna,tt0019630,,
@@ -216,7 +216,7 @@
 1932,"BestWriting,OriginalStory",Nominee,,,El retador,tt0023109,"['Grover Jones', 'William Slavens McNutt']","['nm0428177', 'nm0574112']"
 1932,"BestWriting,OriginalStory",Nominee,,,El testigo,tt0022430,['Lucien Hubbard'],['nm0399203']
 1932,"BestWriting,OriginalStory",Nominee,,,Hollywood al desnudo,tt0023686,"['Adela Rogers St. Johns', 'Jane Murfin']","['nm0820700', 'nm0613848']"
-1932,Honorary(Honorifico),Winner,Walt Disney,nm0000370,,,,
+1932,Honorary,Winner,Walt Disney,nm0000370,,,,
 1934,BestActorinaLeadingRole,Winner,Charles Laughton,nm0001452,La vida privada de Enrique VIII,tt0024473,,
 1934,BestActorinaLeadingRole,Nominee,Leslie Howard,nm0001366,La plaza de Berkeley,tt0023794,,
 1934,BestActorinaLeadingRole,Nominee,Paul Muni,nm0612847,Soy un fugitivo,tt0023042,,
@@ -342,7 +342,7 @@
 1935,"BestWriting,OriginalStory",Winner,,,El enemigo público número 1,tt0025464,['Arthur Caesar'],['nm0128361']
 1935,"BestWriting,OriginalStory",Nominee,,,El refugio,tt0025251,['Mauri Grashin'],['nm0335831']
 1935,"BestWriting,OriginalStory",Nominee,,,La venus de oro,tt0025718,['Norman Krasna'],['nm0469915']
-1935,Honorary(Honorifico),Winner,Shirley Temple,nm0000073,,,,
+1935,Honorary,Winner,Shirley Temple,nm0000073,,,,
 1936,BestActorinaLeadingRole,Winner,Victor McLaglen,nm0572142,El delator,tt0026529,,
 1936,BestActorinaLeadingRole,Nominee,Clark Gable,nm0000022,La tragedia de la Bounty,tt0026752,,
 1936,BestActorinaLeadingRole,Nominee,Charles Laughton,nm0001452,La tragedia de la Bounty,tt0026752,,
@@ -430,7 +430,7 @@
 1936,"BestWriting,Screenplay",Nominee,,,Tres lanceros bengalíes,tt0026643,"['Achmed Abdullah', 'John L. Balderston', 'Grover Jones', 'William Slavens McNutt', 'Waldemar Young']","['nm0008280', 'nm0049721', 'nm0428177', 'nm0574112', 'nm0950150']"
 1936,"BestWriting,Screenplay",Nominee,,,La tragedia de la Bounty,tt0026752,"['Jules Furthman', 'Talbot Jennings', 'Carey Wilson']","['nm0299154', 'nm0421255', 'nm0933133']"
 1936,"BestWriting,Screenplay",Nominee,,,El capitán Blood,tt0026174,['Casey Robinson'],['nm0732452']
-1936,Honorary(Honorifico),Winner,D.W. Griffith,nm0000428,,,,
+1936,Honorary,Winner,D.W. Griffith,nm0000428,,,,
 1937,BestActorinaLeadingRole,Winner,Paul Muni,nm0612847,La tragedia de Louis Pasteur,tt0028313,,
 1937,BestActorinaLeadingRole,Nominee,Gary Cooper,nm0000011,El secreto de vivir,tt0027996,,
 1937,BestActorinaLeadingRole,Nominee,Walter Huston,nm0404158,Desengaño,tt0027532,,
@@ -536,9 +536,9 @@
 1937,"BestWriting,Screenplay",Nominee,,,Desengaño,tt0027532,['Sidney Howard'],['nm0397608']
 1937,"BestWriting,Screenplay",Nominee,,,El secreto de vivir,tt0027996,['Robert Riskin'],['nm0728307']
 1937,"BestWriting,Screenplay",Nominee,,,Al servicio de las damas,tt0028010,"['Eric Hatch', 'Morrie Ryskind']","['nm0368719', 'nm0753452']"
-1937,Honorary(Honorifico),Winner,W. Howard Greene,nm0338946,,,,
-1937,Honorary(Honorifico),Winner,Harold Rosson,nm0005849,,,,
-1937,Honorary(Honorifico),Winner,Douglas Shearer,nm0790428,,,,
+1937,Honorary,Winner,W. Howard Greene,nm0338946,,,,
+1937,Honorary,Winner,Harold Rosson,nm0005849,,,,
+1937,Honorary,Winner,Douglas Shearer,nm0790428,,,,
 1938,BestActorinaLeadingRole,Winner,Spencer Tracy,nm0000075,Capitanes intrépidos,tt0028691,,
 1938,BestActorinaLeadingRole,Nominee,Charles Boyer,nm0000964,Maria Walewska,tt0028739,,
 1938,BestActorinaLeadingRole,Nominee,Fredric March,nm0545298,Ha nacido una estrella,tt0029606,,
@@ -657,10 +657,10 @@
 1938,"BestWriting,Screenplay",Nominee,,,Capitanes intrépidos,tt0028691,"['Marc Connelly', 'John Lee Mahin', 'Dale Van Every']","['nm0175091', 'nm0536941', 'nm0886861']"
 1938,"BestWriting,Screenplay",Nominee,,,Damas del teatro,tt0029604,"['Morrie Ryskind', 'Anthony Veiller']","['nm0753452', 'nm0892044']"
 1938,"BestWriting,Screenplay",Nominee,,,Ha nacido una estrella,tt0029606,"['Alan Campbell', 'Robert Carson', 'Dorothy Parker']","['nm0132180', 'nm0308604', 'nm0662213']"
-1938,Honorary(Honorifico),Winner,Mack Sennett,nm0784407,,,,
-1938,Honorary(Honorifico),Winner,Edgar Bergen,nm0001944,,,,
-1938,Honorary(Honorifico),Winner,W. Howard Greene,nm0338946,,,,
-1938,Honorary(Honorifico),Winner,Darryl F. Zanuck,nm0953123,,,,
+1938,Honorary,Winner,Mack Sennett,nm0784407,,,,
+1938,Honorary,Winner,Edgar Bergen,nm0001944,,,,
+1938,Honorary,Winner,W. Howard Greene,nm0338946,,,,
+1938,Honorary,Winner,Darryl F. Zanuck,nm0953123,,,,
 1939,BestActorinaLeadingRole,Winner,Spencer Tracy,nm0000075,Forja de hombres,tt0029942,,
 1939,BestActorinaLeadingRole,Nominee,Charles Boyer,nm0000964,Argel,tt0029855,,
 1939,BestActorinaLeadingRole,Nominee,James Cagney,nm0000010,Ángeles con caras sucias,tt0029870,,
@@ -787,13 +787,13 @@
 1939,"BestWriting,Screenplay",Nominee,,,La ciudadela,tt0029995,"['Ian Dalrymple', 'Elizabeth Hill', 'Frank Wead']","['nm0198202', 'nm0384227', 'nm0915693']"
 1939,"BestWriting,Screenplay",Nominee,,,Cuatro hijas,tt0030149,"['Lenore J. Coffee', 'Julius J. Epstein']","['nm0168829', 'nm0258493']"
 1939,"BestWriting,Screenplay",Nominee,,,Vive como quieras,tt0030993,['Robert Riskin'],['nm0728307']
-1939,Honorary(Honorifico),Winner,Deanna Durbin,nm0002052,,,,
-1939,Honorary(Honorifico),Winner,Harry M. Warner,nm0912481,,,,
-1939,Honorary(Honorifico),Winner,Walt Disney,nm0000370,,,,
-1939,Honorary(Honorifico),Winner,Oliver T. Marsh,nm0005784,,,,
-1939,Honorary(Honorifico),Winner,Allen M. Davey,nm0202695,,,,
-1939,Honorary(Honorifico),Winner,Gordon Jennings,nm0421157,,,,
-1939,Honorary(Honorifico),Winner,Hal B. Wallis,nm0909259,,,,
+1939,Honorary,Winner,Deanna Durbin,nm0002052,,,,
+1939,Honorary,Winner,Harry M. Warner,nm0912481,,,,
+1939,Honorary,Winner,Walt Disney,nm0000370,,,,
+1939,Honorary,Winner,Oliver T. Marsh,nm0005784,,,,
+1939,Honorary,Winner,Allen M. Davey,nm0202695,,,,
+1939,Honorary,Winner,Gordon Jennings,nm0421157,,,,
+1939,Honorary,Winner,Hal B. Wallis,nm0909259,,,,
 1940,BestActorinaLeadingRole,Winner,Robert Donat,nm0232196,"Adiós, Mr. Chips",tt0031385,,
 1940,BestActorinaLeadingRole,Nominee,Clark Gable,nm0000022,Lo que el viento se llevó,tt0031381,,
 1940,BestActorinaLeadingRole,Nominee,Laurence Olivier,nm0000059,Cumbres borrascosas,tt0032145,,
@@ -918,12 +918,12 @@
 1940,"BestWriting,Screenplay",Nominee,,,Caballero sin espada,tt0031679,['Sidney Buchman'],['nm0118227']
 1940,"BestWriting,Screenplay",Nominee,,,Ninotchka,tt0031725,"['Charles Brackett', 'Walter Reisch', 'Billy Wilder']","['nm0102818', 'nm0281556', 'nm0000697']"
 1940,"BestWriting,Screenplay",Nominee,,,Cumbres borrascosas,tt0032145,"['Ben Hecht', 'Charles MacArthur']","['nm0372942', 'nm0531269']"
-1940,Honorary(Honorifico),Winner,Judy Garland,nm0000023,,,,
-1940,Honorary(Honorifico),Winner,Douglas Fairbanks,nm0001196,,,,
-1940,Honorary(Honorifico),Winner,Jean Hersholt,nm0380965,,,,
-1940,Honorary(Honorifico),Winner,Ralph Morgan,nm0604960,,,,
-1940,Honorary(Honorifico),Winner,Ralph Block,nm0088759,,,,
-1940,Honorary(Honorifico),Winner,David O. Selznick,nm0006388,,,,
+1940,Honorary,Winner,Judy Garland,nm0000023,,,,
+1940,Honorary,Winner,Douglas Fairbanks,nm0001196,,,,
+1940,Honorary,Winner,Jean Hersholt,nm0380965,,,,
+1940,Honorary,Winner,Ralph Morgan,nm0604960,,,,
+1940,Honorary,Winner,Ralph Block,nm0088759,,,,
+1940,Honorary,Winner,David O. Selznick,nm0006388,,,,
 1941,BestActorinaLeadingRole,Winner,James Stewart,nm0000071,Historias de Filadelfia,tt0032904,,
 1941,BestActorinaLeadingRole,Nominee,Charles Chaplin,nm0000122,El gran dictador,tt0032553,,
 1941,BestActorinaLeadingRole,Nominee,Henry Fonda,nm0000020,Las uvas de la ira,tt0032551,,
@@ -1082,8 +1082,8 @@
 1941,"BestWriting,Screenplay",Nominee,,,Espejismo de amor,tt0032671,['Dalton Trumbo'],['nm0874308']
 1941,"BestWriting,Screenplay",Nominee,,,Hombres intrépidos,tt0032728,['Dudley Nichols'],['nm0629580']
 1941,"BestWriting,Screenplay",Nominee,,,Rebeca,tt0032976,"['Robert E. Sherwood', 'Joan Harrison']","['nm0792845', 'nm0365661']"
-1941,Honorary(Honorifico),Winner,Bob Hope,nm0001362,,,,
-1941,Honorary(Honorifico),Winner,Nathan Levinson,nm0506080,,,,
+1941,Honorary,Winner,Bob Hope,nm0001362,,,,
+1941,Honorary,Winner,Nathan Levinson,nm0506080,,,,
 1942,BestActorinaLeadingRole,Winner,Gary Cooper,nm0000011,El sargento York,tt0034167,,
 1942,BestActorinaLeadingRole,Nominee,Cary Grant,nm0000026,Serenata nostálgica,tt0034012,,
 1942,BestActorinaLeadingRole,Nominee,Walter Huston,nm0404158,El hombre que vendió su alma,tt0033532,,
@@ -1261,11 +1261,11 @@
 1942,"BestWriting,Screenplay",Nominee,,,¡Qué verde era mi valle!,tt0033729,['Philip Dunne'],['nm0242897']
 1942,"BestWriting,Screenplay",Nominee,,,La loba,tt0033836,['Lillian Hellman'],['nm0375484']
 1942,"BestWriting,Screenplay",Nominee,,,El halcón maltés,tt0033870,['John Huston'],['nm0001379']
-1942,Honorary(Honorifico),Winner,Rey Scott,nm0721164,,,,
-1942,Honorary(Honorifico),Winner,Leopold Stokowski,nm0831439,,,,
-1942,Honorary(Honorifico),Winner,Walt Disney,nm0000370,,,,
-1942,Honorary(Honorifico),Winner,William E. Garity,nm0307477,,,,
-1942,Honorary(Honorifico),Winner,Walt Disney,nm0000370,,,,
+1942,Honorary,Winner,Rey Scott,nm0721164,,,,
+1942,Honorary,Winner,Leopold Stokowski,nm0831439,,,,
+1942,Honorary,Winner,Walt Disney,nm0000370,,,,
+1942,Honorary,Winner,William E. Garity,nm0307477,,,,
+1942,Honorary,Winner,Walt Disney,nm0000370,,,,
 1943,BestActorinaLeadingRole,Winner,James Cagney,nm0000010,Yanqui Dandy,tt0035575,,
 1943,BestActorinaLeadingRole,Nominee,Ronald Colman,nm0172903,Niebla en el pasado,tt0035238,,
 1943,BestActorinaLeadingRole,Nominee,Gary Cooper,nm0000011,El orgullo de los Yanquis,tt0035211,,
@@ -1448,9 +1448,9 @@
 1943,"BestWriting,Screenplay",Nominee,,,El orgullo de los Yanquis,tt0035211,"['Herman J. Mankiewicz', 'Jo Swerling']","['nm0542534', 'nm0842485']"
 1943,"BestWriting,Screenplay",Nominee,,,Niebla en el pasado,tt0035238,"['George Froeschel', 'Claudine West', 'Arthur Wimperis']","['nm0296207', 'nm0921995', 'nm0934497']"
 1943,"BestWriting,Screenplay",Nominee,,,El asunto del día,tt0035417,"['Sidney Buchman', 'Irwin Shaw']","['nm0118227', 'nm0789758']"
-1943,Honorary(Honorifico),Winner,Charles Boyer,nm0000964,,,,
-1943,Honorary(Honorifico),Winner,Noël Coward,nm0002021,,,,
-1943,Honorary(Honorifico),Winner,Sidney Franklin,nm0291548,,,,
+1943,Honorary,Winner,Charles Boyer,nm0000964,,,,
+1943,Honorary,Winner,Noël Coward,nm0002021,,,,
+1943,Honorary,Winner,Sidney Franklin,nm0291548,,,,
 1944,BestActorinaLeadingRole,Winner,Paul Lukas,nm0510134,Alarma en el Rhin,tt0036515,,
 1944,BestActorinaLeadingRole,Nominee,Humphrey Bogart,nm0000007,Casablanca,tt0034583,,
 1944,BestActorinaLeadingRole,Nominee,Gary Cooper,nm0000011,Por quién doblan las campanas,tt0035896,,
@@ -1614,8 +1614,8 @@
 1944,"BestWriting,Screenplay",Nominee,,,El amor llamó dos veces,tt0036172,"['Richard Flournoy', 'Lewis R. Foster', 'Frank Ross', 'Robert Russell']","['nm0283133', 'nm0287931', 'nm0743407', 'nm0751417']"
 1944,"BestWriting,Screenplay",Nominee,,,La canción de Bernadette,tt0036377,['George Seaton'],['nm0780833']
 1944,"BestWriting,Screenplay",Nominee,,,Alarma en el Rhin,tt0036515,['Dashiell Hammett'],['nm0358591']
-1944,Honorary(Honorifico),Winner,George Pal,nm0657162,,,,
-1944,Honorary(Honorifico),Winner,Hal B. Wallis,nm0909259,,,,
+1944,Honorary,Winner,George Pal,nm0657162,,,,
+1944,Honorary,Winner,Hal B. Wallis,nm0909259,,,,
 1945,BestActorinaLeadingRole,Winner,Bing Crosby,nm0001078,Siguiendo mi camino,tt0036872,,
 1945,BestActorinaLeadingRole,Nominee,Charles Boyer,nm0000964,Luz que agoniza,tt0036855,,
 1945,BestActorinaLeadingRole,Nominee,Barry Fitzgerald,nm0280178,Siguiendo mi camino,tt0036872,,
@@ -1781,9 +1781,9 @@
 1945,"BestWriting,Screenplay",Nominee,,,Luz que agoniza,tt0036855,"['John L. Balderston', 'Walter Reisch', 'John Van Druten']","['nm0049721', 'nm0281556', 'nm0886668']"
 1945,"BestWriting,Screenplay",Nominee,,,Laura,tt0037008,"['Jay Dratler', 'Samuel Hoffenstein', 'Elizabeth Reinhardt']","['nm0237225', 'nm0388755', 'nm0718101']"
 1945,"BestWriting,Screenplay",Nominee,,,Cita en St. Louis,tt0037059,"['Irving Brecher', 'Fred F. Finklehoffe']","['nm0106505', 'nm0277943']"
-1945,Honorary(Honorifico),Winner,Margaret O'Brien,nm0639684,,,,
-1945,Honorary(Honorifico),Winner,Bob Hope,nm0001362,,,,
-1945,Honorary(Honorifico),Winner,Darryl F. Zanuck,nm0953123,,,,
+1945,Honorary,Winner,Margaret O'Brien,nm0639684,,,,
+1945,Honorary,Winner,Bob Hope,nm0001362,,,,
+1945,Honorary,Winner,Darryl F. Zanuck,nm0953123,,,,
 1946,BestActorinaLeadingRole,Winner,Ray Milland,nm0001537,Días sin huella,tt0037884,,
 1946,BestActorinaLeadingRole,Nominee,Bing Crosby,nm0001078,Las campanas de Santa María,tt0037536,,
 1946,BestActorinaLeadingRole,Nominee,Gene Kelly,nm0000037,Levando anclas,tt0037514,,
@@ -1940,10 +1940,10 @@
 1946,"BestWriting,Screenplay",Nominee,,,El orgullo de los marines,tt0038000,['Albert Maltz'],['nm0540816']
 1946,"BestWriting,Screenplay",Nominee,,,También somos seres humanos,tt0038120,"['Leopold Atlas', 'Guy Endore', 'Philip Stevenson']","['nm0040852', 'nm0256880', 'nm0829029']"
 1946,"BestWriting,Screenplay",Nominee,,,Lazos humanos,tt0038190,"['Frank Davis', 'Tess Slesinger']","['nm0204608', 'nm0805756']"
-1946,Honorary(Honorifico),Winner,Peggy Ann Garner,nm0307750,,,,
-1946,Honorary(Honorifico),Winner,Frank Ross,nm0743407,,,,
-1946,Honorary(Honorifico),Winner,Mervyn LeRoy,nm0503777,,,,
-1946,Honorary(Honorifico),Winner,Albert Maltz,nm0540816,,,,
+1946,Honorary,Winner,Peggy Ann Garner,nm0307750,,,,
+1946,Honorary,Winner,Frank Ross,nm0743407,,,,
+1946,Honorary,Winner,Mervyn LeRoy,nm0503777,,,,
+1946,Honorary,Winner,Albert Maltz,nm0540816,,,,
 1947,BestActorinaLeadingRole,Winner,Fredric March,nm0545298,Los mejores años de nuestra vida,tt0036868,,
 1947,BestActorinaLeadingRole,Nominee,Laurence Olivier,nm0000059,Enrique V,tt0036910,,
 1947,BestActorinaLeadingRole,Nominee,Larry Parks,nm0662972,The Jolson Story,tt0038661,,
@@ -2043,11 +2043,11 @@
 1947,"BestWriting,Screenplay",Nominee,,,Breve encuentro,tt0037558,"['Anthony Havelock-Allan', 'David Lean', 'Ronald Neame']","['nm0369743', 'nm0000180', 'nm0623768']"
 1947,"BestWriting,Screenplay",Nominee,,,Forajidos,tt0038669,['Anthony Veiller'],['nm0892044']
 1947,"BestWriting,Screenplay",Nominee,,,"Roma, ciudad abierta",tt0038890,"['Sergio Amidei', 'Federico Fellini']","['nm0024847', 'nm0000019']"
-1947,Honorary(Honorifico),Winner,Claude Jarman Jr.,nm0418741,,,,
-1947,Honorary(Honorifico),Winner,Laurence Olivier,nm0000059,,,,
-1947,Honorary(Honorifico),Winner,Harold Russell,nm0751174,,,,
-1947,Honorary(Honorifico),Winner,Ernst Lubitsch,nm0523932,,,,
-1947,Honorary(Honorifico),Winner,Samuel Goldwyn,nm0326418,,,,
+1947,Honorary,Winner,Claude Jarman Jr.,nm0418741,,,,
+1947,Honorary,Winner,Laurence Olivier,nm0000059,,,,
+1947,Honorary,Winner,Harold Russell,nm0751174,,,,
+1947,Honorary,Winner,Ernst Lubitsch,nm0523932,,,,
+1947,Honorary,Winner,Samuel Goldwyn,nm0326418,,,,
 1948,BestActorinaLeadingRole,Winner,Ronald Colman,nm0172903,Doble vida,tt0039335,,
 1948,BestActorinaLeadingRole,Nominee,John Garfield,nm0002092,Cuerpo y alma,tt0039204,,
 1948,BestActorinaLeadingRole,Nominee,Gregory Peck,nm0000060,La barrera invisible,tt0039416,,
@@ -2149,10 +2149,10 @@
 1948,"BestWriting,Screenplay",Nominee,,,Encrucijada de odios,tt0039286,['John Paxton'],['nm0668122']
 1948,"BestWriting,Screenplay",Nominee,,,La barrera invisible,tt0039416,['Moss Hart'],['nm0366454']
 1948,"BestWriting,Screenplay",Nominee,,,Cadenas rotas,tt0038574,"['David Lean', 'Ronald Neame', 'Anthony Havelock-Allan']","['nm0000180', 'nm0623768', 'nm0369743']"
-1948,Honorary(Honorifico),Winner,James Baskett,nm0059934,,,,
-1948,Honorary(Honorifico),Winner,William Nicholas Selig,nm0783152,,,,
-1948,Honorary(Honorifico),Winner,Albert E. Smith,nm0807236,,,,
-1948,Honorary(Honorifico),Winner,George K. Spoor,nm0819420,,,,
+1948,Honorary,Winner,James Baskett,nm0059934,,,,
+1948,Honorary,Winner,William Nicholas Selig,nm0783152,,,,
+1948,Honorary,Winner,Albert E. Smith,nm0807236,,,,
+1948,Honorary,Winner,George K. Spoor,nm0819420,,,,
 1949,BestActorinaLeadingRole,Winner,Laurence Olivier,nm0000059,Hamlet,tt0040416,,
 1949,BestActorinaLeadingRole,Nominee,Lew Ayres,nm0000817,Belinda,tt0040495,,
 1949,BestActorinaLeadingRole,Nominee,Montgomery Clift,nm0001050,Los ángeles perdidos,tt0040765,,
@@ -2255,11 +2255,11 @@
 1949,"BestWriting,Screenplay",Nominee,,,Belinda,tt0040495,"['Irma von Cube', 'Allen Vincent']","['nm0902121', 'nm0898573']"
 1949,"BestWriting,Screenplay",Nominee,,,Los ángeles perdidos,tt0040765,"['Richard Schweizer', 'David Wechsler']","['nm0777849', 'nm0917047']"
 1949,"BestWriting,Screenplay",Nominee,,,Nido de víboras,tt0040806,"['Frank Partos', 'Millen Brand']","['nm0664022', 'nm0104503']"
-1949,Honorary(Honorifico),Winner,Ivan Jandl,nm0417389,,,,
-1949,Honorary(Honorifico),Winner,Sid Grauman,nm0336138,,,,
-1949,Honorary(Honorifico),Winner,Adolph Zukor,nm0958532,,,,
-1949,Honorary(Honorifico),Winner,Walter Wanger,nm0911137,,,,
-1949,Honorary(Honorifico),Winner,Jerry Wald,nm0907003,,,,
+1949,Honorary,Winner,Ivan Jandl,nm0417389,,,,
+1949,Honorary,Winner,Sid Grauman,nm0336138,,,,
+1949,Honorary,Winner,Adolph Zukor,nm0958532,,,,
+1949,Honorary,Winner,Walter Wanger,nm0911137,,,,
+1949,Honorary,Winner,Jerry Wald,nm0907003,,,,
 1950,BestActorinaLeadingRole,Winner,Broderick Crawford,nm0002024,El político,tt0041113,,
 1950,BestActorinaLeadingRole,Nominee,Kirk Douglas,nm0000018,El ídolo de barro,tt0041239,,
 1950,BestActorinaLeadingRole,Nominee,Gregory Peck,nm0000060,Almas en la hoguera,tt0041996,,
@@ -2367,10 +2367,10 @@
 1950,"BestWriting,StoryandScreenplay",Nominee,,,Paisà,tt0038823,"['Alfred Hayes', 'Federico Fellini', 'Sergio Amidei', 'Marcello Pagliero', 'Roberto Rossellini']","['nm0370883', 'nm0000019', 'nm0024847', 'nm0656496', 'nm0744023']"
 1950,"BestWriting,StoryandScreenplay",Nominee,,,Pasaporte para Pimlico,tt0041737,['T.E.B. Clarke'],['nm0165021']
 1950,"BestWriting,StoryandScreenplay",Nominee,,,The Quiet One,tt0040717,"['Helen Levitt', 'Janice Loeb', 'Sidney Meyers']","['nm1844803', 'nm0517209', 'nm0562576']"
-1950,Honorary(Honorifico),Winner,Bobby Driscoll,nm0237985,,,,
-1950,Honorary(Honorifico),Winner,Fred Astaire,nm0000001,,,,
-1950,Honorary(Honorifico),Winner,Cecil B. DeMille,nm0001124,,,,
-1950,Honorary(Honorifico),Winner,Jean Hersholt,nm0380965,,,,
+1950,Honorary,Winner,Bobby Driscoll,nm0237985,,,,
+1950,Honorary,Winner,Fred Astaire,nm0000001,,,,
+1950,Honorary,Winner,Cecil B. DeMille,nm0001124,,,,
+1950,Honorary,Winner,Jean Hersholt,nm0380965,,,,
 1951,BestActorinaLeadingRole,Winner,José Ferrer,nm0001207,Cyrano de Bergerac,tt0042367,,
 1951,BestActorinaLeadingRole,Nominee,Louis Calhern,nm0129894,The Magnificent Yankee,tt0042702,,
 1951,BestActorinaLeadingRole,Nominee,William Holden,nm0000034,El crepúsculo de los dioses,tt0043014,,
@@ -2479,9 +2479,9 @@
 1951,"BestWriting,StoryandScreenplay",Nominee,,,Sin remisión,tt0042296,"['Virginia Kellogg', 'Bernard C. Schoenfeld']","['nm0446132', 'nm0774441']"
 1951,"BestWriting,StoryandScreenplay",Nominee,,,Hombres,tt0042727,['Carl Foreman'],['nm0286025']
 1951,"BestWriting,StoryandScreenplay",Nominee,,,Un rayo de luz,tt0042792,"['Joseph L. Mankiewicz', 'Lesser Samuels']","['nm0000581', 'nm0760488']"
-1951,Honorary(Honorifico),Winner,George Murphy,nm0614278,,,,
-1951,Honorary(Honorifico),Winner,Louis B. Mayer,nm0562454,,,,
-1951,Honorary(Honorifico),Winner,Darryl F. Zanuck,nm0953123,,,,
+1951,Honorary,Winner,George Murphy,nm0614278,,,,
+1951,Honorary,Winner,Louis B. Mayer,nm0562454,,,,
+1951,Honorary,Winner,Darryl F. Zanuck,nm0953123,,,,
 1952,BestActorinaLeadingRole,Winner,Humphrey Bogart,nm0000007,La reina de África,tt0043265,,
 1952,BestActorinaLeadingRole,Nominee,Marlon Brando,nm0000008,Un tranvía llamado deseo,tt0044081,,
 1952,BestActorinaLeadingRole,Nominee,Montgomery Clift,nm0001050,Un lugar en el sol,tt0043924,,
@@ -2597,8 +2597,8 @@
 1952,"BestWriting,StoryandScreenplay",Nominee,,,David y Betsabé,tt0043455,['Philip Dunne'],['nm0242897']
 1952,"BestWriting,StoryandScreenplay",Nominee,,,A por todas,tt0043590,['Robert Pirosh'],['nm0685265']
 1952,"BestWriting,StoryandScreenplay",Nominee,,,El pozo de la angustia,tt0044202,"['Clarence Greene', 'Russell Rouse']","['nm0338707', 'nm0745866']"
-1952,Honorary(Honorifico),Winner,Gene Kelly,nm0000037,,,,
-1952,Honorary(Honorifico),Winner,Arthur Freed,nm0006085,,,,
+1952,Honorary,Winner,Gene Kelly,nm0000037,,,,
+1952,Honorary,Winner,Arthur Freed,nm0006085,,,,
 1953,BestActorinaLeadingRole,Winner,Gary Cooper,nm0000011,Solo ante el peligro,tt0044706,,
 1953,BestActorinaLeadingRole,Nominee,Marlon Brando,nm0000008,¡Viva Zapata!,tt0045296,,
 1953,BestActorinaLeadingRole,Nominee,Kirk Douglas,nm0000018,Cautivos del mal,tt0044391,,
@@ -2721,11 +2721,11 @@
 1953,"BestWriting,StoryandScreenplay",Nominee,,,La barrera del sonido,tt0044446,['Terence Rattigan'],['nm0711905']
 1953,"BestWriting,StoryandScreenplay",Nominee,,,La impetuosa,tt0045012,"['Ruth Gordon', 'Garson Kanin']","['nm0002106', 'nm0437717']"
 1953,"BestWriting,StoryandScreenplay",Nominee,,,¡Viva Zapata!,tt0045296,['John Steinbeck'],['nm0825705']
-1953,Honorary(Honorifico),Winner,Joseph M. Schenck,nm0770852,,,,
-1953,Honorary(Honorifico),Winner,Merian C. Cooper,nm0178260,,,,
-1953,Honorary(Honorifico),Winner,Harold Lloyd,nm0516001,,,,
-1953,Honorary(Honorifico),Winner,Bob Hope,nm0001362,,,,
-1953,Honorary(Honorifico),Winner,Cecil B. DeMille,nm0001124,,,,
+1953,Honorary,Winner,Joseph M. Schenck,nm0770852,,,,
+1953,Honorary,Winner,Merian C. Cooper,nm0178260,,,,
+1953,Honorary,Winner,Harold Lloyd,nm0516001,,,,
+1953,Honorary,Winner,Bob Hope,nm0001362,,,,
+1953,Honorary,Winner,Cecil B. DeMille,nm0001124,,,,
 1954,BestActorinaLeadingRole,Winner,William Holden,nm0000034,Traidor en el infierno,tt0046359,,
 1954,BestActorinaLeadingRole,Nominee,Marlon Brando,nm0000008,Julio César,tt0045943,,
 1954,BestActorinaLeadingRole,Nominee,Richard Burton,nm0000009,La túnica sagrada,tt0046247,,
@@ -2850,11 +2850,11 @@
 1954,"BestWriting,StoryandScreenplay",Nominee,,,Las ratas del desierto,tt0045679,['Richard Murphy'],['nm0614645']
 1954,"BestWriting,StoryandScreenplay",Nominee,,,Colorado Jim,tt0044953,"['Sam Rolfe', 'Harold Jack Bloom']","['nm0738222', 'nm0089169']"
 1954,"BestWriting,StoryandScreenplay",Nominee,,,Hombres de infantería,tt0046398,['Millard Kaufman'],['nm0442228']
-1954,Honorary(Honorifico),Winner,Pete Smith,nm0809570,,,,
-1954,Honorary(Honorifico),Winner,Joseph Breen,nm1033952,,,,
-1954,Honorary(Honorifico),Winner,George Stevens,nm0828419,,,,
-1954,Honorary(Honorifico),Winner,Henri Chretien,nm0159617,,,,
-1954,Honorary(Honorifico),Winner,Sol Halperin,nm0356930,,,,
+1954,Honorary,Winner,Pete Smith,nm0809570,,,,
+1954,Honorary,Winner,Joseph Breen,nm1033952,,,,
+1954,Honorary,Winner,George Stevens,nm0828419,,,,
+1954,Honorary,Winner,Henri Chretien,nm0159617,,,,
+1954,Honorary,Winner,Sol Halperin,nm0356930,,,,
 1955,BestActorinaLeadingRole,Winner,Marlon Brando,nm0000008,La ley del silencio,tt0047296,,
 1955,BestActorinaLeadingRole,Nominee,Humphrey Bogart,nm0000007,El motín del Caine,tt0046816,,
 1955,BestActorinaLeadingRole,Nominee,Bing Crosby,nm0001078,La angustia de vivir,tt0046874,,
@@ -2975,12 +2975,12 @@
 1955,"BestWriting,StoryandScreenplay",Nominee,,,Genoveva,tt0045808,['William Rose'],['nm0741740']
 1955,"BestWriting,StoryandScreenplay",Nominee,,,Música y lágrimas,tt0047030,"['Valentine Davies', 'Oscar Brodney']","['nm0204016', 'nm0110958']"
 1955,"BestWriting,StoryandScreenplay",Nominee,,,Un gramo de locura,tt0047152,"['Norman Panama', 'Melvin Frank']","['nm0659085', 'nm0291035']"
-1955,Honorary(Honorifico),Winner,Kemp Niver,nm0633133,,,,
-1955,Honorary(Honorifico),Winner,Greta Garbo,nm0001256,,,,
-1955,Honorary(Honorifico),Winner,Danny Kaye,nm0001414,,,,
-1955,Honorary(Honorifico),Winner,Jon Whiteley,nm0925804,,,,
-1955,Honorary(Honorifico),Winner,Vincent Winter,nm0935844,,,,
-1955,Honorary(Honorifico),Winner,Loren L. Ryder,nm0753122,,,,
+1955,Honorary,Winner,Kemp Niver,nm0633133,,,,
+1955,Honorary,Winner,Greta Garbo,nm0001256,,,,
+1955,Honorary,Winner,Danny Kaye,nm0001414,,,,
+1955,Honorary,Winner,Jon Whiteley,nm0925804,,,,
+1955,Honorary,Winner,Vincent Winter,nm0935844,,,,
+1955,Honorary,Winner,Loren L. Ryder,nm0753122,,,,
 1956,BestActorinaLeadingRole,Winner,Ernest Borgnine,nm0000308,Marty,tt0048356,,
 1956,BestActorinaLeadingRole,Nominee,James Cagney,nm0000010,Quiéreme o déjame,tt0048317,,
 1956,BestActorinaLeadingRole,Nominee,James Dean,nm0000015,Al este del edén,tt0048028,,
@@ -3229,10 +3229,10 @@
 1957,"BestWriting,MotionPictureStory",Nominee,,,Alta sociedad,tt0048166,"['Edward Bernds', 'Elwood Ullman']","['nm0076618', 'nm0880493']"
 1957,"BestWriting,MotionPictureStory",Nominee,,,Los orgullosos,tt0046149,['Jean-Paul Sartre'],['nm0765683']
 1957,"BestWriting,MotionPictureStory",Nominee,,,Umberto D.,tt0045274,['Cesare Zavattini'],['nm0953790']
-1957,Honorary(Honorifico),Winner,Society of Motion Picture and Television Engineers (SMPTE),,,,,
-1957,Honorary(Honorifico),Winner,Eddie Cantor,nm0134662,,,,
-1957,Honorary(Honorifico),Winner,Buddy Adler,nm0012117,,,,
-1957,Honorary(Honorifico),Winner,Y. Frank Freeman,nm4460512,,,,
+1957,Honorary,Winner,Society of Motion Picture and Television Engineers (SMPTE),,,,,
+1957,Honorary,Winner,Eddie Cantor,nm0134662,,,,
+1957,Honorary,Winner,Buddy Adler,nm0012117,,,,
+1957,Honorary,Winner,Y. Frank Freeman,nm4460512,,,,
 1958,BestActorinaLeadingRole,Winner,Alec Guinness,nm0000027,El puente sobre el río Kwai,tt0050212,,
 1958,BestActorinaLeadingRole,Nominee,Marlon Brando,nm0000008,Sayonara,tt0050933,,
 1958,BestActorinaLeadingRole,Nominee,Anthony Franciosa,nm0290047,Un sombrero lleno de lluvia,tt0050487,,
@@ -3328,10 +3328,10 @@
 1958,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,El hombre de las mil caras,tt0050681,"['Ralph Wheelwright', 'R. Wright Campbell', 'Ivan Goff', 'Ben Roberts']","['nm0924000', 'nm0132790', 'nm0324578', 'nm0730850']"
 1958,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Cazador de forajidos,tt0051087,"['Barney Slater', 'Joel Kane', 'Dudley Nichols']","['nm0805340', 'nm0437352', 'nm0629580']"
 1958,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Los inútiles,tt0046521,"['Federico Fellini', 'Ennio Flaiano', 'Tullio Pinelli']","['nm0000019', 'nm0280919', 'nm0684083']"
-1958,Honorary(Honorifico),Winner,Charles Brackett,nm0102818,,,,
-1958,Honorary(Honorifico),Winner,B.B. Kahane,nm0434690,,,,
-1958,Honorary(Honorifico),Winner,Gilbert M. 'Broncho Billy' Anderson,nm0001908,,,,
-1958,Honorary(Honorifico),Winner,Samuel Goldwyn,nm0326418,,,,
+1958,Honorary,Winner,Charles Brackett,nm0102818,,,,
+1958,Honorary,Winner,B.B. Kahane,nm0434690,,,,
+1958,Honorary,Winner,Gilbert M. 'Broncho Billy' Anderson,nm0001908,,,,
+1958,Honorary,Winner,Samuel Goldwyn,nm0326418,,,,
 1959,BestActorinaLeadingRole,Winner,David Niven,nm0000057,Mesas separadas,tt0052182,,
 1959,BestActorinaLeadingRole,Nominee,Tony Curtis,nm0000348,Fugitivos,tt0051525,,
 1959,BestActorinaLeadingRole,Nominee,Paul Newman,nm0000056,La gata sobre el tejado de zinc,tt0051459,,
@@ -3441,8 +3441,8 @@
 1959,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Cintia,tt0051745,"['Melville Shavelson', 'Jack Rose']","['nm0789520', 'nm0741439']"
 1959,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Furia en el valle,tt0052190,"['William Bowers', 'James Edward Grant']","['nm0101115', 'nm0335455']"
 1959,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Enséñame a querer,tt0052278,"['Fay Kanin', 'Michael Kanin']","['nm0437716', 'nm0437720']"
-1959,Honorary(Honorifico),Winner,Maurice Chevalier,nm0002001,,,,
-1959,Honorary(Honorifico),Winner,Jack L. Warner,nm0912491,,,,
+1959,Honorary,Winner,Maurice Chevalier,nm0002001,,,,
+1959,Honorary,Winner,Jack L. Warner,nm0912491,,,,
 1960,BestActorinaLeadingRole,Winner,Charlton Heston,nm0000032,Ben-Hur,tt0052618,,
 1960,BestActorinaLeadingRole,Nominee,Laurence Harvey,nm0002131,Un lugar en la cumbre,tt0053226,,
 1960,BestActorinaLeadingRole,Nominee,Jack Lemmon,nm0000493,Con faldas y a lo loco,tt0053291,,
@@ -3559,9 +3559,9 @@
 1960,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Con la muerte en los talones,tt0053125,['Ernest Lehman'],['nm0499626']
 1960,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Operación Pacífico,tt0053143,"['Paul King', 'Joseph Stone', 'Stanley Shapiro', 'Maurice Richlin']","['nm0455126', 'nm0831972', 'nm0788630', 'nm0725009']"
 1960,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Fresas salvajes,tt0050986,['Ingmar Bergman'],['nm0000005']
-1960,Honorary(Honorifico),Winner,Lee De Forest,nm0208418,,,,
-1960,Honorary(Honorifico),Winner,Buster Keaton,nm0000036,,,,
-1960,Honorary(Honorifico),Winner,Bob Hope,nm0001362,,,,
+1960,Honorary,Winner,Lee De Forest,nm0208418,,,,
+1960,Honorary,Winner,Buster Keaton,nm0000036,,,,
+1960,Honorary,Winner,Bob Hope,nm0001362,,,,
 1961,BestActorinaLeadingRole,Winner,Burt Lancaster,nm0000044,El fuego y la palabra,tt0053793,,
 1961,BestActorinaLeadingRole,Nominee,Trevor Howard,nm0002145,Hijos y amantes,tt0054326,,
 1961,BestActorinaLeadingRole,Nominee,Jack Lemmon,nm0000493,El apartamento,tt0053604,,
@@ -3680,10 +3680,10 @@
 1961,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Los hechos de la vida,tt0053810,"['Norman Panama', 'Melvin Frank']","['nm0659085', 'nm0291035']"
 1961,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,"Hiroshima, mon amour",tt0052893,['Marguerite Duras'],['nm0243921']
 1961,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Nunca en domingo,tt0054198,['Jules Dassin'],['nm0202088']
-1961,Honorary(Honorifico),Winner,Hayley Mills,nm0001539,,,,
-1961,Honorary(Honorifico),Winner,Gary Cooper,nm0000011,,,,
-1961,Honorary(Honorifico),Winner,Stan Laurel,nm0491048,,,,
-1961,Honorary(Honorifico),Winner,Sol Lesser,nm0504344,,,,
+1961,Honorary,Winner,Hayley Mills,nm0001539,,,,
+1961,Honorary,Winner,Gary Cooper,nm0000011,,,,
+1961,Honorary,Winner,Stan Laurel,nm0491048,,,,
+1961,Honorary,Winner,Sol Lesser,nm0504344,,,,
 1962,BestActorinaLeadingRole,Winner,Maximilian Schell,nm0001703,Vencedores o vencidos,tt0055031,,
 1962,BestActorinaLeadingRole,Nominee,Charles Boyer,nm0000964,Fanny,tt0054866,,
 1962,BestActorinaLeadingRole,Nominee,Paul Newman,nm0000056,El buscavidas,tt0054997,,
@@ -3803,10 +3803,10 @@
 1962,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,El general de la Rovere,tt0053856,"['Sergio Amidei', 'Diego Fabbri', 'Indro Montanelli']","['nm0024847', 'nm0264420', 'nm0598975']"
 1962,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,La dolce vita,tt0053779,"['Federico Fellini', 'Tullio Pinelli', 'Ennio Flaiano', 'Brunello Rondi']","['nm0000019', 'nm0684083', 'nm0280919', 'nm0740021']"
 1962,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Pijama para dos,tt0055100,"['Stanley Shapiro', 'Paul Henning']","['nm0788630', 'nm0377417']"
-1962,Honorary(Honorifico),Winner,William L. Hendricks,nm0376757,,,,
-1962,Honorary(Honorifico),Winner,Jerome Robbins,nm0730385,,,,
-1962,Honorary(Honorifico),Winner,Stanley Kramer,nm0006452,,,,
-1962,Honorary(Honorifico),Winner,George Seaton,nm0780833,,,,
+1962,Honorary,Winner,William L. Hendricks,nm0376757,,,,
+1962,Honorary,Winner,Jerome Robbins,nm0730385,,,,
+1962,Honorary,Winner,Stanley Kramer,nm0006452,,,,
+1962,Honorary,Winner,George Seaton,nm0780833,,,,
 1963,BestActorinaLeadingRole,Winner,Gregory Peck,nm0000060,Matar a un ruiseñor,tt0056592,,
 1963,BestActorinaLeadingRole,Nominee,Burt Lancaster,nm0000044,El hombre de Alcatraz,tt0055798,,
 1963,BestActorinaLeadingRole,Nominee,Jack Lemmon,nm0000493,Días de vino y rosas,tt0055895,,
@@ -3924,7 +3924,7 @@
 1963,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,El año pasado en Marienbad,tt0054632,['Alain Robbe-Grillet'],['nm0730237']
 1963,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Suave como visón,tt0056575,"['Stanley Shapiro', 'Nate Monaster']","['nm0788630', 'nm0597578']"
 1963,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Como en un espejo,tt0055499,['Ingmar Bergman'],['nm0000005']
-1963,Honorary(Honorifico),Winner,Steve Broidy,nm0111208,,,,
+1963,Honorary,Winner,Steve Broidy,nm0111208,,,,
 1964,BestActorinaLeadingRole,Winner,Sidney Poitier,nm0001627,Los lirios del valle,tt0057251,,
 1964,BestActorinaLeadingRole,Nominee,Albert Finney,nm0001215,Tom Jones,tt0057590,,
 1964,BestActorinaLeadingRole,Nominee,Richard Harris,nm0001321,El ingenuo salvaje,tt0057578,,
@@ -4047,7 +4047,7 @@
 1964,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Fellini 8½,tt0056801,"['Federico Fellini', 'Ennio Flaiano', 'Tullio Pinelli', 'Brunello Rondi']","['nm0000019', 'nm0280919', 'nm0684083', 'nm0740021']"
 1964,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Los cuatro días de Nápoles,tt0056389,"['Pasquale Festa Campanile', 'Massimo Franciosa', 'Nanni Loy', 'Vasco Pratolini', 'Carlo Bernari']","['nm0275269', 'nm0290050', 'nm0523439', 'nm0695390', 'nm0076547']"
 1964,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Amores con un extraño,tt0057263,['Arnold Schulman'],['nm0776068']
-1964,Honorary(Honorifico),Winner,Sam Spiegel,nm0818545,,,,
+1964,Honorary,Winner,Sam Spiegel,nm0818545,,,,
 1965,BestActorinaLeadingRole,Winner,Rex Harrison,nm0001322,My Fair Lady (Mi bella dama),tt0058385,,
 1965,BestActorinaLeadingRole,Nominee,Richard Burton,nm0000009,Becket,tt0057877,,
 1965,BestActorinaLeadingRole,Nominee,Peter O'Toole,nm0000564,Becket,tt0057877,,
@@ -4169,10 +4169,10 @@
 1965,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Víctima de la ley,tt0058429,"['Orville H. Hampton', 'Raphael Hayes']","['nm0359034', 'nm0371193']"
 1965,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Camaradas,tt0056945,"['Agenore Incrocci', 'Furio Scarpelli', 'Mario Monicelli']","['nm0408488', 'nm0769249', 'nm0598102']"
 1965,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,El hombre de Río,tt0058203,"['Jean-Paul Rappeneau', 'Ariane Mnouchkine', 'Daniel Boulanger', 'Philippe de Broca']","['nm0710919', 'nm0594892', 'nm0099429', 'nm0003606']"
-1965,Honorary(Honorifico),Winner,William Tuttle,nm0878369,,,,
-1965,Honorary(Honorifico),Winner,Petro Vlahos,nm1468620,,,,
-1965,Honorary(Honorifico),Winner,Sidney P. Solow,nm0813558,,,,
-1965,Honorary(Honorifico),Winner,Nelson Tyler,nm0878874,,,,
+1965,Honorary,Winner,William Tuttle,nm0878369,,,,
+1965,Honorary,Winner,Petro Vlahos,nm1468620,,,,
+1965,Honorary,Winner,Sidney P. Solow,nm0813558,,,,
+1965,Honorary,Winner,Nelson Tyler,nm0878874,,,,
 1966,BestActorinaLeadingRole,Winner,Lee Marvin,nm0001511,La ingenua explosiva,tt0059017,,
 1966,BestActorinaLeadingRole,Nominee,Richard Burton,nm0000009,El espía que surgió del frío,tt0059749,,
 1966,BestActorinaLeadingRole,Nominee,Laurence Olivier,nm0000059,Otelo,tt0059555,,
@@ -4295,9 +4295,9 @@
 1966,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Aquellos chalados en sus locos cacharros,tt0059797,"['Jack Davies', 'Ken Annakin']","['nm0203766', 'nm0002175']"
 1966,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,El tren,tt0059825,"['Franklin Coen', 'Frank Davis']","['nm0168759', 'nm0204608']"
 1966,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Los paraguas de Cherburgo,tt0058450,['Jacques Demy'],['nm0218840']
-1966,Honorary(Honorifico),Winner,Bob Hope,nm0001362,,,,
-1966,Honorary(Honorifico),Winner,William Wyler,nm0943758,,,,
-1966,Honorary(Honorifico),Winner,Edmond L. DePatie,nm11788669,,,,
+1966,Honorary,Winner,Bob Hope,nm0001362,,,,
+1966,Honorary,Winner,William Wyler,nm0943758,,,,
+1966,Honorary,Winner,Edmond L. DePatie,nm11788669,,,,
 1967,BestActorinaLeadingRole,Winner,Paul Scofield,nm0006890,Un hombre para la eternidad,tt0060665,,
 1967,BestActorinaLeadingRole,Nominee,Alan Arkin,nm0000273,¡Que vienen los rusos!,tt0060921,,
 1967,BestActorinaLeadingRole,Nominee,Richard Burton,nm0000009,¿Quién teme a Virginia Woolf?,tt0061184,,
@@ -4418,10 +4418,10 @@
 1967,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,En bandeja de plata,tt0060424,"['Billy Wilder', 'I.A.L. Diamond']","['nm0000697', 'nm0224634']"
 1967,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Kartum,tt0060588,['Robert Ardrey'],['nm0034124']
 1967,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,La presa desnuda,tt0060736,"['Clint Johnston', 'Don Peters']","['nm0426579', 'nm0676396']"
-1967,Honorary(Honorifico),Winner,Y. Frank Freeman,nm4460512,,,,
-1967,Honorary(Honorifico),Winner,Yakima Canutt,nm0134831,,,,
-1967,Honorary(Honorifico),Winner,Robert Wise,nm0936404,,,,
-1967,Honorary(Honorifico),Winner,George Bagnall,nm4929741,,,,
+1967,Honorary,Winner,Y. Frank Freeman,nm4460512,,,,
+1967,Honorary,Winner,Yakima Canutt,nm0134831,,,,
+1967,Honorary,Winner,Robert Wise,nm0936404,,,,
+1967,Honorary,Winner,George Bagnall,nm4929741,,,,
 1968,BestActorinaLeadingRole,Winner,Rod Steiger,nm0001768,En el calor de la noche,tt0061811,,
 1968,BestActorinaLeadingRole,Nominee,Warren Beatty,nm0000886,Bonnie y Clyde,tt0061418,,
 1968,BestActorinaLeadingRole,Nominee,Dustin Hoffman,nm0000163,El graduado,tt0061722,,
@@ -4528,9 +4528,9 @@
 1968,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,El novio de mi mujer,tt0061581,"['Robert Kaufman', 'Norman Lear']","['nm0442099', 'nm0005131']"
 1968,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,La guerra ha terminado,tt0060481,['Jorge Semprún'],['nm0783934']
 1968,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Dos en la carretera,tt0062407,['Frederic Raphael'],['nm0710698']
-1968,Honorary(Honorifico),Winner,Arthur Freed,nm0006085,,,,
-1968,Honorary(Honorifico),Winner,Alfred Hitchcock,nm0000033,,,,
-1968,Honorary(Honorifico),Winner,Gregory Peck,nm0000060,,,,
+1968,Honorary,Winner,Arthur Freed,nm0006085,,,,
+1968,Honorary,Winner,Alfred Hitchcock,nm0000033,,,,
+1968,Honorary,Winner,Gregory Peck,nm0000060,,,,
 1969,BestActorinaLeadingRole,Winner,Cliff Robertson,nm0731772,Charly,tt0062794,,
 1969,BestActorinaLeadingRole,Nominee,Alan Arkin,nm0000273,El corazón es un cazador solitario,tt0063050,,
 1969,BestActorinaLeadingRole,Nominee,Alan Bates,nm0000869,El hombre de Kiev,tt0062977,,
@@ -4636,11 +4636,11 @@
 1969,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Rostros (Faces),tt0062952,['John Cassavetes'],['nm0001023']
 1969,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,Un cerebro millonario,tt0063094,"['Ira Wallach', 'Peter Ustinov']","['nm0908923', 'nm0001811']"
 1969,"BestWriting,StoryandScreenplay-WrittenDirectlyfortheScreen",Nominee,,,2001: Una odisea del espacio,tt0062622,"['Stanley Kubrick', 'Arthur C. Clarke']","['nm0000040', 'nm0002009']"
-1969,Honorary(Honorifico),Winner,John Chambers,nm0150357,,,,
-1969,Honorary(Honorifico),Winner,Onna White,nm0925284,,,,
-1969,Honorary(Honorifico),Winner,Martha Raye,nm0713106,,,,
-1969,Honorary(Honorifico),Winner,Charles Staffell,nm0821228,,,,
-1969,Honorary(Honorifico),Winner,Ed Di Giulio,nm0223907,,,,
+1969,Honorary,Winner,John Chambers,nm0150357,,,,
+1969,Honorary,Winner,Onna White,nm0925284,,,,
+1969,Honorary,Winner,Martha Raye,nm0713106,,,,
+1969,Honorary,Winner,Charles Staffell,nm0821228,,,,
+1969,Honorary,Winner,Ed Di Giulio,nm0223907,,,,
 1970,BestActorinaLeadingRole,Winner,John Wayne,nm0000078,Valor de ley,tt0065126,,
 1970,BestActorinaLeadingRole,Nominee,Richard Burton,nm0000009,Ana de los mil días,tt0064030,,
 1970,BestActorinaLeadingRole,Nominee,Dustin Hoffman,nm0000163,Cowboy de medianoche,tt0064665,,
@@ -4744,8 +4744,8 @@
 1970,"BestWriting,StoryandScreenplayBasedonMaterialNotPreviouslyPublishedorProduced",Nominee,,,La caída de los dioses,tt0064118,"['Nicola Badalucco', 'Enrico Medioli', 'Luchino Visconti']","['nm0045938', 'nm0575804', 'nm0899581']"
 1970,"BestWriting,StoryandScreenplayBasedonMaterialNotPreviouslyPublishedorProduced",Nominee,,,Easy Rider (Buscando mi destino),tt0064276,"['Peter Fonda', 'Dennis Hopper', 'Terry Southern']","['nm0001228', 'nm0000454', 'nm0816143']"
 1970,"BestWriting,StoryandScreenplayBasedonMaterialNotPreviouslyPublishedorProduced",Nominee,,,Grupo salvaje,tt0065214,"['Walon Green', 'Roy N. Sickner', 'Sam Peckinpah']","['nm0338396', 'nm0796429', 'nm0001603']"
-1970,Honorary(Honorifico),Winner,Cary Grant,nm0000026,,,,
-1970,Honorary(Honorifico),Winner,George Jessel,nm0422181,,,,
+1970,Honorary,Winner,Cary Grant,nm0000026,,,,
+1970,Honorary,Winner,George Jessel,nm0422181,,,,
 1971,BestActorinaLeadingRole,Winner,George C. Scott,nm0001715,Patton,tt0066206,,
 1971,BestActorinaLeadingRole,Nominee,Melvyn Douglas,nm0002048,Nunca canté para mi padre,tt0065872,,
 1971,BestActorinaLeadingRole,Nominee,James Earl Jones,nm0000469,La gran esperanza blanca,tt0065797,,
@@ -4849,10 +4849,10 @@
 1971,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,"Joe, ciudadano americano",tt0065916,['Norman Wexler'],['nm0923319']
 1971,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Love Story,tt0066011,['Erich Segal'],['nm0781777']
 1971,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Mi noche con Maud,tt0064612,['Éric Rohmer'],['nm0006445']
-1971,Honorary(Honorifico),Winner,Lillian Gish,nm0001273,,,,
-1971,Honorary(Honorifico),Winner,Orson Welles,nm0000080,,,,
-1971,Honorary(Honorifico),Winner,Ingmar Bergman,nm0000005,,,,
-1971,Honorary(Honorifico),Winner,Frank Sinatra,nm0000069,,,,
+1971,Honorary,Winner,Lillian Gish,nm0001273,,,,
+1971,Honorary,Winner,Orson Welles,nm0000080,,,,
+1971,Honorary,Winner,Ingmar Bergman,nm0000005,,,,
+1971,Honorary,Winner,Frank Sinatra,nm0000069,,,,
 1972,BestActorinaLeadingRole,Winner,Gene Hackman,nm0000432,Contra el imperio de la droga,tt0067116,,
 1972,BestActorinaLeadingRole,Nominee,Peter Finch,nm0002075,"Domingo, maldito domingo",tt0067805,,
 1972,BestActorinaLeadingRole,Nominee,Walter Matthau,nm0000527,Señor Kotcher,tt0067314,,
@@ -4956,7 +4956,7 @@
 1972,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Klute,tt0067309,"['Andy Lewis', 'David E. Lewis']","['nm0506920', 'nm5557134']"
 1972,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Verano del 42,tt0067803,['Herman Raucher'],['nm0712029']
 1972,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,"Domingo, maldito domingo",tt0067805,['Penelope Gilliatt'],['nm0319149']
-1972,Honorary(Honorifico),Winner,Charles Chaplin,nm0000122,,,,
+1972,Honorary,Winner,Charles Chaplin,nm0000122,,,,
 1973,BestActorinaLeadingRole,Winner,Marlon Brando,nm0000008,El padrino,tt0068646,,
 1973,BestActorinaLeadingRole,Nominee,Michael Caine,nm0000323,La huella,tt0069281,,
 1973,BestActorinaLeadingRole,Nominee,Laurence Olivier,nm0000059,La huella,tt0069281,,
@@ -5057,10 +5057,10 @@
 1973,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,El ocaso de una estrella,tt0068828,"['Terence McCloy', 'Chris Clark', 'Suzanne De Passe']","['nm0565946', 'nm0163771', 'nm0210867']"
 1973,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,El soplo en el corazón,tt0067778,['Louis Malle'],['nm0001501']
 1973,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,El joven Winston,tt0069528,['Carl Foreman'],['nm0286025']
-1973,Honorary(Honorifico),Winner,L.B. Abbott,nm0008004,,,,
-1973,Honorary(Honorifico),Winner,Charles S. Boren,nm11912323,,,,
-1973,Honorary(Honorifico),Winner,Edward G. Robinson,nm0000064,,,,
-1973,Honorary(Honorifico),Winner,Rosalind Russell,nm0751426,,,,
+1973,Honorary,Winner,L.B. Abbott,nm0008004,,,,
+1973,Honorary,Winner,Charles S. Boren,nm11912323,,,,
+1973,Honorary,Winner,Edward G. Robinson,nm0000064,,,,
+1973,Honorary,Winner,Rosalind Russell,nm0751426,,,,
 1974,BestActorinaLeadingRole,Winner,Jack Lemmon,nm0000493,Salvad al tigre,tt0070640,,
 1974,BestActorinaLeadingRole,Nominee,Marlon Brando,nm0000008,El último tango en París,tt0070849,,
 1974,BestActorinaLeadingRole,Nominee,Jack Nicholson,nm0000197,El último deber,tt0070290,,
@@ -5160,10 +5160,10 @@
 1974,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Gritos y susurros,tt0069467,['Ingmar Bergman'],['nm0000005']
 1974,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Salvad al tigre,tt0070640,['Steve Shagan'],['nm0787399']
 1974,"BestWriting,StoryandScreenplayBasedonFactualMaterialorMaterialNotPreviouslyPublishedorProduced",Nominee,,,Un toque de distinción,tt0070819,"['Melvin Frank', 'Jack Rose']","['nm0291035', 'nm0741439']"
-1974,Honorary(Honorifico),Winner,Henri Langlois,nm0486581,,,,
-1974,Honorary(Honorifico),Winner,Groucho Marx,nm0000050,,,,
-1974,Honorary(Honorifico),Winner,Lawrence Weingarten,nm0918318,,,,
-1974,Honorary(Honorifico),Winner,Lew Wasserman,nm1348282,,,,
+1974,Honorary,Winner,Henri Langlois,nm0486581,,,,
+1974,Honorary,Winner,Groucho Marx,nm0000050,,,,
+1974,Honorary,Winner,Lawrence Weingarten,nm0918318,,,,
+1974,Honorary,Winner,Lew Wasserman,nm1348282,,,,
 1975,BestActorinaLeadingRole,Winner,Art Carney,nm0138770,Harry y Tonto,tt0071598,,
 1975,BestActorinaLeadingRole,Nominee,Albert Finney,nm0001215,Asesinato en el Orient Express,tt0071877,,
 1975,BestActorinaLeadingRole,Nominee,Dustin Hoffman,nm0000163,Lenny,tt0071746,,
@@ -5267,10 +5267,10 @@
 1975,"BestWriting,ScreenplayAdaptedFromOtherMaterial",Nominee,,,Lenny,tt0071746,['Julian Barry'],['nm0058057']
 1975,"BestWriting,ScreenplayAdaptedFromOtherMaterial",Nominee,,,Asesinato en el Orient Express,tt0071877,['Paul Dehn'],['nm0214989']
 1975,"BestWriting,ScreenplayAdaptedFromOtherMaterial",Nominee,,,El jovencito Frankenstein,tt0072431,"['Gene Wilder', 'Mel Brooks']","['nm0000698', 'nm0000316']"
-1975,Honorary(Honorifico),Winner,Frank Brendel,nm0107152,,,,
-1975,Honorary(Honorifico),Winner,Howard Hawks,nm0001328,,,,
-1975,Honorary(Honorifico),Winner,Jean Renoir,nm0719756,,,,
-1975,Honorary(Honorifico),Winner,Arthur Krim,nm1705363,,,,
+1975,Honorary,Winner,Frank Brendel,nm0107152,,,,
+1975,Honorary,Winner,Howard Hawks,nm0001328,,,,
+1975,Honorary,Winner,Jean Renoir,nm0719756,,,,
+1975,Honorary,Winner,Arthur Krim,nm1705363,,,,
 1976,BestActorinaLeadingRole,Winner,Jack Nicholson,nm0000197,Alguien voló sobre el nido del cuco,tt0073486,,
 1976,BestActorinaLeadingRole,Nominee,Walter Matthau,nm0000527,La pareja chiflada,tt0073766,,
 1976,BestActorinaLeadingRole,Nominee,Al Pacino,nm0000199,Tarde de perros,tt0072890,,
@@ -5373,11 +5373,11 @@
 1976,"BestWriting,ScreenplayAdaptedFromOtherMaterial",Nominee,,,El hombre que pudo reinar,tt0073341,"['John Huston', 'Gladys Hill']","['nm0001379', 'nm0384283']"
 1976,"BestWriting,ScreenplayAdaptedFromOtherMaterial",Nominee,,,Perfume de mujer,tt0072037,"['Ruggero Maccari', 'Dino Risi']","['nm0531431', 'nm0728271']"
 1976,"BestWriting,ScreenplayAdaptedFromOtherMaterial",Nominee,,,La pareja chiflada,tt0073766,['Neil Simon'],['nm0800319']
-1976,Honorary(Honorifico),Winner,Peter Berkos,nm0075440,,,,
-1976,Honorary(Honorifico),Winner,Albert Whitlock,nm0926087,,,,
-1976,Honorary(Honorifico),Winner,Mary Pickford,nm0681933,,,,
-1976,Honorary(Honorifico),Winner,Mervyn LeRoy,nm0503777,,,,
-1976,Honorary(Honorifico),Winner,Jules C. Stein,nm1246580,,,,
+1976,Honorary,Winner,Peter Berkos,nm0075440,,,,
+1976,Honorary,Winner,Albert Whitlock,nm0926087,,,,
+1976,Honorary,Winner,Mary Pickford,nm0681933,,,,
+1976,Honorary,Winner,Mervyn LeRoy,nm0503777,,,,
+1976,Honorary,Winner,Jules C. Stein,nm1246580,,,,
 1977,BestActorinaLeadingRole,Winner,Peter Finch,nm0002075,"Network, un mundo implacable",tt0074958,,
 1977,BestActorinaLeadingRole,Nominee,Robert De Niro,nm0000134,Taxi Driver,tt0075314,,
 1977,BestActorinaLeadingRole,Nominee,Giancarlo Giannini,nm0316284,Pascualino Siete Bellezas,tt0075040,,
@@ -5479,9 +5479,9 @@
 1977,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,La tapadera,tt0074554,['Walter Bernstein'],['nm0077159']
 1977,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Rocky,tt0075148,['Sylvester Stallone'],['nm0000230']
 1977,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Pascualino Siete Bellezas,tt0075040,['Lina Wertmüller'],['nm0921631']
-1977,Honorary(Honorifico),Winner,Carlo Rambaldi,nm0708058,,,,
-1977,Honorary(Honorifico),Winner,Glen Robinson,nm0732656,,,,
-1977,Honorary(Honorifico),Winner,Pandro S. Berman,nm0075825,,,,
+1977,Honorary,Winner,Carlo Rambaldi,nm0708058,,,,
+1977,Honorary,Winner,Glen Robinson,nm0732656,,,,
+1977,Honorary,Winner,Pandro S. Berman,nm0075825,,,,
 1978,BestActorinaLeadingRole,Winner,Richard Dreyfuss,nm0000377,La chica del adiós,tt0076095,,
 1978,BestActorinaLeadingRole,Nominee,Woody Allen,nm0000095,Annie Hall,tt0075686,,
 1978,BestActorinaLeadingRole,Nominee,Richard Burton,nm0000009,Equus,tt0075995,,
@@ -5586,20 +5586,20 @@
 1978,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El gato conoce al asesino,tt0076301,['Robert Benton'],['nm0000914']
 1978,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,La guerra de las galaxias,tt0076759,['George Lucas'],['nm0000184']
 1978,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Paso decisivo,tt0076843,['Arthur Laurents'],['nm0491306']
-1978,Honorary(Honorifico),Winner,Frank E. Warner,nm0912466,,,,
-1978,Honorary(Honorifico),Winner,Ben Burtt,nm0123785,,,,
-1978,Honorary(Honorifico),Winner,Margaret Booth,nm0004290,,,,
-1978,Honorary(Honorifico),Winner,Gordon Sawyer,nm0768167,,,,
-1978,Honorary(Honorifico),Winner,Walter Mirisch,nm0592387,,,,
-1978,Honorary(Honorifico),Winner,Charlton Heston,nm0000032,,,,
-1978,Honorary(Honorifico),Winner,Garrett Brown,nm0113593,,,,
-1978,Honorary(Honorifico),Winner,Ray Dolby,nm2591246,,,,
-1978,Honorary(Honorifico),Winner,Ioan Allen,nm2344873,,,,
-1978,Honorary(Honorifico),Winner,David P. Robinson,nm0732538,,,,
-1978,Honorary(Honorifico),Winner,Stephen Katz,nm0441858,,,,
-1978,Honorary(Honorifico),Winner,Philip Boole,nm0095434,,,,
-1978,Honorary(Honorifico),Winner,Dolby Laboratories,,,,,
-1978,Honorary(Honorifico),Winner,Paul Kenworthy,nm0448949,,,,
+1978,Honorary,Winner,Frank E. Warner,nm0912466,,,,
+1978,Honorary,Winner,Ben Burtt,nm0123785,,,,
+1978,Honorary,Winner,Margaret Booth,nm0004290,,,,
+1978,Honorary,Winner,Gordon Sawyer,nm0768167,,,,
+1978,Honorary,Winner,Walter Mirisch,nm0592387,,,,
+1978,Honorary,Winner,Charlton Heston,nm0000032,,,,
+1978,Honorary,Winner,Garrett Brown,nm0113593,,,,
+1978,Honorary,Winner,Ray Dolby,nm2591246,,,,
+1978,Honorary,Winner,Ioan Allen,nm2344873,,,,
+1978,Honorary,Winner,David P. Robinson,nm0732538,,,,
+1978,Honorary,Winner,Stephen Katz,nm0441858,,,,
+1978,Honorary,Winner,Philip Boole,nm0095434,,,,
+1978,Honorary,Winner,Dolby Laboratories,,,,,
+1978,Honorary,Winner,Paul Kenworthy,nm0448949,,,,
 1979,BestActorinaLeadingRole,Winner,Jon Voight,nm0000685,El regreso,tt0077362,,
 1979,BestActorinaLeadingRole,Nominee,Warren Beatty,nm0000886,El cielo puede esperar,tt0077663,,
 1979,BestActorinaLeadingRole,Nominee,Gary Busey,nm0000997,La historia de Buddy Holly,tt0077280,,
@@ -5700,12 +5700,12 @@
 1979,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El cazador,tt0077416,"['Michael Cimino', 'Deric Washburn', 'Louis Garfinkle', 'Quinn K. Redeker']","['nm0001047', 'nm0913346', 'nm0307311', 'nm0714793']"
 1979,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Interiores,tt0077742,['Woody Allen'],['nm0000095']
 1979,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Una mujer descasada,tt0078444,['Paul Mazursky'],['nm0005196']
-1979,Honorary(Honorifico),Winner,Les Bowie,nm0101155,,,,
-1979,Honorary(Honorifico),Winner,Walter Lantz,nm0487237,,,,
-1979,Honorary(Honorifico),Winner,Laurence Olivier,nm0000059,,,,
-1979,Honorary(Honorifico),Winner,King Vidor,nm0896542,,,,
-1979,Honorary(Honorifico),Winner,Linwood G. Dunn,nm0242670,,,,
-1979,Honorary(Honorifico),Winner,Leo Jaffe,nm1616782,,,,
+1979,Honorary,Winner,Les Bowie,nm0101155,,,,
+1979,Honorary,Winner,Walter Lantz,nm0487237,,,,
+1979,Honorary,Winner,Laurence Olivier,nm0000059,,,,
+1979,Honorary,Winner,King Vidor,nm0896542,,,,
+1979,Honorary,Winner,Linwood G. Dunn,nm0242670,,,,
+1979,Honorary,Winner,Leo Jaffe,nm1616782,,,,
 1980,BestActorinaLeadingRole,Winner,Dustin Hoffman,nm0000163,Kramer contra Kramer,tt0079417,,
 1980,BestActorinaLeadingRole,Nominee,Jack Lemmon,nm0000493,El síndrome de China,tt0078966,,
 1980,BestActorinaLeadingRole,Nominee,Al Pacino,nm0000199,Justicia para todos,tt0078718,,
@@ -5812,11 +5812,11 @@
 1980,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Justicia para todos,tt0078718,"['Valerie Curtin', 'Barry Levinson']","['nm0193224', 'nm0001469']"
 1980,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El síndrome de China,tt0078966,"['Mike Gray', 'T.S. Cook', 'James Bridges']","['nm0336831', 'nm0177304', 'nm0108745']"
 1980,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Manhattan,tt0079522,"['Woody Allen', 'Marshall Brickman']","['nm0000095', 'nm0108613']"
-1980,Honorary(Honorifico),Winner,Alan Splet,nm0819263,,,,
-1980,Honorary(Honorifico),Winner,Alec Guinness,nm0000027,,,,
-1980,Honorary(Honorifico),Winner,Hal Elias,nm1087787,,,,
-1980,Honorary(Honorifico),Winner,John Aalberg,nm0007356,,,,
-1980,Honorary(Honorifico),Winner,Ray Stark,nm0823256,,,,
+1980,Honorary,Winner,Alan Splet,nm0819263,,,,
+1980,Honorary,Winner,Alec Guinness,nm0000027,,,,
+1980,Honorary,Winner,Hal Elias,nm1087787,,,,
+1980,Honorary,Winner,John Aalberg,nm0007356,,,,
+1980,Honorary,Winner,Ray Stark,nm0823256,,,,
 1981,BestActorinaLeadingRole,Winner,Robert De Niro,nm0000134,Toro salvaje,tt0081398,,
 1981,BestActorinaLeadingRole,Nominee,Robert Duvall,nm0000380,El don del coraje,tt0079239,,
 1981,BestActorinaLeadingRole,Nominee,John Hurt,nm0000457,El hombre elefante,tt0080678,,
@@ -5913,16 +5913,16 @@
 1981,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Fama,tt0080716,['Christopher Gore'],['nm0330731']
 1981,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Mi tío de América,tt0081176,['Jean Gruault'],['nm0344171']
 1981,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,La recluta Benjamin,tt0081375,"['Nancy Meyers', 'Charles Shyer', 'Harvey Miller']","['nm0583600', 'nm0796124', 'nm0588458']"
-1981,Honorary(Honorifico),Winner,Brian Johnson,nm0424644,,,,
-1981,Honorary(Honorifico),Winner,Henry Fonda,nm0000020,,,,
-1981,Honorary(Honorifico),Winner,Fred Hynes,nm0405261,,,,
-1981,Honorary(Honorifico),Winner,Linwood G. Dunn,nm0242670,,,,
-1981,Honorary(Honorifico),Winner,Jean-Marie Lavalou,nm0491759,,,,
-1981,Honorary(Honorifico),Winner,Alain Masseron,nm0557251,,,,
-1981,Honorary(Honorifico),Winner,David Samuelson,nm1038141,,,,
-1981,Honorary(Honorifico),Winner,David Grafton,nm0333849,,,,
-1981,Honorary(Honorifico),Winner,Peter Regla,nm0716664,,,,
-1981,Honorary(Honorifico),Winner,Dan Slater,nm0805361,,,,
+1981,Honorary,Winner,Brian Johnson,nm0424644,,,,
+1981,Honorary,Winner,Henry Fonda,nm0000020,,,,
+1981,Honorary,Winner,Fred Hynes,nm0405261,,,,
+1981,Honorary,Winner,Linwood G. Dunn,nm0242670,,,,
+1981,Honorary,Winner,Jean-Marie Lavalou,nm0491759,,,,
+1981,Honorary,Winner,Alain Masseron,nm0557251,,,,
+1981,Honorary,Winner,David Samuelson,nm1038141,,,,
+1981,Honorary,Winner,David Grafton,nm0333849,,,,
+1981,Honorary,Winner,Peter Regla,nm0716664,,,,
+1981,Honorary,Winner,Dan Slater,nm0805361,,,,
 1982,BestActorinaLeadingRole,Winner,Henry Fonda,nm0000020,En el estanque dorado,tt0082846,,
 1982,BestActorinaLeadingRole,Nominee,Warren Beatty,nm0000886,Rojos,tt0082979,,
 1982,BestActorinaLeadingRole,Nominee,Burt Lancaster,nm0000044,Atlantic City,tt0080388,,
@@ -6023,10 +6023,10 @@
 1982,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,"Arthur, el soltero de oro",tt0082031,['Steve Gordon'],['nm0330619']
 1982,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Atlantic City,tt0080388,['John Guare'],['nm0345359']
 1982,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Rojos,tt0082979,"['Warren Beatty', 'Trevor Griffiths']","['nm0000886', 'nm0341767']"
-1982,Honorary(Honorifico),Winner,Ben Burtt,nm0123785,,,,
-1982,Honorary(Honorifico),Winner,Barbara Stanwyck,nm0001766,,,,
-1982,Honorary(Honorifico),Winner,Albert R. Broccoli,nm0110482,,,,
-1982,Honorary(Honorifico),Winner,Danny Kaye,nm0001414,,,,
+1982,Honorary,Winner,Ben Burtt,nm0123785,,,,
+1982,Honorary,Winner,Barbara Stanwyck,nm0001766,,,,
+1982,Honorary,Winner,Albert R. Broccoli,nm0110482,,,,
+1982,Honorary,Winner,Danny Kaye,nm0001414,,,,
 1983,BestActorinaLeadingRole,Winner,Ben Kingsley,nm0001426,Gandhi,tt0083987,,
 1983,BestActorinaLeadingRole,Nominee,Dustin Hoffman,nm0000163,Tootsie,tt0084805,,
 1983,BestActorinaLeadingRole,Nominee,Jack Lemmon,nm0000493,Desaparecido,tt0084335,,
@@ -6137,15 +6137,15 @@
 1983,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,E.T. El extraterrestre,tt0083866,['Melissa Mathison'],['nm0558953']
 1983,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Oficial y caballero,tt0084434,['Douglas Day Stewart'],['nm0829343']
 1983,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Tootsie,tt0084805,"['Larry Gelbart', 'Murray Schisgal', 'Don McGuire']","['nm0312205', 'nm0772003', 'nm0570190']"
-1983,Honorary(Honorifico),Winner,Mickey Rooney,nm0001682,,,,
-1983,Honorary(Honorifico),Winner,Walter Mirisch,nm0592387,,,,
-1983,Honorary(Honorifico),Winner,August Arnold,nm2107998,,,,
-1983,Honorary(Honorifico),Winner,Leonard Chapman,nm0502585,,,,
-1983,Honorary(Honorifico),Winner,Dick Deats,nm0213263,,,,
-1983,Honorary(Honorifico),Winner,Cons Tresfon,nm0872245,,,,
-1983,Honorary(Honorifico),Winner,Carlos DeMattos,nm1887850,,,,
-1983,Honorary(Honorifico),Winner,Bran Ferren,nm0274512,,,,
-1983,Honorary(Honorifico),Winner,John Aalberg,nm0007356,,,,
+1983,Honorary,Winner,Mickey Rooney,nm0001682,,,,
+1983,Honorary,Winner,Walter Mirisch,nm0592387,,,,
+1983,Honorary,Winner,August Arnold,nm2107998,,,,
+1983,Honorary,Winner,Leonard Chapman,nm0502585,,,,
+1983,Honorary,Winner,Dick Deats,nm0213263,,,,
+1983,Honorary,Winner,Cons Tresfon,nm0872245,,,,
+1983,Honorary,Winner,Carlos DeMattos,nm1887850,,,,
+1983,Honorary,Winner,Bran Ferren,nm0274512,,,,
+1983,Honorary,Winner,John Aalberg,nm0007356,,,,
 1984,BestActorinaLeadingRole,Winner,Robert Duvall,nm0000380,Gracias y favores,tt0086423,,
 1984,BestActorinaLeadingRole,Nominee,Michael Caine,nm0000323,Educando a Rita,tt0085478,,
 1984,BestActorinaLeadingRole,Nominee,Tom Conti,nm0002018,"Reuben, Reuben",tt0084591,,
@@ -6247,9 +6247,9 @@
 1984,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Fanny y Alexander,tt0083922,['Ingmar Bergman'],['nm0000005']
 1984,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Silkwood,tt0086312,"['Nora Ephron', 'Alice Arlen']","['nm0001188', 'nm0035146']"
 1984,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Juegos de guerra,tt0086567,"['Lawrence Lasker', 'Walter F. Parkes']","['nm0489623', 'nm0662748']"
-1984,Honorary(Honorifico),Winner,Richard Edlund,nm0249430,,,,
-1984,Honorary(Honorifico),Winner,Hal Roach,nm0730018,,,,
-1984,Honorary(Honorifico),Winner,M.J. Frankovich,nm0291622,,,,
+1984,Honorary,Winner,Richard Edlund,nm0249430,,,,
+1984,Honorary,Winner,Hal Roach,nm0730018,,,,
+1984,Honorary,Winner,M.J. Frankovich,nm0291622,,,,
 1985,BestActorinaLeadingRole,Winner,F. Murray Abraham,nm0000719,Amadeus,tt0086879,,
 1985,BestActorinaLeadingRole,Nominee,Jeff Bridges,nm0000313,Starman: El hombre de las estrellas,tt0088172,,
 1985,BestActorinaLeadingRole,Nominee,Albert Finney,nm0001215,Bajo el volcán,tt0088322,,
@@ -6355,9 +6355,9 @@
 1985,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Broadway Danny Rose,tt0087003,['Woody Allen'],['nm0000095']
 1985,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El Norte,tt0085482,"['Gregory Nava', 'Anna Thomas']","['nm0622695', 'nm0858482']"
 1985,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,"1, 2, 3... Splash",tt0088161,"['Lowell Ganz', 'Babaloo Mandel', 'Bruce Jay Friedman', 'Brian Grazer']","['nm0304665', 'nm0541632', 'nm0295171', 'nm0004976']"
-1985,Honorary(Honorifico),Winner,Kay Rose,nm0741515,,,,
-1985,Honorary(Honorifico),Winner,James Stewart,nm0000071,,,,
-1985,Honorary(Honorifico),Winner,David L. Wolper,nm0938678,,,,
+1985,Honorary,Winner,Kay Rose,nm0741515,,,,
+1985,Honorary,Winner,James Stewart,nm0000071,,,,
+1985,Honorary,Winner,David L. Wolper,nm0938678,,,,
 1986,BestActorinaLeadingRole,Winner,William Hurt,nm0000458,El beso de la mujer araña,tt0089424,,
 1986,BestActorinaLeadingRole,Nominee,Harrison Ford,nm0000148,Único testigo,tt0090329,,
 1986,BestActorinaLeadingRole,Nominee,James Garner,nm0001258,El romance de Murphy,tt0089643,,
@@ -6463,8 +6463,8 @@
 1986,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Brazil,tt0088846,"['Terry Gilliam', 'Tom Stoppard', 'Charles McKeown']","['nm0000416', 'nm0001779', 'nm0571650']"
 1986,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,La historia oficial,tt0089276,"['Luis Puenzo', 'Aída Bortnik']","['nm0699933', 'nm0097548']"
 1986,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,La rosa púrpura de El Cairo,tt0089853,['Woody Allen'],['nm0000095']
-1986,Honorary(Honorifico),Winner,Paul Newman,nm0000056,,,,
-1986,Honorary(Honorifico),Winner,Alex North,nm0006218,,,,
+1986,Honorary,Winner,Paul Newman,nm0000056,,,,
+1986,Honorary,Winner,Alex North,nm0006218,,,,
 1987,BestActorinaLeadingRole,Winner,Paul Newman,nm0000056,El color del dinero,tt0090863,,
 1987,BestActorinaLeadingRole,Nominee,Dexter Gordon,nm0330143,Alrededor de la medianoche,tt0090557,,
 1987,BestActorinaLeadingRole,Nominee,Bob Hoskins,nm0001364,Mona Lisa,tt0091538,,
@@ -6570,7 +6570,7 @@
 1987,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Mi hermosa lavandería,tt0091578,['Hanif Kureishi'],['nm0475659']
 1987,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Platoon,tt0091763,['Oliver Stone'],['nm0000231']
 1987,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Salvador,tt0091886,"['Oliver Stone', 'Richard Boyle']","['nm0000231', 'nm0975328']"
-1987,Honorary(Honorifico),Winner,Ralph Bellamy,nm0000897,,,,
+1987,Honorary,Winner,Ralph Bellamy,nm0000897,,,,
 1988,BestActorinaLeadingRole,Winner,Michael Douglas,nm0000140,Wall Street,tt0094291,,
 1988,BestActorinaLeadingRole,Nominee,William Hurt,nm0000458,Al filo de la noticia,tt0092699,,
 1988,BestActorinaLeadingRole,Nominee,Marcello Mastroianni,nm0000052,Ojos negros,tt0093664,,
@@ -6672,8 +6672,8 @@
 1988,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Al filo de la noticia,tt0092699,['James L. Brooks'],['nm0000985']
 1988,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Esperanza y gloria,tt0093209,['John Boorman'],['nm0000958']
 1988,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Días de radio,tt0093818,['Woody Allen'],['nm0000095']
-1988,Honorary(Honorifico),Winner,Stephen Hunter Flick,nm0282276,,,,
-1988,Honorary(Honorifico),Winner,Billy Wilder,nm0000697,,,,
+1988,Honorary,Winner,Stephen Hunter Flick,nm0282276,,,,
+1988,Honorary,Winner,Billy Wilder,nm0000697,,,,
 1989,BestActorinaLeadingRole,Winner,Dustin Hoffman,nm0000163,Rain Man,tt0095953,,
 1989,BestActorinaLeadingRole,Nominee,Gene Hackman,nm0000432,Arde Mississippi,tt0095647,,
 1989,BestActorinaLeadingRole,Nominee,Tom Hanks,nm0000158,Big,tt0094737,,
@@ -6777,7 +6777,7 @@
 1989,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Los búfalos de Durham,tt0094812,['Ron Shelton'],['nm0005421']
 1989,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Un pez llamado Wanda,tt0095159,"['John Cleese', 'Charles Crichton']","['nm0000092', 'nm0187769']"
 1989,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Un lugar en ninguna parte,tt0096018,['Naomi Foner'],['nm0284524']
-1989,Honorary(Honorifico),Winner,Richard Williams,nm0931530,,,,
+1989,Honorary,Winner,Richard Williams,nm0931530,,,,
 1990,BestActorinaLeadingRole,Winner,Daniel Day-Lewis,nm0000358,Mi pie izquierdo,tt0097937,,
 1990,BestActorinaLeadingRole,Nominee,Kenneth Branagh,nm0000110,Enrique V,tt0097499,,
 1990,BestActorinaLeadingRole,Nominee,Tom Cruise,nm0000129,Nacido el cuatro de julio,tt0096969,,
@@ -6881,7 +6881,7 @@
 1990,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Haz lo que debas,tt0097216,['Spike Lee'],['nm0000490']
 1990,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,"Sexo, mentiras y cintas de vídeo",tt0098724,['Steven Soderbergh'],['nm0001752']
 1990,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Cuando Harry encontró a Sally...,tt0098635,['Nora Ephron'],['nm0001188']
-1990,Honorary(Honorifico),Winner,Akira Kurosawa,nm0000041,,,,
+1990,Honorary,Winner,Akira Kurosawa,nm0000041,,,,
 1991,BestActorinaLeadingRole,Winner,Jeremy Irons,nm0000460,El misterio Von Bulow,tt0100486,,
 1991,BestActorinaLeadingRole,Nominee,Kevin Costner,nm0000126,Bailando con lobos,tt0099348,,
 1991,BestActorinaLeadingRole,Nominee,Robert De Niro,nm0000134,Despertares,tt0099077,,
@@ -6986,9 +6986,9 @@
 1991,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Avalon,tt0099073,['Barry Levinson'],['nm0001469']
 1991,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Matrimonio de conveniencia,tt0099699,['Peter Weir'],['nm0001837']
 1991,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Metropolitan,tt0100142,['Whit Stillman'],['nm0001775']
-1991,Honorary(Honorifico),Winner,Eric Brevig,nm0108094,,,,
-1991,Honorary(Honorifico),Winner,Sophia Loren,nm0000047,,,,
-1991,Honorary(Honorifico),Winner,Myrna Loy,nm0001485,,,,
+1991,Honorary,Winner,Eric Brevig,nm0108094,,,,
+1991,Honorary,Winner,Sophia Loren,nm0000047,,,,
+1991,Honorary,Winner,Myrna Loy,nm0001485,,,,
 1992,BestActorinaLeadingRole,Winner,Anthony Hopkins,nm0000164,El silencio de los corderos,tt0102926,,
 1992,BestActorinaLeadingRole,Nominee,Warren Beatty,nm0000886,Bugsy,tt0101516,,
 1992,BestActorinaLeadingRole,Nominee,Robert De Niro,nm0000134,El cabo del miedo,tt0101540,,
@@ -7094,10 +7094,10 @@
 1992,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Bugsy,tt0101516,['James Toback'],['nm0864812']
 1992,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El rey pescador,tt0101889,['Richard LaGravenese'],['nm0481418']
 1992,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Grand Canyon (El alma de la ciudad),tt0101969,"['Lawrence Kasdan', 'Meg Kasdan']","['nm0001410', 'nm0440462']"
-1992,Honorary(Honorifico),Winner,Satyajit Ray,nm0006249,,,,
-1992,Honorary(Honorifico),Winner,Richard J. Stumpf,nm0836231,,,,
-1992,Honorary(Honorifico),Winner,Joseph Freyer Westheimer,nm0922760,,,,
-1992,Honorary(Honorifico),Winner,George Lucas,nm0000184,,,,
+1992,Honorary,Winner,Satyajit Ray,nm0006249,,,,
+1992,Honorary,Winner,Richard J. Stumpf,nm0836231,,,,
+1992,Honorary,Winner,Joseph Freyer Westheimer,nm0922760,,,,
+1992,Honorary,Winner,George Lucas,nm0000184,,,,
 1993,BestActorinaLeadingRole,Winner,Al Pacino,nm0000199,Esencia de mujer,tt0105323,,
 1993,BestActorinaLeadingRole,Nominee,Robert Downey Jr.,nm0000375,Chaplin,tt0103939,,
 1993,BestActorinaLeadingRole,Nominee,Clint Eastwood,nm0000142,Sin perdón,tt0105695,,
@@ -7207,10 +7207,10 @@
 1993,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El aceite de la vida,tt0104756,"['George Miller', 'Nick Enright']","['nm0004306', 'nm0258012']"
 1993,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Passion Fish,tt0105107,['John Sayles'],['nm0000626']
 1993,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Sin perdón,tt0105695,['David Webb Peoples'],['nm0672459']
-1993,Honorary(Honorifico),Winner,Federico Fellini,nm0000019,,,,
-1993,Honorary(Honorifico),Winner,Petro Vlahos,nm1468620,,,,
-1993,Honorary(Honorifico),Winner,Elizabeth Taylor,nm0000072,,,,
-1993,Honorary(Honorifico),Winner,Audrey Hepburn,nm0000030,,,,
+1993,Honorary,Winner,Federico Fellini,nm0000019,,,,
+1993,Honorary,Winner,Petro Vlahos,nm1468620,,,,
+1993,Honorary,Winner,Elizabeth Taylor,nm0000072,,,,
+1993,Honorary,Winner,Audrey Hepburn,nm0000030,,,,
 1994,BestActorinaLeadingRole,Winner,Tom Hanks,nm0000158,Philadelphia,tt0107818,,
 1994,BestActorinaLeadingRole,Nominee,Daniel Day-Lewis,nm0000358,En el nombre del padre,tt0107207,,
 1994,BestActorinaLeadingRole,Nominee,Laurence Fishburne,nm0000401,Tina,tt0108551,,
@@ -7318,9 +7318,9 @@
 1994,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,En la línea de fuego,tt0107206,['Jeff Maguire'],['nm0536587']
 1994,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Philadelphia,tt0107818,['Ron Nyswaner'],['nm0638913']
 1994,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Algo para recordar,tt0108160,"['Nora Ephron', 'David S. Ward', 'Jeff Arch']","['nm0001188', 'nm0911486', 'nm0033578']"
-1994,Honorary(Honorifico),Winner,Deborah Kerr,nm0000039,,,,
-1994,Honorary(Honorifico),Winner,John A. Bonner,nm0094911,,,,
-1994,Honorary(Honorifico),Winner,Paul Newman,nm0000056,,,,
+1994,Honorary,Winner,Deborah Kerr,nm0000039,,,,
+1994,Honorary,Winner,John A. Bonner,nm0094911,,,,
+1994,Honorary,Winner,Paul Newman,nm0000056,,,,
 1995,BestActorinaLeadingRole,Winner,Tom Hanks,nm0000158,Forrest Gump,tt0109830,,
 1995,BestActorinaLeadingRole,Nominee,Morgan Freeman,nm0000151,Cadena perpetua,tt0111161,,
 1995,BestActorinaLeadingRole,Nominee,Nigel Hawthorne,nm0001329,La locura del rey Jorge,tt0110428,,
@@ -7431,31 +7431,31 @@
 1995,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Cuatro bodas y un funeral,tt0109831,['Richard Curtis'],['nm0193485']
 1995,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Criaturas celestiales,tt0110005,"['Fran Walsh', 'Peter Jackson']","['nm0909638', 'nm0001392']"
 1995,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Tres colores: Rojo,tt0111495,"['Krzysztof Piesiewicz', 'Krzysztof Kieslowski']","['nm0682830', 'nm0001425']"
-1995,Honorary(Honorifico),Winner,Michelangelo Antonioni,nm0000774,,,,
-1995,Honorary(Honorifico),Winner,John A. Bonner,nm0094911,,,,
-1995,Honorary(Honorifico),Winner,Clint Eastwood,nm0000142,,,,
-1995,Honorary(Honorifico),Winner,Quincy Jones,nm0005065,,,,
-1995,Honorary(Honorifico),Winner,Petro Vlahos,nm1468620,,,,
-1995,Honorary(Honorifico),Winner,Paul Vlahos,nm1466687,,,,
-1995,Honorary(Honorifico),Winner,Bill Bishop,nm0083993,,,,
-1995,Honorary(Honorifico),Winner,Ray Feeney,nm2990419,,,,
-1995,Honorary(Honorifico),Winner,Richard Patterson,nm0666370,,,,
-1995,Honorary(Honorifico),Winner,Lincoln Hu,nm0398894,,,,
-1995,Honorary(Honorifico),Winner,Mike MacKenzie,nm0533371,,,,
-1995,Honorary(Honorifico),Winner,Mike Davis,nm0205165,,,,
-1995,Honorary(Honorifico),Winner,Ray Feeney,nm2990419,,,,
-1995,Honorary(Honorifico),Winner,Will McCown,nm1639904,,,,
-1995,Honorary(Honorifico),Winner,Dieter Sturm,nm1308827,,,,
-1995,Honorary(Honorifico),Winner,Michael Crichton,nm0000341,,,,
-1995,Honorary(Honorifico),Winner,Emil Safier,nm0755873,,,,
-1995,Honorary(Honorifico),Winner,Stephen Greenfield,nm0339022,,,,
-1995,Honorary(Honorifico),Winner,Frieder Hocheim,nm0387807,,,,
-1995,Honorary(Honorifico),Winner,Gary H. Swink,nm0842724,,,,
-1995,Honorary(Honorifico),Winner,John Carter,nm2319194,,,,
-1995,Honorary(Honorifico),Winner,Stephen W. Potter,nm2629157,,,,
-1995,Honorary(Honorifico),Winner,John Asman,nm0039548,,,,
-1995,Honorary(Honorifico),Winner,Charles Pell,nm2631385,,,,
-1995,Honorary(Honorifico),Winner,Mike Boudry,nm0064456,,,,
+1995,Honorary,Winner,Michelangelo Antonioni,nm0000774,,,,
+1995,Honorary,Winner,John A. Bonner,nm0094911,,,,
+1995,Honorary,Winner,Clint Eastwood,nm0000142,,,,
+1995,Honorary,Winner,Quincy Jones,nm0005065,,,,
+1995,Honorary,Winner,Petro Vlahos,nm1468620,,,,
+1995,Honorary,Winner,Paul Vlahos,nm1466687,,,,
+1995,Honorary,Winner,Bill Bishop,nm0083993,,,,
+1995,Honorary,Winner,Ray Feeney,nm2990419,,,,
+1995,Honorary,Winner,Richard Patterson,nm0666370,,,,
+1995,Honorary,Winner,Lincoln Hu,nm0398894,,,,
+1995,Honorary,Winner,Mike MacKenzie,nm0533371,,,,
+1995,Honorary,Winner,Mike Davis,nm0205165,,,,
+1995,Honorary,Winner,Ray Feeney,nm2990419,,,,
+1995,Honorary,Winner,Will McCown,nm1639904,,,,
+1995,Honorary,Winner,Dieter Sturm,nm1308827,,,,
+1995,Honorary,Winner,Michael Crichton,nm0000341,,,,
+1995,Honorary,Winner,Emil Safier,nm0755873,,,,
+1995,Honorary,Winner,Stephen Greenfield,nm0339022,,,,
+1995,Honorary,Winner,Frieder Hocheim,nm0387807,,,,
+1995,Honorary,Winner,Gary H. Swink,nm0842724,,,,
+1995,Honorary,Winner,John Carter,nm2319194,,,,
+1995,Honorary,Winner,Stephen W. Potter,nm2629157,,,,
+1995,Honorary,Winner,John Asman,nm0039548,,,,
+1995,Honorary,Winner,Charles Pell,nm2631385,,,,
+1995,Honorary,Winner,Mike Boudry,nm0064456,,,,
 1996,BestActorinaLeadingRole,Winner,Nicolas Cage,nm0000115,Leaving Las Vegas,tt0113627,,
 1996,BestActorinaLeadingRole,Nominee,Richard Dreyfuss,nm0000377,Profesor Holland,tt0113862,,
 1996,BestActorinaLeadingRole,Nominee,Anthony Hopkins,nm0000164,Nixon,tt0113987,,
@@ -7569,9 +7569,9 @@
 1996,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Poderosa Afrodita,tt0113819,['Woody Allen'],['nm0000095']
 1996,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Nixon,tt0113987,"['Stephen J. Rivele', 'Christopher Wilkinson', 'Oliver Stone']","['nm0729151', 'nm0929349', 'nm0000231']"
 1996,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Toy Story,tt0114709,"['Joss Whedon', 'Andrew Stanton', 'Joel Cohen', 'Alec Sokolow', 'John Lasseter', 'Pete Docter', 'Joe Ranft']","['nm0923736', 'nm0004056', 'nm0169505', 'nm0812513', 'nm0005124', 'nm0230032', 'nm0710020']"
-1996,Honorary(Honorifico),Winner,John Lasseter,nm0005124,,,,
-1996,Honorary(Honorifico),Winner,Kirk Douglas,nm0000018,,,,
-1996,Honorary(Honorifico),Winner,Chuck Jones,nm0005062,,,,
+1996,Honorary,Winner,John Lasseter,nm0005124,,,,
+1996,Honorary,Winner,Kirk Douglas,nm0000018,,,,
+1996,Honorary,Winner,Chuck Jones,nm0005062,,,,
 1997,BestActorinaLeadingRole,Winner,Geoffrey Rush,nm0001691,Shine,tt0117631,,
 1997,BestActorinaLeadingRole,Nominee,Tom Cruise,nm0000129,Jerry Maguire,tt0116695,,
 1997,BestActorinaLeadingRole,Nominee,Ralph Fiennes,nm0000146,El paciente inglés,tt0116209,,
@@ -7685,11 +7685,11 @@
 1997,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Lone Star,tt0116905,['John Sayles'],['nm0000626']
 1997,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Secretos y mentiras,tt0117589,['Mike Leigh'],['nm0005139']
 1997,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Shine,tt0117631,"['Jan Sardi', 'Scott Hicks']","['nm0764982', 'nm0382956']"
-1997,Honorary(Honorifico),Winner,Michael Kidd,nm0452264,,,,
-1997,Honorary(Honorifico),Winner,Bud Stone,nm2093584,,,,
-1997,Honorary(Honorifico),Winner,Volker Bahnemann,nm2361557,,,,
-1997,Honorary(Honorifico),Winner,Joe Lombardi,nm0518375,,,,
-1997,Honorary(Honorifico),Winner,Saul Zaentz,nm0951763,,,,
+1997,Honorary,Winner,Michael Kidd,nm0452264,,,,
+1997,Honorary,Winner,Bud Stone,nm2093584,,,,
+1997,Honorary,Winner,Volker Bahnemann,nm2361557,,,,
+1997,Honorary,Winner,Joe Lombardi,nm0518375,,,,
+1997,Honorary,Winner,Saul Zaentz,nm0951763,,,,
 1998,BestActorinaLeadingRole,Winner,Jack Nicholson,nm0000197,Mejor... imposible,tt0119822,,
 1998,BestActorinaLeadingRole,Nominee,Matt Damon,nm0000354,El indomable Will Hunting,tt0119217,,
 1998,BestActorinaLeadingRole,Nominee,Robert Duvall,nm0000380,Camino al cielo,tt0118632,,
@@ -7804,7 +7804,7 @@
 1998,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Boogie Nights,tt0118749,['Paul Thomas Anderson'],['nm0000759']
 1998,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Desmontando a Harry,tt0118954,['Woody Allen'],['nm0000095']
 1998,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Full Monty,tt0119164,['Simon Beaufoy'],['nm0064479']
-1998,Honorary(Honorifico),Winner,Stanley Donen,nm0002045,,,,
+1998,Honorary,Winner,Stanley Donen,nm0002045,,,,
 1999,BestActorinaLeadingRole,Winner,Roberto Benigni,nm0000905,La vida es bella,tt0118799,,
 1999,BestActorinaLeadingRole,Nominee,Tom Hanks,nm0000158,Salvar al soldado Ryan,tt0120815,,
 1999,BestActorinaLeadingRole,Nominee,Ian McKellen,nm0005212,Dioses y monstruos,tt0120684,,
@@ -7917,9 +7917,9 @@
 1999,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,La vida es bella,tt0118799,"['Vincenzo Cerami', 'Roberto Benigni']","['nm0148437', 'nm0000905']"
 1999,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Salvar al soldado Ryan,tt0120815,['Robert Rodat'],['nm0734441']
 1999,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El show de Truman,tt0120382,['Andrew Niccol'],['nm0629272']
-1999,Honorary(Honorifico),Winner,Elia Kazan,nm0001415,,,,
-1999,Honorary(Honorifico),Winner,David W. Gray,nm0336561,,,,
-1999,Honorary(Honorifico),Winner,Norman Jewison,nm0422484,,,,
+1999,Honorary,Winner,Elia Kazan,nm0001415,,,,
+1999,Honorary,Winner,David W. Gray,nm0336561,,,,
+1999,Honorary,Winner,Norman Jewison,nm0422484,,,,
 2000,BestActorinaLeadingRole,Winner,Kevin Spacey,nm0000228,American Beauty,tt0169547,,
 2000,BestActorinaLeadingRole,Nominee,Russell Crowe,nm0000128,El dilema (The Insider),tt0140352,,
 2000,BestActorinaLeadingRole,Nominee,Richard Farnsworth,nm0002070,The Straight Story: Una historia verdadera,tt0166896,,
@@ -8028,8 +8028,8 @@
 2000,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Magnolia,tt0175880,['Paul Thomas Anderson'],['nm0000759']
 2000,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,El sexto sentido,tt0167404,['M. Night Shyamalan'],['nm0796117']
 2000,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Topsy-Turvy,tt0151568,['Mike Leigh'],['nm0005139']
-2000,Honorary(Honorifico),Winner,Andrzej Wajda,nm0906667,,,,
-2000,Honorary(Honorifico),Winner,Warren Beatty,nm0000886,,,,
+2000,Honorary,Winner,Andrzej Wajda,nm0906667,,,,
+2000,Honorary,Winner,Warren Beatty,nm0000886,,,,
 2001,BestActorinaLeadingRole,Winner,Russell Crowe,nm0000128,Gladiator (El gladiador),tt0172495,,
 2001,BestActorinaLeadingRole,Nominee,Javier Bardem,nm0000849,Antes que anochezca,tt0247196,,
 2001,BestActorinaLeadingRole,Nominee,Tom Hanks,nm0000158,Náufrago,tt0162222,,
@@ -8136,24 +8136,24 @@
 2001,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Erin Brockovich,tt0195685,['Susannah Grant'],['nm0335666']
 2001,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Gladiator (El gladiador),tt0172495,"['David Franzoni', 'John Logan', 'William Nicholson']","['nm0291905', 'nm0517589', 'nm0629933']"
 2001,"BestWriting,ScreenplayWrittenDirectlyfortheScreen",Nominee,,,Puedes contar conmigo,tt0203230,['Kenneth Lonergan'],['nm0518836']
-2001,Honorary(Honorifico),Winner,Jack Cardiff,nm0002153,,,,
-2001,Honorary(Honorifico),Winner,Ernest Lehman,nm0499626,,,,
-2001,Honorary(Honorifico),Winner,Paul Kenworthy,nm0448949,,,,
-2001,Honorary(Honorifico),Winner,Ioan Allen,nm2344873,,,,
-2001,Honorary(Honorifico),Winner,Dino De Laurentiis,nm0209569,,,,
-2001,Honorary(Honorifico),Winner,Rob Cook,nm0177251,,,,
-2001,Honorary(Honorifico),Winner,Alvah J. Miller,nm0587868,,,,
-2001,Honorary(Honorifico),Winner,Paul D. Johnson,nm0425970,,,,
-2001,Honorary(Honorifico),Winner,Al Mayer Jr.,nm2353419,,,,
-2001,Honorary(Honorifico),Winner,Vic Armstrong,nm0002184,,,,
-2001,Honorary(Honorifico),Winner,Bill Tondreau,nm0867140,,,,
-2001,Honorary(Honorifico),Winner,Alvah J. Miller,nm0587868,,,,
-2001,Honorary(Honorifico),Winner,Paul D. Johnson,nm0425970,,,,
-2001,Honorary(Honorifico),Winner,David Stump,nm0003432,,,,
-2001,Honorary(Honorifico),Winner,George Borshukov,nm0097474,,,,
-2001,Honorary(Honorifico),Winner,Kim Libreri,nm0508912,,,,
-2001,Honorary(Honorifico),Winner,Dan Piponi,nm0685004,,,,
-2001,Honorary(Honorifico),Winner,Irwin Young,nm0949625,,,,
+2001,Honorary,Winner,Jack Cardiff,nm0002153,,,,
+2001,Honorary,Winner,Ernest Lehman,nm0499626,,,,
+2001,Honorary,Winner,Paul Kenworthy,nm0448949,,,,
+2001,Honorary,Winner,Ioan Allen,nm2344873,,,,
+2001,Honorary,Winner,Dino De Laurentiis,nm0209569,,,,
+2001,Honorary,Winner,Rob Cook,nm0177251,,,,
+2001,Honorary,Winner,Alvah J. Miller,nm0587868,,,,
+2001,Honorary,Winner,Paul D. Johnson,nm0425970,,,,
+2001,Honorary,Winner,Al Mayer Jr.,nm2353419,,,,
+2001,Honorary,Winner,Vic Armstrong,nm0002184,,,,
+2001,Honorary,Winner,Bill Tondreau,nm0867140,,,,
+2001,Honorary,Winner,Alvah J. Miller,nm0587868,,,,
+2001,Honorary,Winner,Paul D. Johnson,nm0425970,,,,
+2001,Honorary,Winner,David Stump,nm0003432,,,,
+2001,Honorary,Winner,George Borshukov,nm0097474,,,,
+2001,Honorary,Winner,Kim Libreri,nm0508912,,,,
+2001,Honorary,Winner,Dan Piponi,nm0685004,,,,
+2001,Honorary,Winner,Irwin Young,nm0949625,,,,
 2002,BestPicture,Winner,,,Una mente maravillosa,tt0268978,"['Brian Grazer', 'Ron Howard']","['nm0004976', 'nm0000165']"
 2002,BestPicture,Nominee,,,Gosford Park,tt0280707,"['Robert Altman', 'Bob Balaban', 'David Levy']","['nm0000265', 'nm0000837', 'nm0506379']"
 2002,BestPicture,Nominee,,,En la habitación,tt0247425,"['Graham Leader', 'Ross Katz', 'Todd Field']","['nm0494910', 'nm0441839', 'nm0276062']"
@@ -8263,11 +8263,11 @@
 2002,BestAnimatedFeature,Winner,,,Shrek,tt0126029,['Aron Warner'],['nm0912403']
 2002,BestAnimatedFeature,Nominee,,,Jimmy Neutron: El niño inventor,tt0268397,"['John A. Davis', 'Steve Oedekerk']","['nm0204884', 'nm0644203']"
 2002,BestAnimatedFeature,Nominee,,,"Monstruos, S.A.",tt0198781,"['Pete Docter', 'John Lasseter']","['nm0230032', 'nm0005124']"
-2002,Honorary(Honorifico),Winner,Sidney Poitier,nm0001627,,,,
-2002,Honorary(Honorifico),Winner,Robert Redford,nm0000602,,,,
-2002,Honorary(Honorifico),Winner,Ray Feeney,nm2990419,,,,
-2002,Honorary(Honorifico),Winner,Rune Ericson,nm0259173,,,,
-2002,Honorary(Honorifico),Winner,Arthur Hiller,nm0002137,,,,
+2002,Honorary,Winner,Sidney Poitier,nm0001627,,,,
+2002,Honorary,Winner,Robert Redford,nm0000602,,,,
+2002,Honorary,Winner,Ray Feeney,nm2990419,,,,
+2002,Honorary,Winner,Rune Ericson,nm0259173,,,,
+2002,Honorary,Winner,Arthur Hiller,nm0002137,,,,
 2003,BestPicture,Winner,,,Chicago,tt0299658,['Martin Richards'],['nm0724237']
 2003,BestPicture,Nominee,,,Gangs of New York,tt0217505,"['Alberto Grimaldi', 'Harvey Weinstein']","['nm0342090', 'nm0005544']"
 2003,BestPicture,Nominee,,,Las horas,tt0274558,"['Scott Rudin', 'Robert Fox']","['nm0748784', 'nm0289221']"
@@ -8380,8 +8380,8 @@
 2003,BestVisualEffects,Winner,,,El señor de los anillos: Las dos torres,tt0167261,"['Jim Rygiel', 'Joe Letteri', 'Randall William Cook', 'Alex Funke']","['nm0753277', 'nm0504784', 'nm0177241', 'nm0298754']"
 2003,BestVisualEffects,Nominee,,,Spider-Man,tt0145487,"['John Dykstra', 'Scott Stokdyk', 'Anthony LaMolinara', 'John Frazier']","['nm0004375', 'nm0831282', 'nm0483608', 'nm0292594']"
 2003,BestVisualEffects,Nominee,,,Star Wars: Episodio II - El ataque de los clones,tt0121765,"['Rob Coleman', 'Pablo Helman', 'John Knoll', 'Ben Snow']","['nm0171197', 'nm0375666', 'nm0461306', 'nm0811240']"
-2003,Honorary(Honorifico),Winner,Peter O'Toole,nm0000564,,,,
-2003,Honorary(Honorifico),Winner,Curt Behlmer,nm0066934,,,,
+2003,Honorary,Winner,Peter O'Toole,nm0000564,,,,
+2003,Honorary,Winner,Curt Behlmer,nm0066934,,,,
 2004,BestPicture,Winner,,,El señor de los anillos: El retorno del rey,tt0167260,"['Barrie M. Osborne', 'Peter Jackson', 'Fran Walsh']","['nm0651614', 'nm0001392', 'nm0909638']"
 2004,BestPicture,Nominee,,,Lost in Translation,tt0335266,"['Ross Katz', 'Sofia Coppola']","['nm0441839', 'nm0001068']"
 2004,BestPicture,Nominee,,,Master and Commander: Al otro lado del mundo,tt0311113,"['Samuel Goldwyn Jr.', 'Peter Weir', 'Duncan Henderson']","['nm0326412', 'nm0001837', 'nm0376416']"
@@ -8492,15 +8492,15 @@
 2004,BestDirector,Nominee,Sofia Coppola,nm0001068,Lost in Translation,tt0335266,,
 2004,BestDirector,Nominee,Peter Weir,nm0001837,Master and Commander: Al otro lado del mundo,tt0311113,,
 2004,BestDirector,Nominee,Clint Eastwood,nm0000142,Mystic River,tt0327056,,
-2004,Honorary(Honorifico),Winner,Blake Edwards,nm0001175,,,,
-2004,Honorary(Honorifico),Winner,Douglas Greenfield,nm0338992,,,,
-2004,Honorary(Honorifico),Winner,Bill Tondreau,nm0867140,,,,
-2004,Honorary(Honorifico),Winner,Andrew Cannon,nm1179890,,,,
-2004,Honorary(Honorifico),Winner,Stephen Regelous,nm1106186,,,,
-2004,Honorary(Honorifico),Winner,Henrik Wann Jensen,nm1605050,,,,
-2004,Honorary(Honorifico),Winner,Pat Hanrahan,nm0360561,,,,
-2004,Honorary(Honorifico),Winner,Christophe Hery,nm0381215,,,,
-2004,Honorary(Honorifico),Winner,Peter Parks,nm0662995,,,,
+2004,Honorary,Winner,Blake Edwards,nm0001175,,,,
+2004,Honorary,Winner,Douglas Greenfield,nm0338992,,,,
+2004,Honorary,Winner,Bill Tondreau,nm0867140,,,,
+2004,Honorary,Winner,Andrew Cannon,nm1179890,,,,
+2004,Honorary,Winner,Stephen Regelous,nm1106186,,,,
+2004,Honorary,Winner,Henrik Wann Jensen,nm1605050,,,,
+2004,Honorary,Winner,Pat Hanrahan,nm0360561,,,,
+2004,Honorary,Winner,Christophe Hery,nm0381215,,,,
+2004,Honorary,Winner,Peter Parks,nm0662995,,,,
 2005,BestMotionPictureoftheYear,Winner,,,Million Dollar Baby,tt0405159,"['Clint Eastwood', 'Albert S. Ruddy', 'Tom Rosenberg']","['nm0000142', 'nm0748665', 'nm0742347']"
 2005,BestMotionPictureoftheYear,Nominee,,,El aviador,tt0338751,"['Michael Mann', 'Graham King']","['nm0000520', 'nm0454752']"
 2005,BestMotionPictureoftheYear,Nominee,,,Descubriendo Nunca Jamás,tt0308644,"['Richard N. Gladstein', 'Nellie Bellflower']","['nm0321621', 'nm0068935']"
@@ -8613,23 +8613,23 @@
 2005,BestAchievementinMakeup,Winner,,,Una serie de catastróficas desdichas de Lemony Snicket,tt0339291,"[""Valli O'Reilly"", 'Bill Corso']","['nm0642495', 'nm0181134']"
 2005,BestAchievementinMakeup,Nominee,,,Mar adentro,tt0369702,"['Jo Allen', 'Manolo García']","['nm0020657', 'nm0306323']"
 2005,BestAchievementinMakeup,Nominee,,,La pasión de Cristo,tt0335345,"['Keith VanderLaan', 'Christien Tinsley']","['nm0888797', 'nm0864051']"
-2005,Honorary(Honorifico),Winner,Sidney Lumet,nm0001486,,,,
-2005,Honorary(Honorifico),Winner,Arthur Widmer,nm2563224,,,,
-2005,Honorary(Honorifico),Winner,Roger Mayer,nm0562503,,,,
-2005,Honorary(Honorifico),Winner,Horst Burbulla,nm1836614,,,,
-2005,Honorary(Honorifico),Winner,Jean-Marie Lavalou,nm0491759,,,,
-2005,Honorary(Honorifico),Winner,Guy Griffiths,nm0341682,,,,
-2005,Honorary(Honorifico),Winner,David Hodson,nm0388340,,,,
-2005,Honorary(Honorifico),Winner,Greg Cannom,nm0134148,,,,
-2005,Honorary(Honorifico),Winner,Wesley Wofford,nm0937366,,,,
-2005,Honorary(Honorifico),Winner,Gerald Cotts,nm0183196,,,,
-2005,Honorary(Honorifico),Winner,Steve Boze,nm1409527,,,,
-2005,Honorary(Honorifico),Winner,Nelson Tyler,nm0878874,,,,
-2005,Honorary(Honorifico),Winner,Vaughn Cato,nm1401781,,,,
-2005,Honorary(Honorifico),Winner,Matt Madden,nm1402798,,,,
-2005,Honorary(Honorifico),Winner,Bill Lorton,nm1402761,,,,
-2005,Honorary(Honorifico),Winner,Alan Kapler,nm0438411,,,,
-2005,Honorary(Honorifico),Winner,Tak Miyagishima,nm1836710,,,,
+2005,Honorary,Winner,Sidney Lumet,nm0001486,,,,
+2005,Honorary,Winner,Arthur Widmer,nm2563224,,,,
+2005,Honorary,Winner,Roger Mayer,nm0562503,,,,
+2005,Honorary,Winner,Horst Burbulla,nm1836614,,,,
+2005,Honorary,Winner,Jean-Marie Lavalou,nm0491759,,,,
+2005,Honorary,Winner,Guy Griffiths,nm0341682,,,,
+2005,Honorary,Winner,David Hodson,nm0388340,,,,
+2005,Honorary,Winner,Greg Cannom,nm0134148,,,,
+2005,Honorary,Winner,Wesley Wofford,nm0937366,,,,
+2005,Honorary,Winner,Gerald Cotts,nm0183196,,,,
+2005,Honorary,Winner,Steve Boze,nm1409527,,,,
+2005,Honorary,Winner,Nelson Tyler,nm0878874,,,,
+2005,Honorary,Winner,Vaughn Cato,nm1401781,,,,
+2005,Honorary,Winner,Matt Madden,nm1402798,,,,
+2005,Honorary,Winner,Bill Lorton,nm1402761,,,,
+2005,Honorary,Winner,Alan Kapler,nm0438411,,,,
+2005,Honorary,Winner,Tak Miyagishima,nm1836710,,,,
 2006,BestMotionPictureoftheYear,Winner,,,Crash (Colisión),tt0375679,"['Paul Haggis', 'Cathy Schulman']","['nm0353673', 'nm0776072']"
 2006,BestMotionPictureoftheYear,Nominee,,,Brokeback Mountain. En terreno vedado,tt0388795,"['Diana Ossana', 'James Schamus']","['nm0652223', 'nm0770005']"
 2006,BestMotionPictureoftheYear,Nominee,,,Truman Capote,tt0379725,"['Caroline Baron', 'William Vince', 'Michael Ohoven']","['nm0056205', 'nm0898549', 'nm0645164']"
@@ -8739,8 +8739,8 @@
 2006,BestAchievementinMakeup,Winner,,,"Las crónicas de Narnia: El león, la bruja y el armario",tt0363771,"['Howard Berger', 'Tami Lane']","['nm0074205', 'nm0485577']"
 2006,BestAchievementinMakeup,Nominee,,,Cinderella Man. El hombre que no se dejó tumbar,tt0352248,"['David LeRoy Anderson', 'Lance Anderson']","['nm0026600', 'nm0027052']"
 2006,BestAchievementinMakeup,Nominee,,,Star Wars: Episodio III - La venganza de los sith,tt0121766,"['Dave Elsey', 'Nikki Gooley']","['nm0255642', 'nm0329618']"
-2006,Honorary(Honorifico),Winner,Robert Altman,nm0000265,,,,
-2006,Honorary(Honorifico),Winner,Don Hall,nm0355249,,,,
+2006,Honorary,Winner,Robert Altman,nm0000265,,,,
+2006,Honorary,Winner,Don Hall,nm0355249,,,,
 2007,BestMotionPictureoftheYear,Winner,,,Infiltrados,tt0407887,['Graham King'],['nm0454752']
 2007,BestMotionPictureoftheYear,Nominee,,,Babel,tt0449467,"['Alejandro G. Iñárritu', 'Jon Kilik', 'Steve Golin']","['nm0327944', 'nm0453091', 'nm0326512']"
 2007,BestMotionPictureoftheYear,Nominee,,,Cartas desde Iwo Jima,tt0498380,"['Clint Eastwood', 'Steven Spielberg', 'Robert Lorenz']","['nm0000142', 'nm0000229', 'nm0520749']"
@@ -8854,22 +8854,22 @@
 2007,BestAchievementinMakeup,Winner,,,El laberinto del fauno,tt0457430,"['David Martí', 'Montse Ribé']","['nm0554480', 'nm1556767']"
 2007,BestAchievementinMakeup,Nominee,,,Apocalypto,tt0472043,"['Aldo Signoretti', 'Vittorio Sodano']","['nm0797532', 'nm0812006']"
 2007,BestAchievementinMakeup,Nominee,,,Click,tt0389860,"['Kazu Hiro', 'Bill Corso']","['nm0875308', 'nm0181134']"
-2007,Honorary(Honorifico),Winner,Ennio Morricone,nm0001553,,,,
-2007,Honorary(Honorifico),Winner,Richard Edlund,nm0249430,,,,
-2007,Honorary(Honorifico),Winner,Ioan Allen,nm2344873,,,,
-2007,Honorary(Honorifico),Winner,Sherry Lansing,nm0005121,,,,
-2007,Honorary(Honorifico),Winner,Phillip Feiner,nm0270711,,,,
-2007,Honorary(Honorifico),Winner,Jim Houston,nm0396845,,,,
-2007,Honorary(Honorifico),Winner,Denis Leconte,nm1850269,,,,
-2007,Honorary(Honorifico),Winner,Chris Bushman,nm0124276,,,,
-2007,Honorary(Honorifico),Winner,Joshua Pines,nm0003256,,,,
-2007,Honorary(Honorifico),Winner,Christopher Kutcka,nm0476478,,,,
-2007,Honorary(Honorifico),Winner,Bill Feightner,nm0270579,,,,
-2007,Honorary(Honorifico),Winner,Chris Edwards,nm3289358,,,,
-2007,Honorary(Honorifico),Winner,Florian Kainz,nm0435090,,,,
-2007,Honorary(Honorifico),Winner,Christian Tschida,nm3492769,,,,
-2007,Honorary(Honorifico),Winner,Pierre Jasmin,nm3919626,,,,
-2007,Honorary(Honorifico),Winner,Ray Feeney,nm2990419,,,,
+2007,Honorary,Winner,Ennio Morricone,nm0001553,,,,
+2007,Honorary,Winner,Richard Edlund,nm0249430,,,,
+2007,Honorary,Winner,Ioan Allen,nm2344873,,,,
+2007,Honorary,Winner,Sherry Lansing,nm0005121,,,,
+2007,Honorary,Winner,Phillip Feiner,nm0270711,,,,
+2007,Honorary,Winner,Jim Houston,nm0396845,,,,
+2007,Honorary,Winner,Denis Leconte,nm1850269,,,,
+2007,Honorary,Winner,Chris Bushman,nm0124276,,,,
+2007,Honorary,Winner,Joshua Pines,nm0003256,,,,
+2007,Honorary,Winner,Christopher Kutcka,nm0476478,,,,
+2007,Honorary,Winner,Bill Feightner,nm0270579,,,,
+2007,Honorary,Winner,Chris Edwards,nm3289358,,,,
+2007,Honorary,Winner,Florian Kainz,nm0435090,,,,
+2007,Honorary,Winner,Christian Tschida,nm3492769,,,,
+2007,Honorary,Winner,Pierre Jasmin,nm3919626,,,,
+2007,Honorary,Winner,Ray Feeney,nm2990419,,,,
 2008,BestMotionPictureoftheYear,Winner,,,No es país para viejos,tt0477348,"['Scott Rudin', 'Ethan Coen', 'Joel Coen']","['nm0748784', 'nm0001053', 'nm0001054']"
 2008,BestMotionPictureoftheYear,Nominee,,,Expiación. Más allá de la pasión,tt0783233,"['Tim Bevan', 'Eric Fellner', 'Paul Webster']","['nm0079677', 'nm0271479', 'nm0916986']"
 2008,BestMotionPictureoftheYear,Nominee,,,Juno,tt0467406,"['Lianne Halfon', 'Mason Novick', 'Russell Smith']","['nm0355147', 'nm1259504', 'nm0809833']"
@@ -8983,9 +8983,9 @@
 2008,BestAchievementinMakeup,Winner,,,La vida en rosa (Edith Piaf),tt0450188,"['Didier Lavergne', 'Jan Archibald']","['nm0491918', 'nm0033767']"
 2008,BestAchievementinMakeup,Nominee,,,Norbit,tt0477051,"['Rick Baker', 'Kazu Hiro']","['nm0000711', 'nm0875308']"
 2008,BestAchievementinMakeup,Nominee,,,Piratas del Caribe: En el fin del mundo,tt0449088,"['Ve Neill', 'Martin Samuel']","['nm0624763', 'nm0760407']"
-2008,Honorary(Honorifico),Winner,Robert F. Boyle,nm0102327,,,,
-2008,Honorary(Honorifico),Winner,David Inglish,nm0408890,,,,
-2008,Honorary(Honorifico),Winner,Jonathan Erland,nm0259510,,,,
+2008,Honorary,Winner,Robert F. Boyle,nm0102327,,,,
+2008,Honorary,Winner,David Inglish,nm0408890,,,,
+2008,Honorary,Winner,Jonathan Erland,nm0259510,,,,
 2009,BestMotionPictureoftheYear,Winner,,,Slumdog Millionaire,tt1010048,['Christian Colson'],['nm1384503']
 2009,BestMotionPictureoftheYear,Nominee,,,El curioso caso de Benjamin Button,tt0421715,"['Kathleen Kennedy', 'Frank Marshall', 'Ceán Chaffin']","['nm0005086', 'nm0550881', 'nm0149556']"
 2009,BestMotionPictureoftheYear,Nominee,,,El desafío - Frost contra Nixon,tt0870111,"['Brian Grazer', 'Ron Howard', 'Eric Fellner']","['nm0004976', 'nm0000165', 'nm0271479']"
@@ -9097,8 +9097,8 @@
 2009,BestAchievementinMakeup,Winner,,,El curioso caso de Benjamin Button,tt0421715,['Greg Cannom'],['nm0134148']
 2009,BestAchievementinMakeup,Nominee,,,El caballero oscuro,tt0468569,"['John Caglione Jr.', ""Conor O'Sullivan""]","['nm0128550', 'nm0642745']"
 2009,BestAchievementinMakeup,Nominee,,,Hellboy II: El ejército dorado,tt0411477,"['Mike Elizalde', 'Thomas Floutz']","['nm0253761', 'nm0283134']"
-2009,Honorary(Honorifico),Winner,Mark Kimball,nm0453816,,,,
-2009,Honorary(Honorifico),Winner,Jerry Lewis,nm0001471,,,,
+2009,Honorary,Winner,Mark Kimball,nm0453816,,,,
+2009,Honorary,Winner,Jerry Lewis,nm0001471,,,,
 2010,BestMotionPictureoftheYear,Winner,,,En tierra hostil,tt0887912,"['Kathryn Bigelow', 'Mark Boal', 'Nicolas Chartier', 'Greg Shapiro']","['nm0000941', 'nm1676793', 'nm1291566', 'nm0788513']"
 2010,BestMotionPictureoftheYear,Nominee,,,Un tipo serio,tt1019452,"['Joel Coen', 'Ethan Coen']","['nm0001054', 'nm0001053']"
 2010,BestMotionPictureoftheYear,Nominee,,,An Education,tt1174732,"['Finola Dwyer', 'Amanda Posey']","['nm0245493', 'nm0692656']"
@@ -9220,23 +9220,23 @@
 2010,BestAchievementinMakeup,Winner,,,Star Trek,tt0796366,"['Barney Burman', 'Mindy Hall', 'Joel Harlow']","['nm0122178', 'nm0355931', 'nm0363355']"
 2010,BestAchievementinMakeup,Nominee,,,Il divo,tt1023490,"['Aldo Signoretti', 'Vittorio Sodano']","['nm0797532', 'nm0812006']"
 2010,BestAchievementinMakeup,Nominee,,,La reina Victoria,tt0962736,"['Jon Henry Gordon', 'Jenny Shircore']","['nm0330331', 'nm0794246']"
-2010,Honorary(Honorifico),Winner,Roger Corman,nm0000339,,,,
-2010,Honorary(Honorifico),Winner,Lauren Bacall,nm0000002,,,,
-2010,Honorary(Honorifico),Winner,Gordon Willis,nm0932336,,,,
-2010,Honorary(Honorifico),Winner,John Calley,nm0130492,,,,
-2010,Honorary(Honorifico),Winner,Alex MacDonald,nm1223275,,,,
-2010,Honorary(Honorifico),Winner,Jim Rodnunsky,nm0734951,,,,
-2010,Honorary(Honorifico),Winner,Mark Chapman,nm1839441,,,,
-2010,Honorary(Honorifico),Winner,Cablecam International,,,,,
-2010,Honorary(Honorifico),Winner,Mark Noel,nm0633888,,,,
-2010,Honorary(Honorifico),Winner,John Frazier,nm0292594,,,,
-2010,Honorary(Honorifico),Winner,Per Christensen,nm1878080,,,,
-2010,Honorary(Honorifico),Winner,Christophe Hery,nm0381215,,,,
-2010,Honorary(Honorifico),Winner,Steve Sullivan,nm0838354,,,,
-2010,Honorary(Honorifico),Winner,Kevin Wooley,nm1634089,,,,
-2010,Honorary(Honorifico),Winner,Colin Davidson,nm2042866,,,,
-2010,Honorary(Honorifico),Winner,Hayden Landis,nm0484821,,,,
-2010,Honorary(Honorifico),Winner,Ken McGaugh,nm0568983,,,,
+2010,Honorary,Winner,Roger Corman,nm0000339,,,,
+2010,Honorary,Winner,Lauren Bacall,nm0000002,,,,
+2010,Honorary,Winner,Gordon Willis,nm0932336,,,,
+2010,Honorary,Winner,John Calley,nm0130492,,,,
+2010,Honorary,Winner,Alex MacDonald,nm1223275,,,,
+2010,Honorary,Winner,Jim Rodnunsky,nm0734951,,,,
+2010,Honorary,Winner,Mark Chapman,nm1839441,,,,
+2010,Honorary,Winner,Cablecam International,,,,,
+2010,Honorary,Winner,Mark Noel,nm0633888,,,,
+2010,Honorary,Winner,John Frazier,nm0292594,,,,
+2010,Honorary,Winner,Per Christensen,nm1878080,,,,
+2010,Honorary,Winner,Christophe Hery,nm0381215,,,,
+2010,Honorary,Winner,Steve Sullivan,nm0838354,,,,
+2010,Honorary,Winner,Kevin Wooley,nm1634089,,,,
+2010,Honorary,Winner,Colin Davidson,nm2042866,,,,
+2010,Honorary,Winner,Hayden Landis,nm0484821,,,,
+2010,Honorary,Winner,Ken McGaugh,nm0568983,,,,
 2011,BestMotionPictureoftheYear,Winner,,,El discurso del rey,tt1504320,"['Iain Canning', 'Emile Sherman', 'Gareth Unwin']","['nm2096617', 'nm0792431', 'nm1060902']"
 2011,BestMotionPictureoftheYear,Nominee,,,127 horas,tt1542344,"['Christian Colson', 'Danny Boyle', 'John Smithson']","['nm1384503', 'nm0000965', 'nm0810478']"
 2011,BestMotionPictureoftheYear,Nominee,,,Cisne negro,tt0947798,"['Mike Medavoy', 'Brian Oliver', 'Scott Franklin']","['nm0005219', 'nm1003922', 'nm0291542']"
@@ -9357,21 +9357,21 @@
 2011,BestAchievementinMakeup,Winner,,,El hombre lobo,tt0780653,"['Rick Baker', 'Dave Elsey']","['nm0000711', 'nm0255642']"
 2011,BestAchievementinMakeup,Nominee,,,El mundo según Barney,tt1423894,['Adrien Morot'],['nm0606110']
 2011,BestAchievementinMakeup,Nominee,,,Camino a la libertad,tt1023114,"['Edouard F. Henriques', 'Greg Funk', 'Yolanda Toussieng']","['nm0377667', 'nm0298727', 'nm0869758']"
-2011,Honorary(Honorifico),Winner,Kevin Brownlow,nm0002206,,,,
-2011,Honorary(Honorifico),Winner,Jean-Luc Godard,nm0000419,,,,
-2011,Honorary(Honorifico),Winner,Eli Wallach,nm0908919,,,,
-2011,Honorary(Honorifico),Winner,Denny Clairmont,nm1076245,,,,
-2011,Honorary(Honorifico),Winner,Francis Ford Coppola,nm0000338,,,,
-2011,Honorary(Honorifico),Winner,Mark Sagar,nm0755993,,,,
-2011,Honorary(Honorifico),Winner,Mark Noel,nm0633888,,,,
-2011,Honorary(Honorifico),Winner,John Frazier,nm0292594,,,,
-2011,Honorary(Honorifico),Winner,Jim Rodnunsky,nm0734951,,,,
-2011,Honorary(Honorifico),Winner,Greg Ercolano,nm0258704,,,,
-2011,Honorary(Honorifico),Winner,David M. Laur,nm0490987,,,,
-2011,Honorary(Honorifico),Winner,Chris Allen,nm0020371,,,,
-2011,Honorary(Honorifico),Winner,Gauth Krishnamurti,nm0471474,,,,
-2011,Honorary(Honorifico),Winner,Mark A. Brown,nm0114207,,,,
-2011,Honorary(Honorifico),Winner,Lance Kimes,nm0453945,,,,
+2011,Honorary,Winner,Kevin Brownlow,nm0002206,,,,
+2011,Honorary,Winner,Jean-Luc Godard,nm0000419,,,,
+2011,Honorary,Winner,Eli Wallach,nm0908919,,,,
+2011,Honorary,Winner,Denny Clairmont,nm1076245,,,,
+2011,Honorary,Winner,Francis Ford Coppola,nm0000338,,,,
+2011,Honorary,Winner,Mark Sagar,nm0755993,,,,
+2011,Honorary,Winner,Mark Noel,nm0633888,,,,
+2011,Honorary,Winner,John Frazier,nm0292594,,,,
+2011,Honorary,Winner,Jim Rodnunsky,nm0734951,,,,
+2011,Honorary,Winner,Greg Ercolano,nm0258704,,,,
+2011,Honorary,Winner,David M. Laur,nm0490987,,,,
+2011,Honorary,Winner,Chris Allen,nm0020371,,,,
+2011,Honorary,Winner,Gauth Krishnamurti,nm0471474,,,,
+2011,Honorary,Winner,Mark A. Brown,nm0114207,,,,
+2011,Honorary,Winner,Lance Kimes,nm0453945,,,,
 2012,BestMotionPictureoftheYear,Winner,,,The Artist,tt1655442,['Thomas Langmann'],['nm0486627']
 2012,BestMotionPictureoftheYear,Nominee,,,El árbol de la vida,tt0478304,"['Sarah Green', 'Bill Pohlad', 'Dede Gardner', 'Grant Hill']","['nm0338320', 'nm0688361', 'nm0306890', 'nm0384294']"
 2012,BestMotionPictureoftheYear,Nominee,,,Los descendientes,tt1033575,"['Jim Burke', 'Alexander Payne', 'Jim Taylor']","['nm0121724', 'nm0668247', 'nm0852591']"
@@ -9491,19 +9491,19 @@
 2012,BestAchievementinMakeup,Winner,,,La dama de hierro,tt1007029,"['Mark Coulier', 'J. Roy Helland']","['nm0183418', 'nm0375187']"
 2012,BestAchievementinMakeup,Nominee,,,Harry Potter y las Reliquias de la Muerte: Parte 2,tt1201607,"['Nick Dudman', 'Amanda Knight', 'Lisa Tomblin']","['nm0240183', 'nm0460792', 'nm0866566']"
 2012,BestAchievementinMakeup,Nominee,,,Albert Nobbs,tt1602098,"['Martial Corneville', 'Lynn Johnston', 'Matthew W. Mungle']","['nm0180355', 'nm0425699', 'nm0612817']"
-2012,Honorary(Honorifico),Winner,James Earl Jones,nm0000469,,,,
-2012,Honorary(Honorifico),Winner,Dick Smith,nm0004615,,,,
-2012,Honorary(Honorifico),Winner,Jonathan Erland,nm0259510,,,,
-2012,Honorary(Honorifico),Winner,Oprah Winfrey,nm0001856,,,,
-2012,Honorary(Honorifico),Winner,Franz Kraus,nm0470117,,,,
-2012,Honorary(Honorifico),Winner,E.F. 'Bob' Nettman,nm6240625,,,,
-2012,Honorary(Honorifico),Winner,John D. Lowry,nm5542919,,,,
-2012,Honorary(Honorifico),Winner,Ian Godin,nm2933640,,,,
-2012,Honorary(Honorifico),Winner,Kimball Thurston,nm2933596,,,,
-2012,Honorary(Honorifico),Winner,Radu Corlan,nm7502595,,,,
-2012,Honorary(Honorifico),Winner,Petru Pop,nm7502596,,,,
-2012,Honorary(Honorifico),Winner,Andy Jantzen,nm7502597,,,,
-2012,Honorary(Honorifico),Winner,Richard Toftness,nm7502598,,,,
+2012,Honorary,Winner,James Earl Jones,nm0000469,,,,
+2012,Honorary,Winner,Dick Smith,nm0004615,,,,
+2012,Honorary,Winner,Jonathan Erland,nm0259510,,,,
+2012,Honorary,Winner,Oprah Winfrey,nm0001856,,,,
+2012,Honorary,Winner,Franz Kraus,nm0470117,,,,
+2012,Honorary,Winner,E.F. 'Bob' Nettman,nm6240625,,,,
+2012,Honorary,Winner,John D. Lowry,nm5542919,,,,
+2012,Honorary,Winner,Ian Godin,nm2933640,,,,
+2012,Honorary,Winner,Kimball Thurston,nm2933596,,,,
+2012,Honorary,Winner,Radu Corlan,nm7502595,,,,
+2012,Honorary,Winner,Petru Pop,nm7502596,,,,
+2012,Honorary,Winner,Andy Jantzen,nm7502597,,,,
+2012,Honorary,Winner,Richard Toftness,nm7502598,,,,
 2013,BestMotionPictureoftheYear,Winner,,,Argo,tt1024648,"['Grant Heslov', 'Ben Affleck', 'George Clooney']","['nm0381416', 'nm0000255', 'nm0000123']"
 2013,BestMotionPictureoftheYear,Nominee,,,Amor,tt1602620,"['Stefan Arndt', 'Margaret Ménégoz', 'Veit Heiduschka', 'Michael Katz']","['nm0036155', 'nm0617705', 'nm0374002', 'nm0441798']"
 2013,BestMotionPictureoftheYear,Nominee,,,Bestias del sur salvaje,tt2125435,"['Dan Janvey', 'Josh Penn', 'Michael Gottwald']","['nm1885766', 'nm3017255', 'nm1886653']"
@@ -9626,19 +9626,19 @@
 2013,BestAnimatedFeature,Nominee,,,El alucinante mundo de Norman,tt1623288,"['Sam Fell', 'Chris Butler']","['nm0271402', 'nm2752098']"
 2013,BestAnimatedFeature,Nominee,,,¡Piratas!,tt1430626,['Peter Lord'],['nm0520485']
 2013,BestAnimatedFeature,Nominee,,,¡Rompe Ralph!,tt1772341,['Rich Moore'],['nm0601781']
-2013,Honorary(Honorifico),Winner,D.A. Pennebaker,nm0672060,,,,
-2013,Honorary(Honorifico),Winner,George Stevens Jr.,nm0828211,,,,
-2013,Honorary(Honorifico),Winner,Hal Needham,nm0624102,,,,
-2013,Honorary(Honorifico),Winner,Bill Taylor,nm0852041,,,,
-2013,Honorary(Honorifico),Winner,Jeffrey Katzenberg,nm0005076,,,,
-2013,Honorary(Honorifico),Winner,Cooke Optics,,,,,
-2013,Honorary(Honorifico),Winner,Simon Clutterbuck,nm0972976,,,,
-2013,Honorary(Honorifico),Winner,James Jacobs,nm1117262,,,,
-2013,Honorary(Honorifico),Winner,Richard Dorling,nm4896859,,,,
-2013,Honorary(Honorifico),Winner,Lawrence Kesteloot,nm0450413,,,,
-2013,Honorary(Honorifico),Winner,Drew Olbrich,nm0646031,,,,
-2013,Honorary(Honorifico),Winner,Daniel Wexler,nm1654463,,,,
-2013,Honorary(Honorifico),Winner,Steve LaVietes,nm0492027,,,,
+2013,Honorary,Winner,D.A. Pennebaker,nm0672060,,,,
+2013,Honorary,Winner,George Stevens Jr.,nm0828211,,,,
+2013,Honorary,Winner,Hal Needham,nm0624102,,,,
+2013,Honorary,Winner,Bill Taylor,nm0852041,,,,
+2013,Honorary,Winner,Jeffrey Katzenberg,nm0005076,,,,
+2013,Honorary,Winner,Cooke Optics,,,,,
+2013,Honorary,Winner,Simon Clutterbuck,nm0972976,,,,
+2013,Honorary,Winner,James Jacobs,nm1117262,,,,
+2013,Honorary,Winner,Richard Dorling,nm4896859,,,,
+2013,Honorary,Winner,Lawrence Kesteloot,nm0450413,,,,
+2013,Honorary,Winner,Drew Olbrich,nm0646031,,,,
+2013,Honorary,Winner,Daniel Wexler,nm1654463,,,,
+2013,Honorary,Winner,Steve LaVietes,nm0492027,,,,
 2014,BestMotionPictureoftheYear,Winner,,,12 años de esclavitud,tt2024544,"['Brad Pitt', 'Dede Gardner', 'Jeremy Kleiner', 'Steve McQueen', 'Anthony Katagas']","['nm0000093', 'nm0306890', 'nm1250070', 'nm2588606', 'nm0441097']"
 2014,BestMotionPictureoftheYear,Nominee,,,El lobo de Wall Street,tt0993846,"['Leonardo DiCaprio', 'Emma Tillinger Koskoff', 'Joey McFarland', 'Martin Scorsese']","['nm0000138', 'nm0863374', 'nm2110175', 'nm0000217']"
 2014,BestMotionPictureoftheYear,Nominee,,,La gran estafa americana,tt1800241,"['Charles Roven', 'Richard Suckle', 'Megan Ellison', 'Jonathan Gordon']","['nm0746273', 'nm0837112', 'nm2691892', 'nm0330335']"
@@ -9761,11 +9761,11 @@
 2014,BestAnimatedFeatureFilmoftheYear,Nominee,,,Gru 2: Mi villano favorito,tt1690953,"['Chris Renaud', 'Pierre Coffin', 'Christopher Meledandri']","['nm0719208', 'nm1853544', 'nm0577560']"
 2014,BestAnimatedFeatureFilmoftheYear,Nominee,,,Ernest y Célestine,tt1816518,"['Benjamin Renner', 'Didier Brunner']","['nm2883649', 'nm0116369']"
 2014,BestAnimatedFeatureFilmoftheYear,Nominee,,,El viento se levanta,tt2013293,"['Hayao Miyazaki', 'Toshio Suzuki']","['nm0594503', 'nm0840699']"
-2014,Honorary(Honorifico),Winner,Piero Tosi,nm0869200,,,,
-2014,Honorary(Honorifico),Winner,Steve Martin,nm0000188,,,,
-2014,Honorary(Honorifico),Winner,Angela Lansbury,nm0001450,,,,
-2014,Honorary(Honorifico),Winner,Charles 'Tad' Marburg,nm4845448,,,,
-2014,Honorary(Honorifico),Winner,Angelina Jolie,nm0001401,,,,
+2014,Honorary,Winner,Piero Tosi,nm0869200,,,,
+2014,Honorary,Winner,Steve Martin,nm0000188,,,,
+2014,Honorary,Winner,Angela Lansbury,nm0001450,,,,
+2014,Honorary,Winner,Charles 'Tad' Marburg,nm4845448,,,,
+2014,Honorary,Winner,Angelina Jolie,nm0001401,,,,
 2015,BestMotionPictureoftheYear,Winner,,,Birdman o (La inesperada virtud de la ignorancia),tt2562232,"['Alejandro G. Iñárritu', 'John Lesher', 'James W. Skotchdopole']","['nm0327944', 'nm0971956', 'nm0804739']"
 2015,BestMotionPictureoftheYear,Nominee,,,El francotirador,tt2179136,"['Clint Eastwood', 'Robert Lorenz', 'Andrew Lazar', 'Bradley Cooper', 'Peter Morgan']","['nm0000142', 'nm0520749', 'nm0493662', 'nm0177896', 'nm0604950']"
 2015,BestMotionPictureoftheYear,Nominee,,,Boyhood. Momentos de una vida,tt1065073,"['Richard Linklater', 'Cathleen Sutherland']","['nm0000500', 'nm0840060']"
@@ -9887,32 +9887,32 @@
 2015,BestAnimatedFeatureFilmoftheYear,Nominee,,,How to Train Your Dragon 2,tt1646971,"['Dean DeBlois', 'Bonnie Arnold']","['nm0213450', 'nm0036366']"
 2015,BestAnimatedFeatureFilmoftheYear,Nominee,,,La canción del mar,tt1865505,"['Tomm Moore', 'Paul Young']","['nm1119079', 'nm2727721']"
 2015,BestAnimatedFeatureFilmoftheYear,Nominee,,,El cuento de la princesa Kaguya,tt2576852,"['Isao Takahata', 'Yoshiaki Nishimura']","['nm0847223', 'nm2052679']"
-2015,Honorary(Honorifico),Winner,Hayao Miyazaki,nm0594503,,,,
-2015,Honorary(Honorifico),Winner,Maureen O'Hara,nm0000058,,,,
-2015,Honorary(Honorifico),Winner,Jean-Claude Carrière,nm0140643,,,,
-2015,Honorary(Honorifico),Winner,Steven Tiffen,nm6240105,,,,
-2015,Honorary(Honorifico),Winner,Harry Belafonte,nm0000896,,,,
-2015,Honorary(Honorifico),Winner,Larry Hornbeck,nm7052379,,,,
-2015,Honorary(Honorifico),Winner,Iain Neil,nm7052364,,,,
-2015,Honorary(Honorifico),Winner,André de Winter,nm7052365,,,,
-2015,Honorary(Honorifico),Winner,Brad Walker,nm7052366,,,,
-2015,Honorary(Honorifico),Winner,D. Scott Dewald,nm7052367,,,,
-2015,Honorary(Honorifico),Winner,Peter Braun,nm6611810,,,,
-2015,Honorary(Honorifico),Winner,Robert Nagle,nm1103524,,,,
-2015,Honorary(Honorifico),Winner,Allan Padelford,nm0655634,,,,
-2015,Honorary(Honorifico),Winner,Cary Phillips,nm0680288,,,,
-2015,Honorary(Honorifico),Winner,Nicolas Popravka,nm0691612,,,,
-2015,Honorary(Honorifico),Winner,Philip Peterson,nm0677342,,,,
-2015,Honorary(Honorifico),Winner,Colette Mullenhoff,nm2194235,,,,
-2015,Honorary(Honorifico),Winner,Dan Piponi,nm0685004,,,,
-2015,Honorary(Honorifico),Winner,Kim Libreri,nm0508912,,,,
-2015,Honorary(Honorifico),Winner,George Borshukov,nm0097474,,,,
-2015,Honorary(Honorifico),Winner,Marco Revelant,nm1465667,,,,
-2015,Honorary(Honorifico),Winner,Alasdair Coull,nm2024498,,,,
-2015,Honorary(Honorifico),Winner,Shane Cooper,nm1152433,,,,
-2015,Honorary(Honorifico),Winner,Scott B. Peterson,nm1661116,,,,
-2015,Honorary(Honorifico),Winner,Jeff Budsberg,nm3186694,,,,
-2015,Honorary(Honorifico),Winner,David W. Gray,nm0336561,,,,
+2015,Honorary,Winner,Hayao Miyazaki,nm0594503,,,,
+2015,Honorary,Winner,Maureen O'Hara,nm0000058,,,,
+2015,Honorary,Winner,Jean-Claude Carrière,nm0140643,,,,
+2015,Honorary,Winner,Steven Tiffen,nm6240105,,,,
+2015,Honorary,Winner,Harry Belafonte,nm0000896,,,,
+2015,Honorary,Winner,Larry Hornbeck,nm7052379,,,,
+2015,Honorary,Winner,Iain Neil,nm7052364,,,,
+2015,Honorary,Winner,André de Winter,nm7052365,,,,
+2015,Honorary,Winner,Brad Walker,nm7052366,,,,
+2015,Honorary,Winner,D. Scott Dewald,nm7052367,,,,
+2015,Honorary,Winner,Peter Braun,nm6611810,,,,
+2015,Honorary,Winner,Robert Nagle,nm1103524,,,,
+2015,Honorary,Winner,Allan Padelford,nm0655634,,,,
+2015,Honorary,Winner,Cary Phillips,nm0680288,,,,
+2015,Honorary,Winner,Nicolas Popravka,nm0691612,,,,
+2015,Honorary,Winner,Philip Peterson,nm0677342,,,,
+2015,Honorary,Winner,Colette Mullenhoff,nm2194235,,,,
+2015,Honorary,Winner,Dan Piponi,nm0685004,,,,
+2015,Honorary,Winner,Kim Libreri,nm0508912,,,,
+2015,Honorary,Winner,George Borshukov,nm0097474,,,,
+2015,Honorary,Winner,Marco Revelant,nm1465667,,,,
+2015,Honorary,Winner,Alasdair Coull,nm2024498,,,,
+2015,Honorary,Winner,Shane Cooper,nm1152433,,,,
+2015,Honorary,Winner,Scott B. Peterson,nm1661116,,,,
+2015,Honorary,Winner,Jeff Budsberg,nm3186694,,,,
+2015,Honorary,Winner,David W. Gray,nm0336561,,,,
 2016,BestMotionPictureoftheYear,Winner,,,Spotlight,tt1895587,"['Michael Sugar', 'Steve Golin', 'Nicole Rocklin', 'Blye Pagon Faust']","['nm0837386', 'nm0326512', 'nm2140746', 'nm1421308']"
 2016,BestMotionPictureoftheYear,Nominee,,,El renacido (The Revenant),tt1663202,"['Arnon Milchan', 'Steve Golin', 'Alejandro G. Iñárritu', 'Mary Parent', 'Keith Redmon']","['nm0586969', 'nm0326512', 'nm0327944', 'nm0661289', 'nm2166024']"
 2016,BestMotionPictureoftheYear,Nominee,,,La habitación,tt3170832,['Ed Guiney'],['nm0347384']
@@ -10034,11 +10034,11 @@
 2016,BestAnimatedFeatureFilmoftheYear,Nominee,,,La oveja Shaun: La película,tt2872750,"['Mark Burton', 'Richard Starzak']","['nm0123666', 'nm0326450']"
 2016,BestAnimatedFeatureFilmoftheYear,Nominee,,,El recuerdo de Marnie,tt3398268,"['Hiromasa Yonebayashi', 'Yoshiaki Nishimura']","['nm0948488', 'nm2052679']"
 2016,BestAnimatedFeatureFilmoftheYear,Nominee,,,El niño y el mundo,tt3183630,['Alê Abreu'],['nm0994245']
-2016,Honorary(Honorifico),Winner,Spike Lee,nm0000490,,,,
-2016,Honorary(Honorifico),Winner,Gena Rowlands,nm0001687,,,,
-2016,Honorary(Honorifico),Winner,Debbie Reynolds,nm0001666,,,,
-2016,Honorary(Honorifico),Winner,Brian McLean,nm3293221,,,,
-2016,Honorary(Honorifico),Winner,Rahul Thakkar,nm1178316,,,,
+2016,Honorary,Winner,Spike Lee,nm0000490,,,,
+2016,Honorary,Winner,Gena Rowlands,nm0001687,,,,
+2016,Honorary,Winner,Debbie Reynolds,nm0001666,,,,
+2016,Honorary,Winner,Brian McLean,nm3293221,,,,
+2016,Honorary,Winner,Rahul Thakkar,nm1178316,,,,
 2017,BestMotionPictureoftheYear,Winner,,,Moonlight,tt4975722,"['Dede Gardner', 'Jeremy Kleiner', 'Adele Romanski']","['nm0306890', 'nm1250070', 'nm1532846']"
 2017,BestMotionPictureoftheYear,Nominee,,,La llegada (Arrival),tt2543164,"['Shawn Levy', 'Dan Levine', 'Aaron Ryder', 'David Linde']","['nm0506613', 'nm1362282', 'nm0753083', 'nm0511482']"
 2017,BestMotionPictureoftheYear,Nominee,,,Fences,tt2671706,"['Todd Black', 'Scott Rudin', 'Denzel Washington']","['nm0085542', 'nm0748784', 'nm0000243']"
@@ -10161,16 +10161,16 @@
 2017,BestAnimatedFeatureFilmoftheYear,Nominee,,,Vaiana,tt3521164,"['Ron Clements', 'John Musker', 'Osnat Shurer']","['nm0166256', 'nm0615780', 'nm1575873']"
 2017,BestAnimatedFeatureFilmoftheYear,Nominee,,,Mi nombre es Calabacín,tt2321405,"['Claude Barras', 'Max Karli']","['nm1957706', 'nm1519403']"
 2017,BestAnimatedFeatureFilmoftheYear,Nominee,,,La tortuga roja,tt3666024,"['Michael Dudok de Wit', 'Toshio Suzuki']","['nm0240196', 'nm0840699']"
-2017,Honorary(Honorifico),Winner,Jackie Chan,nm0000329,,,,
-2017,Honorary(Honorifico),Winner,Anne V. Coates,nm0167613,,,,
-2017,Honorary(Honorifico),Winner,Lynn Stalmaster,nm0002679,,,,
-2017,Honorary(Honorifico),Winner,Frederick Wiseman,nm0936464,,,,
-2017,Honorary(Honorifico),Winner,Steve Rosenbluth,nm0742479,,,,
-2017,Honorary(Honorifico),Winner,Geoff Wedig,nm2819905,,,,
-2017,Honorary(Honorifico),Winner,Nicholas Apostoloff,nm4004225,,,,
-2017,Honorary(Honorifico),Winner,Parag Havaldar,nm2366653,,,,
-2017,Honorary(Honorifico),Winner,Larry Gritz,nm0342691,,,,
-2017,Honorary(Honorifico),Winner,Brian Whited,nm5349104,,,,
+2017,Honorary,Winner,Jackie Chan,nm0000329,,,,
+2017,Honorary,Winner,Anne V. Coates,nm0167613,,,,
+2017,Honorary,Winner,Lynn Stalmaster,nm0002679,,,,
+2017,Honorary,Winner,Frederick Wiseman,nm0936464,,,,
+2017,Honorary,Winner,Steve Rosenbluth,nm0742479,,,,
+2017,Honorary,Winner,Geoff Wedig,nm2819905,,,,
+2017,Honorary,Winner,Nicholas Apostoloff,nm4004225,,,,
+2017,Honorary,Winner,Parag Havaldar,nm2366653,,,,
+2017,Honorary,Winner,Larry Gritz,nm0342691,,,,
+2017,Honorary,Winner,Brian Whited,nm5349104,,,,
 2018,BestMotionPictureoftheYear,Winner,,,La forma del agua,tt5580390,"['Guillermo del Toro', 'J. Miles Dale']","['nm0868219', 'nm0197703']"
 2018,BestMotionPictureoftheYear,Nominee,,,Call Me by Your Name,tt5726616,"['Peter Spears', 'Luca Guadagnino', 'Emilie Georges', 'Marco Morabito']","['nm0817379', 'nm0345174', 'nm1899688', 'nm1150125']"
 2018,BestMotionPictureoftheYear,Nominee,,,El instante más oscuro,tt4555426,"['Tim Bevan', 'Eric Fellner', 'Lisa Bruce', 'Anthony McCarten', 'Douglas Urbanski']","['nm0079677', 'nm0271479', 'nm0115537', 'nm0565026', 'nm0881703']"
@@ -10293,22 +10293,22 @@
 2018,BestForeignLanguageFilmoftheYear,Nominee,,,El insulto,tt7048622,[],[]
 2018,BestForeignLanguageFilmoftheYear,Nominee,,,Sin amor,tt6304162,[],[]
 2018,BestForeignLanguageFilmoftheYear,Nominee,,,The Square,tt4995790,[],[]
-2018,Honorary(Honorifico),Winner,Alejandro G. Iñárritu,nm0327944,,,,
-2018,Honorary(Honorifico),Winner,Donald Sutherland,nm0000661,,,,
-2018,Honorary(Honorifico),Winner,Agnès Varda,nm0889513,,,,
-2018,Honorary(Honorifico),Winner,Owen Roizman,nm0005845,,,,
-2018,Honorary(Honorifico),Winner,Charles Burnett,nm0122344,,,,
-2018,Honorary(Honorifico),Winner,Mark Elendt,nm6514950,,,,
-2018,Honorary(Honorifico),Winner,Bill Spitzak,nm0819163,,,,
-2018,Honorary(Honorifico),Winner,Jonathan Egstad,nm0251132,,,,
-2018,Honorary(Honorifico),Winner,John Anthony Coyle,nm11515463,,,,
-2018,Honorary(Honorifico),Winner,Brad Hurndell,nm12157249,,,,
-2018,Honorary(Honorifico),Winner,Vikas Sathaye,nm12157250,,,,
-2018,Honorary(Honorifico),Winner,Jason Smith,nm1643981,,,,
-2018,Honorary(Honorifico),Winner,Jeff White,nm1578635,,,,
-2018,Honorary(Honorifico),Winner,Rachel Rose,nm4348861,,,,
-2018,Honorary(Honorifico),Winner,Mike Jutan,nm2867705,,,,
-2018,Honorary(Honorifico),Winner,Jonathan Erland,nm0259510,,,,
+2018,Honorary,Winner,Alejandro G. Iñárritu,nm0327944,,,,
+2018,Honorary,Winner,Donald Sutherland,nm0000661,,,,
+2018,Honorary,Winner,Agnès Varda,nm0889513,,,,
+2018,Honorary,Winner,Owen Roizman,nm0005845,,,,
+2018,Honorary,Winner,Charles Burnett,nm0122344,,,,
+2018,Honorary,Winner,Mark Elendt,nm6514950,,,,
+2018,Honorary,Winner,Bill Spitzak,nm0819163,,,,
+2018,Honorary,Winner,Jonathan Egstad,nm0251132,,,,
+2018,Honorary,Winner,John Anthony Coyle,nm11515463,,,,
+2018,Honorary,Winner,Brad Hurndell,nm12157249,,,,
+2018,Honorary,Winner,Vikas Sathaye,nm12157250,,,,
+2018,Honorary,Winner,Jason Smith,nm1643981,,,,
+2018,Honorary,Winner,Jeff White,nm1578635,,,,
+2018,Honorary,Winner,Rachel Rose,nm4348861,,,,
+2018,Honorary,Winner,Mike Jutan,nm2867705,,,,
+2018,Honorary,Winner,Jonathan Erland,nm0259510,,,,
 2019,BestMotionPictureoftheYear,Winner,,,Green Book,tt6966692,"['Jim Burke', 'Charles B. Wessler', 'Brian Hayes Currie', 'Peter Farrelly', 'Nick Vallelonga']","['nm0121724', 'nm0921853', 'nm0192942', 'nm0268380', 'nm0885014']"
 2019,BestMotionPictureoftheYear,Nominee,,,Infiltrado en el KKKlan,tt7349662,"['Sean McKittrick', 'Jason Blum', 'Raymond Mansfield', 'Jordan Peele', 'Spike Lee']","['nm0572014', 'nm0089658', 'nm1506448', 'nm1443502', 'nm0000490']"
 2019,BestMotionPictureoftheYear,Nominee,,,Black Panther,tt1825683,['Kevin Feige'],['nm0270559']
@@ -10430,14 +10430,14 @@
 2019,BestForeignLanguageFilmoftheYear,Nominee,,,Un asunto de familia,tt8075192,[],[]
 2019,BestForeignLanguageFilmoftheYear,Nominee,,,Cafarnaúm,tt8267604,[],[]
 2019,BestForeignLanguageFilmoftheYear,Nominee,,,Cold War,tt6543652,[],[]
-2019,Honorary(Honorifico),Winner,Marvin J. Levy,nm1297363,,,,
-2019,Honorary(Honorifico),Winner,Lalo Schifrin,nm0006277,,,,
-2019,Honorary(Honorifico),Winner,Cicely Tyson,nm0001807,,,,
-2019,Honorary(Honorifico),Winner,Frank Marshall,nm0550881,,,,
-2019,Honorary(Honorifico),Winner,Kathleen Kennedy,nm0005086,,,,
-2019,Honorary(Honorifico),Winner,Paul Debevec,nm1663206,,,,
-2019,Honorary(Honorifico),Winner,Tim Hawkins,nm3105618,,,,
-2019,Honorary(Honorifico),Winner,Curtis Clark,nm0163797,,,,
+2019,Honorary,Winner,Marvin J. Levy,nm1297363,,,,
+2019,Honorary,Winner,Lalo Schifrin,nm0006277,,,,
+2019,Honorary,Winner,Cicely Tyson,nm0001807,,,,
+2019,Honorary,Winner,Frank Marshall,nm0550881,,,,
+2019,Honorary,Winner,Kathleen Kennedy,nm0005086,,,,
+2019,Honorary,Winner,Paul Debevec,nm1663206,,,,
+2019,Honorary,Winner,Tim Hawkins,nm3105618,,,,
+2019,Honorary,Winner,Curtis Clark,nm0163797,,,,
 2020,BestMotionPictureoftheYear,Winner,,,Parásitos,tt6751668,"['Kwak Sin-ae', 'Bong Joon Ho']","['nm10113618', 'nm0094435']"
 2020,BestMotionPictureoftheYear,Nominee,,,Érase una vez en... Hollywood,tt7131622,"['David Heyman', 'Shannon McIntosh', 'Quentin Tarantino']","['nm0382268', 'nm0570690', 'nm0000233']"
 2020,BestMotionPictureoftheYear,Nominee,,,1917,tt8579674,"['Sam Mendes', 'Pippa Harris', 'Jayne-Ann Tenggren', 'Callum McDougall']","['nm0005222', 'nm0365208', 'nm0854991', 'nm0568223']"
@@ -10562,12 +10562,12 @@
 2020,BestInternationalFeatureFilm,Nominee,,,Honeyland,tt8991268,[],[]
 2020,BestInternationalFeatureFilm,Nominee,,,Los miserables,tt10199590,[],[]
 2020,BestInternationalFeatureFilm,Nominee,,,Corpus Christi,tt8649186,[],[]
-2020,Honorary(Honorifico),Winner,Wes Studi,nm0836071,,,,
-2020,Honorary(Honorifico),Winner,Lina Wertmüller,nm0921631,,,,
-2020,Honorary(Honorifico),Winner,David Lynch,nm0000186,,,,
-2020,Honorary(Honorifico),Winner,Geena Davis,nm0000133,,,,
-2020,Honorary(Honorifico),Winner,Stephen D. Bowline,nm1384202,,,,
-2020,Honorary(Honorifico),Winner,Niall Ryan,nm2915743,,,,
+2020,Honorary,Winner,Wes Studi,nm0836071,,,,
+2020,Honorary,Winner,Lina Wertmüller,nm0921631,,,,
+2020,Honorary,Winner,David Lynch,nm0000186,,,,
+2020,Honorary,Winner,Geena Davis,nm0000133,,,,
+2020,Honorary,Winner,Stephen D. Bowline,nm1384202,,,,
+2020,Honorary,Winner,Niall Ryan,nm2915743,,,,
 2021,BestMotionPictureoftheYear,Winner,,,Nomadland,tt9770150,"['Frances McDormand', 'Peter Spears', 'Mollye Asher', 'Dan Janvey', 'Chloé Zhao']","['nm0000531', 'nm0817379', 'nm2571693', 'nm1885766', 'nm2125482']"
 2021,BestMotionPictureoftheYear,Nominee,,,Mank,tt10618286,"['Ceán Chaffin', 'Eric Roth', 'Douglas Urbanski']","['nm0149556', 'nm0744839', 'nm0881703']"
 2021,BestMotionPictureoftheYear,Nominee,,,El juicio de los 7 de Chicago,tt1070874,"['Marc Platt', 'Stuart M. Besser']","['nm0686887', 'nm0078804']"
@@ -10686,8 +10686,8 @@
 2021,BestInternationalFeatureFilm,Nominee,,,Collective,tt10706602,[],[]
 2021,BestInternationalFeatureFilm,Nominee,,,Better Days,tt9586294,[],[]
 2021,BestInternationalFeatureFilm,Nominee,,,El hombre que vendió su piel,tt10360862,[],[]
-2021,Honorary(Honorifico),Winner,Motion Picture and Television Fund,,,,,
-2021,Honorary(Honorifico),Winner,Tyler Perry,nm1347153,,,,
+2021,Honorary,Winner,Motion Picture and Television Fund,,,,,
+2021,Honorary,Winner,Tyler Perry,nm1347153,,,,
 2022,BestMotionPictureoftheYear,Winner,,,CODA: Los sonidos del silencio,tt10366460,"['Philippe Rousselet', 'Fabrice Gianfermi', 'Patrick Wachsberger']","['nm0746041', 'nm1818350', 'nm0905163']"
 2022,BestMotionPictureoftheYear,Nominee,,,Belfast,tt12789558,"['Laura Berwick', 'Kenneth Branagh', 'Becca Kovacik', 'Tamar Thomas']","['nm2233031', 'nm0000110', 'nm2228812', 'nm0859561']"
 2022,BestMotionPictureoftheYear,Nominee,,,West Side Story,tt3581652,"['Steven Spielberg', 'Kristie Macosko Krieger']","['nm0000229', 'nm1069736']"
@@ -10808,10 +10808,10 @@
 2022,BestInternationalFeatureFilm,Nominee,,,La peor persona del mundo,tt10370710,[],[]
 2022,BestInternationalFeatureFilm,Nominee,,,Fue la mano de Dios,tt12680684,[],[]
 2022,BestInternationalFeatureFilm,Nominee,,,Flee,tt8430054,[],[]
-2022,Honorary(Honorifico),Winner,Liv Ullmann,nm0880521,,,,
-2022,Honorary(Honorifico),Winner,Elaine May,nm0561938,,,,
-2022,Honorary(Honorifico),Winner,Samuel L. Jackson,nm0000168,,,,
-2022,Honorary(Honorifico),Winner,Danny Glover,nm0000418,,,,
+2022,Honorary,Winner,Liv Ullmann,nm0880521,,,,
+2022,Honorary,Winner,Elaine May,nm0561938,,,,
+2022,Honorary,Winner,Samuel L. Jackson,nm0000168,,,,
+2022,Honorary,Winner,Danny Glover,nm0000418,,,,
 2022,Especiales,Winner,,,La Liga de la Justicia de Zack Snyder,tt12361974,,
 2022,Especiales,Winner,,,Ejército de los muertos,tt0993840,,
 2023,BestMotionPictureoftheYear,Winner,,,Todo a la vez en todas partes,tt6710474,"['Daniel Kwan', 'Daniel Scheinert', 'Jonathan Wang']","['nm3453283', 'nm3215397', 'nm4139352']"
@@ -10934,18 +10934,18 @@
 2023,BestInternationalFeatureFilm,Nominee,,,Close,tt9660502,[],[]
 2023,BestInternationalFeatureFilm,Nominee,,,The Quiet Girl,tt15109082,[],[]
 2023,BestInternationalFeatureFilm,Nominee,,,EO,tt19652910,[],[]
-2023,Honorary(Honorifico),Winner,Diane Warren,nm0005534,,,,
-2023,Honorary(Honorifico),Winner,Euzhan Palcy,nm0657484,,,,
-2023,Honorary(Honorifico),Winner,Peter Weir,nm0001837,,,,
-2023,Honorary(Honorifico),Winner,Ryan Laney,nm0485642,,,,
-2023,Honorary(Honorifico),Winner,Michael J. Fox,nm0000150,,,,
-2023,Honorary(Honorifico),Winner,Howard Preston,nm0696426,,,,
-2023,Honorary(Honorifico),Winner,David Eberle,nm3374991,,,,
-2023,Honorary(Honorifico),Winner,Theodore Kim,nm14718133,,,,
-2023,Honorary(Honorifico),Winner,Fernando de Goes,nm12338819,,,,
-2023,Honorary(Honorifico),Winner,Audrey Wong,nm2937648,,,,
-2023,Honorary(Honorifico),Winner,Howard Jensen,nm0421479,,,,
-2023,Honorary(Honorifico),Winner,Iain Neil,nm7052364,,,,
+2023,Honorary,Winner,Diane Warren,nm0005534,,,,
+2023,Honorary,Winner,Euzhan Palcy,nm0657484,,,,
+2023,Honorary,Winner,Peter Weir,nm0001837,,,,
+2023,Honorary,Winner,Ryan Laney,nm0485642,,,,
+2023,Honorary,Winner,Michael J. Fox,nm0000150,,,,
+2023,Honorary,Winner,Howard Preston,nm0696426,,,,
+2023,Honorary,Winner,David Eberle,nm3374991,,,,
+2023,Honorary,Winner,Theodore Kim,nm14718133,,,,
+2023,Honorary,Winner,Fernando de Goes,nm12338819,,,,
+2023,Honorary,Winner,Audrey Wong,nm2937648,,,,
+2023,Honorary,Winner,Howard Jensen,nm0421479,,,,
+2023,Honorary,Winner,Iain Neil,nm7052364,,,,
 2024,BestMotionPictureoftheYear,Winner,,,Oppenheimer,tt15398776,"['Emma Thomas', 'Charles Roven', 'Christopher Nolan']","['nm0858799', 'nm0746273', 'nm0634240']"
 2024,BestMotionPictureoftheYear,Nominee,,,Barbie,tt1517268,"['David Heyman', 'Margot Robbie', 'Tom Ackerley', 'Robbie Brenner']","['nm0382268', 'nm3053338', 'nm3943537', 'nm0107509']"
 2024,BestMotionPictureoftheYear,Nominee,,,Los asesinos de la luna,tt5537002,"['Dan Friedkin', 'Bradley Thomas', 'Martin Scorsese', 'Daniel Lupi']","['nm6679051', 'nm0858554', 'nm0000217', 'nm0526917']"
@@ -11066,12 +11066,12 @@
 2024,BestInternationalFeatureFilm,Nominee,,,Yo capitán,tt14225838,[],[]
 2024,BestInternationalFeatureFilm,Nominee,,,Perfect Days,tt27503384,[],[]
 2024,BestInternationalFeatureFilm,Nominee,,,La sociedad de la nieve,tt16277242,[],[]
-2024,Honorary(Honorifico),Winner,Carol Littleton,nm0514746,,,,
-2024,Honorary(Honorifico),Winner,Mel Brooks,nm0000316,,,,
-2024,Honorary(Honorifico),Winner,Angela Bassett,nm0000291,,,,
-2024,Honorary(Honorifico),Winner,Michelle Satter,nm0766385,,,,
-2024,Honorary(Honorifico),Winner,Ken Museth,nm3093155,,,,
-2024,Honorary(Honorifico),Winner,Jon G. Belyeu,nm0069781,,,,
-2024,Honorary(Honorifico),Winner,James Eggleton,nm1271684,,,,
-2024,Honorary(Honorifico),Winner,Delwyn Holroyd,nm6153536,,,,
-2024,Honorary(Honorifico),Winner,Arnold Peterson,nm0677009,,,,
+2024,Honorary,Winner,Carol Littleton,nm0514746,,,,
+2024,Honorary,Winner,Mel Brooks,nm0000316,,,,
+2024,Honorary,Winner,Angela Bassett,nm0000291,,,,
+2024,Honorary,Winner,Michelle Satter,nm0766385,,,,
+2024,Honorary,Winner,Ken Museth,nm3093155,,,,
+2024,Honorary,Winner,Jon G. Belyeu,nm0069781,,,,
+2024,Honorary,Winner,James Eggleton,nm1271684,,,,
+2024,Honorary,Winner,Delwyn Holroyd,nm6153536,,,,
+2024,Honorary,Winner,Arnold Peterson,nm0677009,,,,
