@@ -1,7 +1,9 @@
 # premiosCine
 Proyecto para extraer datos de premios de cine y explotarlos.
 
-Consta de dos partes: la primera, imdbScrapping, incluye tanto el scrapping de los premios desde imdb (probado con Goya y Oscar) como el enriquecimiento de estos datos con la API de TMDB; la segunda, de explotación de estos datos con un proyecto de Power BI, está todavía por realizar, pero iría en otra carpeta.
+Consta de dos partes: la primera, imdbScrapping, incluye tanto el scrapping de los premios desde imdb (probado con Goya y Oscar) como el enriquecimiento de estos datos con la API de TMDB
+
+La segunda, de explotación de estos datos con un proyecto de Power BI, incuye tanto el pbix como los datasets organizados de forma que se actualicen automáticamente desde PBI.
 
 # imdbScrapping
 
